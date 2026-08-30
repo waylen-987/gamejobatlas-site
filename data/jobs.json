@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T10:00:01.345Z",
+  "generatedAt": "2026-08-30T10:30:01.578Z",
   "summary": {
     "activeJobs": 374,
     "internships": 195,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-08-30T10:00:01.345Z",
+      "checkedAt": "2026-08-30T10:30:01.578Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 273,
-      "checkedAt": "2026-08-30T10:00:01.345Z",
+      "checkedAt": "2026-08-30T10:30:01.578Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-08-30T10:00:01.345Z",
+      "checkedAt": "2026-08-30T10:30:01.578Z",
       "error": null
     }
   ],
