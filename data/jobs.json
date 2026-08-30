@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T14:00:01.611Z",
+  "generatedAt": "2026-08-30T14:30:01.621Z",
   "summary": {
     "activeJobs": 374,
     "internships": 195,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-08-30T14:00:01.611Z",
+      "checkedAt": "2026-08-30T14:30:01.621Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 273,
-      "checkedAt": "2026-08-30T14:00:01.611Z",
+      "checkedAt": "2026-08-30T14:30:01.621Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-08-30T14:00:01.611Z",
+      "checkedAt": "2026-08-30T14:30:01.621Z",
       "error": null
     }
   ],
@@ -5921,7 +5921,7 @@
       "firstSeen": "8/28",
       "verified": "8/30",
       "deadline": "截止时间未公布",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#13a77d",
       "summary": "加入网易游戏互娱，你将接触历经大量顶级项目反复验证的行业领先方法论体系，从立项到上线全程深度参与，配套成熟的项目管理培养体系与丰富带教资源，助你实现快速成长。 在这里，您可以： 1. 与顶尖创意团队并肩作战：携手最具创造力的游戏制作团队，见证伟大游戏诞生的同时，引入前沿效率工具赋能团队，释放创作者潜能； 2. 以智能驱动高效交付：融合传统管理智慧与智能...",
