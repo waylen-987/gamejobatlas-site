@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T13:00:01.358Z",
+  "generatedAt": "2026-08-30T13:30:01.675Z",
   "summary": {
     "activeJobs": 374,
     "internships": 195,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-08-30T13:00:01.358Z",
+      "checkedAt": "2026-08-30T13:30:01.675Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 273,
-      "checkedAt": "2026-08-30T13:00:01.358Z",
+      "checkedAt": "2026-08-30T13:30:01.675Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-08-30T13:00:01.358Z",
+      "checkedAt": "2026-08-30T13:30:01.675Z",
       "error": null
     }
   ],
@@ -5541,7 +5541,7 @@
       "firstSeen": "8/28",
       "verified": "8/30",
       "deadline": "截止时间未公布",
-      "offset": 76,
+      "offset": 75,
       "width": 28,
       "color": "#13a77d",
       "summary": "网易互娱持续在不同领域推出爆款游戏，已创造一系列旗舰IP与热门产品，如《梦幻西游》《大话西游》系列、《阴阳师》、《燕云十六声》《蛋仔派对》《第五人格》《荒野行动》《率土之滨》《世界之外》等，并将有更多品质新作即将呈现。 加入网易游戏互娱，你将体验内容驱动的营销模式，从渠道策略到发行执行、从内容推广到用户增长，全链路操盘的锻炼让你从执行者成长为操盘手，你...",
@@ -5801,7 +5801,7 @@
       "firstSeen": "8/28",
       "verified": "8/30",
       "deadline": "截止时间未公布",
-      "offset": 66,
+      "offset": 65,
       "width": 28,
       "color": "#13a77d",
       "summary": "您可以： - 加入网易游戏人工智能实验室，从事机器学习和深度学习在游戏中的自然语言处理、LLM&多模态大模型、3D建模、3D视觉&图形图像、2D&多模态、游戏智能体等领域的研究和开发工作； - 和国内最顶级的游戏研发团队一起工作，解决AI技术在游戏落地中的各种挑战性问题，打造更智能和趣味的游戏世界； - 参与具体框架的搭建，包括算法的实现优化以及系统研...",
@@ -5861,7 +5861,7 @@
       "firstSeen": "8/28",
       "verified": "8/30",
       "deadline": "截止时间未公布",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#377dff",
       "summary": "About the Hiring Team What the Role Entails ABOUT LEVEL INFINITE Level Infinite is Tencent Games' global publishing label, bringing world-class gaming experiences to players acr...",
