@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-01T05:34:13.879Z",
+  "generatedAt": "2026-09-01T06:04:13.893Z",
   "summary": {
     "activeJobs": 788,
     "internships": 338,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 273,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 107,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 86,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 89,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 20,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-01T05:34:13.879Z",
+      "checkedAt": "2026-09-01T06:04:13.893Z",
       "error": null
     }
   ],
@@ -273,7 +273,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680101443412887844/detail"
@@ -1318,7 +1318,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 76,
+      "offset": 75,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679557966277724425/detail"
@@ -1337,7 +1337,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 76,
+      "offset": 75,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679552113555360051/detail"
@@ -6657,7 +6657,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 69,
+      "offset": 68,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7678602765958875401/detail"
@@ -7113,7 +7113,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 63,
+      "offset": 62,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7677789951722883347/detail"
@@ -7607,7 +7607,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939947783538950/detail"
@@ -7626,7 +7626,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939593599076614/detail"
@@ -7645,7 +7645,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939550350723334/detail"
@@ -7664,7 +7664,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674938979024455987/detail"
@@ -7683,7 +7683,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674938261186267418/detail"
@@ -7702,7 +7702,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674937969882974491/detail"
@@ -7721,7 +7721,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674937095375407398/detail"
@@ -7740,7 +7740,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 42,
+      "offset": 41,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674935791106623782/detail"
@@ -10248,7 +10248,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 31,
+      "offset": 30,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673444808484423974/detail"
@@ -10647,7 +10647,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 28,
+      "offset": 27,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail"
@@ -10666,7 +10666,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 28,
+      "offset": 27,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673041613987481866/detail"
@@ -10989,7 +10989,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672229030028298542/detail"
@@ -11008,7 +11008,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672228435758844170/detail"
@@ -11027,7 +11027,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227795002853651/detail"
@@ -11046,7 +11046,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227387145390382/detail"
@@ -11065,7 +11065,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227100749596955/detail"
