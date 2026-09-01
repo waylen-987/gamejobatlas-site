@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-01T04:34:13.863Z",
+  "generatedAt": "2026-09-01T05:04:13.870Z",
   "summary": {
     "activeJobs": 788,
     "internships": 338,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 273,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 107,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 86,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 89,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 20,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-01T04:34:13.863Z",
+      "checkedAt": "2026-09-01T05:04:13.870Z",
       "error": null
     }
   ],
@@ -292,7 +292,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087848841742634/detail"
@@ -311,7 +311,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087369740437810/detail"
@@ -6885,7 +6885,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 66,
+      "offset": 65,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7678180065524009259/detail"
@@ -10685,7 +10685,7 @@
       "firstSeen": "8/31",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 28,
+      "offset": 27,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673021663253416255/detail"
@@ -10723,7 +10723,7 @@
       "firstSeen": "8/28",
       "verified": "9/1",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
