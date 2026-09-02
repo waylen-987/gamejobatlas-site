@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T12:48:02.242Z",
+  "generatedAt": "2026-09-02T13:18:02.111Z",
   "summary": {
     "activeJobs": 791,
     "internships": 342,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 267,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 111,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 83,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 90,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-02T12:48:02.242Z",
+      "checkedAt": "2026-09-02T13:18:02.111Z",
       "error": null
     }
   ],
@@ -222,6 +222,63 @@
   ],
   "jobs": [
     {
+      "id": "netease-199a29d097f5",
+      "company": "网易游戏",
+      "short": "NTES",
+      "role": "平台产品经理",
+      "category": "综合职能",
+      "city": "广州、新加坡",
+      "type": "网易互娱2027届校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "8/28",
+      "verified": "9/2",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#13a77d",
+      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
+    },
+    {
+      "id": "netease-013c5db33889",
+      "company": "网易游戏",
+      "short": "NTES",
+      "role": "Application Product Manager",
+      "category": "综合职能",
+      "city": "新加坡",
+      "type": "网易互娱2027届校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "8/28",
+      "verified": "9/2",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#13a77d",
+      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
+    },
+    {
+      "id": "netease-d3597d484d41",
+      "company": "网易游戏",
+      "short": "NTES",
+      "role": "品牌管理培训生",
+      "category": "游戏运营",
+      "city": "杭州、上海、广州",
+      "type": "网易互娱2027届校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "8/28",
+      "verified": "9/2",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#13a77d",
+      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
+    },
+    {
       "id": "netease-a9042c340cf4",
       "company": "网易游戏",
       "short": "NTES",
@@ -330,7 +387,7 @@
       "firstSeen": "9/2",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680855573726529846/detail"
@@ -539,7 +596,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 76,
+      "offset": 75,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7680038626201536810/detail"
@@ -558,7 +615,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 76,
+      "offset": 75,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7680037868295145774/detail"
@@ -7303,7 +7360,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 46,
+      "offset": 45,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675966011752925490/detail"
@@ -7364,25 +7421,6 @@
       "width": 28,
       "color": "#2677d9",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/ce78dc3b-c65e-4482-88bf-1555e08cf26a"
-    },
-    {
-      "id": "netease-199a29d097f5",
-      "company": "网易游戏",
-      "short": "NTES",
-      "role": "平台产品经理",
-      "category": "综合职能",
-      "city": "广州、新加坡",
-      "type": "网易互娱2027届校园招聘",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官方招聘中",
-      "firstSeen": "8/28",
-      "verified": "9/2",
-      "deadline": "截止时间未公布",
-      "offset": 41,
-      "width": 28,
-      "color": "#13a77d",
-      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
     },
     {
       "id": "feishu-boke-2ea62ccd468d",
@@ -8025,7 +8063,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674879778361035046/detail"
@@ -8044,7 +8082,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674879661679085834/detail"
@@ -8063,7 +8101,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674879354396346687/detail"
@@ -8082,7 +8120,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7674879318938306859/detail"
@@ -8101,7 +8139,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674878862292453695/detail"
@@ -8120,7 +8158,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674878779688978742/detail"
@@ -8139,7 +8177,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674878428868905252/detail"
@@ -8158,7 +8196,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674877884809103642/detail"
@@ -8177,7 +8215,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674877866412493107/detail"
@@ -9868,7 +9906,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 30,
+      "offset": 29,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673798587797244211/detail"
@@ -9887,7 +9925,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 30,
+      "offset": 29,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673793809051076906/detail"
@@ -9906,7 +9944,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 30,
+      "offset": 29,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673791360928074011/detail"
@@ -9925,7 +9963,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 30,
+      "offset": 29,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673791008376047881/detail"
@@ -10273,25 +10311,6 @@
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
     },
     {
-      "id": "netease-d3597d484d41",
-      "company": "网易游戏",
-      "short": "NTES",
-      "role": "品牌管理培训生",
-      "category": "游戏运营",
-      "city": "杭州、上海、广州",
-      "type": "网易互娱2027届校园招聘",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官方招聘中",
-      "firstSeen": "8/28",
-      "verified": "9/2",
-      "deadline": "截止时间未公布",
-      "offset": 27,
-      "width": 28,
-      "color": "#13a77d",
-      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
-    },
-    {
       "id": "feishu-lilith-c8c9e8eae637",
       "company": "莉莉丝",
       "short": "LLS",
@@ -10419,7 +10438,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 25,
+      "offset": 24,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673119268296313129/detail"
@@ -10824,25 +10843,6 @@
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
     },
     {
-      "id": "netease-013c5db33889",
-      "company": "网易游戏",
-      "short": "NTES",
-      "role": "Application Product Manager",
-      "category": "综合职能",
-      "city": "新加坡",
-      "type": "网易互娱2027届校园招聘",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官方招聘中",
-      "firstSeen": "8/28",
-      "verified": "9/2",
-      "deadline": "截止时间未公布",
-      "offset": 21,
-      "width": 28,
-      "color": "#13a77d",
-      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
-    },
-    {
       "id": "netease-beeb8a45624c",
       "company": "网易游戏",
       "short": "NTES",
@@ -10970,7 +10970,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7672303394326120755/detail"
@@ -11426,7 +11426,7 @@
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 5,
+      "offset": 4,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -11445,7 +11445,7 @@
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 5,
+      "offset": 4,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
