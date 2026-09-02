@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T09:18:02.285Z",
+  "generatedAt": "2026-09-02T09:48:02.344Z",
   "summary": {
-    "activeJobs": 787,
-    "internships": 339,
+    "activeJobs": 788,
+    "internships": 340,
     "campusJobs": 448,
     "companies": 10,
     "healthySources": 10,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 267,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -42,8 +42,8 @@
       "name": "波克城市校招（飞书）",
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
-      "jobCount": 109,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "jobCount": 110,
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 83,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 88,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-02T09:18:02.285Z",
+      "checkedAt": "2026-09-02T09:48:02.344Z",
       "error": null
     }
   ],
@@ -1394,7 +1394,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7679707020065655078/detail"
@@ -6619,7 +6619,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 66,
+      "offset": 65,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7678630224095578419/detail"
@@ -7151,7 +7151,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 58,
+      "offset": 57,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7677541970961565998/detail"
@@ -7569,7 +7569,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674961082196740361/detail"
@@ -14242,6 +14242,25 @@
       "width": 28,
       "color": "#2677d9",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/d0343818-1477-4527-8e9c-ca0234a704a1"
+    },
+    {
+      "id": "feishu-boke-1c3ca4fcf241",
+      "company": "波克城市",
+      "short": "BOKE",
+      "role": "2027/28届实习-HR实习生",
+      "category": "综合职能",
+      "city": "上海",
+      "type": "2027届实习",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/2",
+      "verified": "9/2",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#1f9d68",
+      "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7615100453810866451/detail"
     },
     {
       "id": "feishu-wepie-a9241be741ef",
