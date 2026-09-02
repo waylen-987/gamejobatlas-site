@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T03:30:01.358Z",
+  "generatedAt": "2026-09-02T03:48:02.294Z",
   "summary": {
     "activeJobs": 789,
     "internships": 339,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 268,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 87,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 89,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T03:30:01.358Z",
+      "checkedAt": "2026-09-02T03:48:02.294Z",
       "error": null
     }
   ],
@@ -444,7 +444,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/910db712-960e-4e66-85e5-8005c76527b5"
@@ -463,7 +463,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/729341ce-fcf2-4ef5-9fea-29856a63e3fe"
@@ -482,7 +482,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/97bc1b67-5408-45ff-8d9f-71078524a79c"
@@ -501,7 +501,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/c71cd2c4-493d-49fc-9054-37e4c380a9b6"
@@ -520,7 +520,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/35c4a48f-5f6d-4a38-8366-db9f4af9640e"
@@ -539,7 +539,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/58cd717b-318c-4f9e-b9f1-783a9a856679"
@@ -558,7 +558,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/ea4744a3-c132-42f1-b839-3d6b5d5317a8"
@@ -577,7 +577,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/dfa24d38-444b-4c90-be8b-38e256592fcc"
@@ -596,7 +596,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/db5f6ec4-872e-4f93-a76e-d412bf5b0273"
@@ -615,7 +615,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/7d0491f0-ed55-4685-b7bc-dec572a3af34"
@@ -634,7 +634,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/7ae373ee-42dd-4cf7-8547-b99ad5d750e9"
@@ -653,7 +653,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/cc0a65cc-74ac-48df-8d42-3a38038805ac"
@@ -672,7 +672,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/1046bae2-328b-4589-aa46-ded81dc00045"
@@ -691,7 +691,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/b1023dad-0fe4-4b71-83fb-ad8d4b60fce5"
@@ -710,7 +710,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/95c73bce-75b8-41c8-9206-b4e15f0711ec"
@@ -729,7 +729,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/8c643110-72b3-4e0a-825e-e3b1f2a2a94f"
@@ -748,7 +748,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/097ddf86-39ea-4803-9d5f-69c8523c5c35"
@@ -767,7 +767,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/309cec13-4126-4368-a8c8-14b5b20fdc99"
@@ -786,7 +786,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/b1fec6c2-4dd4-4097-be3f-11e1dd60d47d"
@@ -805,7 +805,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/91b97cf9-005c-40ea-b09c-a79229ed98b9"
@@ -824,7 +824,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/82b82fbe-aad9-43f8-b3f5-55ad267c16a4"
@@ -843,7 +843,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/28169d30-880f-4522-acaf-5dcb6404beb1"
@@ -862,7 +862,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/d5a88da1-fb79-410d-ba51-da08f16bcd9d"
@@ -881,7 +881,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/06855e6b-421f-4b22-9b81-3df960a8cac4"
@@ -900,7 +900,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/ac817e8d-9ba1-4cc1-8689-5dab910165f3"
@@ -919,7 +919,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/388d2767-72c0-457f-a4be-475a6f6ca586"
@@ -938,7 +938,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/9744b10a-8daf-4c33-aeb1-9f0bef30c914"
@@ -957,7 +957,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/031e3761-83ef-403f-910a-b9588c940522"
@@ -976,7 +976,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/3c29321f-c0ad-41e9-aa64-6e2a39deaff7"
@@ -995,7 +995,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/6de9590c-ffb3-4640-bc61-fe632bc139b6"
@@ -1014,7 +1014,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/d40901cf-ce8e-48da-a268-303261f3cb26"
@@ -1033,7 +1033,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/ca1f956d-b63b-43a9-8baa-4e34f4fec0a2"
@@ -1052,7 +1052,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/154d6011-8491-457b-9d0f-3eb398f68296"
@@ -1071,7 +1071,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/c8ab47b2-16d9-45c2-a0a7-71d6bd1f8e12"
@@ -1090,7 +1090,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/314e144f-a424-49a5-81df-bb3c9886c21c"
@@ -1109,7 +1109,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/1abd2a83-26f8-43d3-be05-8b9d88a9d06d"
@@ -1128,7 +1128,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/555846b1-35ea-40e6-b9e3-9e67ca1847c4"
@@ -1147,7 +1147,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/041d513f-e8c4-4894-aed5-03db56898f87"
@@ -1166,7 +1166,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/b32c3758-f156-4c63-93b6-f39598826667"
@@ -1185,7 +1185,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/a14c79e1-9db7-4e4c-836c-b679cb785e0d"
@@ -1204,7 +1204,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/8d36c382-70d4-4832-aa9a-aa8585bf4d21"
@@ -1223,7 +1223,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/60e57d34-e7af-45f8-b1c4-a5bf391d13b9"
@@ -1242,7 +1242,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/1ffced06-ab00-4250-9495-a7a8d5db68e6"
@@ -1261,7 +1261,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/90216793-b228-44b0-bb9c-0a28716d65c0"
@@ -1280,7 +1280,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/8c070d4b-41e7-4d8e-b696-b8541bfdd121"
@@ -1299,7 +1299,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/a26f4db3-de59-4579-ac61-a3573d299321"
@@ -1318,7 +1318,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/ec75be9b-77a2-4471-97a3-6d999bd83370"
@@ -1337,7 +1337,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/d34a5c27-9901-43d0-8ff3-f1386d2d18ff"
@@ -6899,8 +6899,8 @@
       "city": "上海",
       "type": "日常实习",
       "recruitmentKind": "internship",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -6918,8 +6918,8 @@
       "city": "广州",
       "type": "校招储备实习",
       "recruitmentKind": "internship",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -7113,7 +7113,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 61,
+      "offset": 60,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7677859640146692415/detail"
@@ -9963,7 +9963,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 31,
+      "offset": 30,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673783252125747506/detail"
@@ -10533,7 +10533,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673106624861833513/detail"
@@ -10552,7 +10552,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673107124502907162/detail"
@@ -10571,7 +10571,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673106066469816618/detail"
@@ -10590,7 +10590,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673105644811651355/detail"
@@ -10609,7 +10609,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673104907066722606/detail"
@@ -10628,7 +10628,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 26,
+      "offset": 25,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673103561928182079/detail"
