@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T02:48:01.908Z",
+  "generatedAt": "2026-09-02T03:00:00.608Z",
   "summary": {
     "activeJobs": 789,
     "internships": 339,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -24,8 +24,8 @@
       "name": "米哈游招聘",
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
-      "jobCount": 271,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "jobCount": 268,
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 87,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 89,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T02:48:01.908Z",
+      "checkedAt": "2026-09-02T03:00:00.608Z",
       "error": null
     }
   ],
@@ -244,7 +244,7 @@
       "id": "feishu-wepie-d1319f8d3ef8",
       "company": "微派网络",
       "short": "WEPIE",
-      "role": "游戏策划实习生（揽月）",
+      "role": "游戏策划实习生（可转正）",
       "category": "游戏策划",
       "city": "武汉",
       "type": "实习招聘",
@@ -3594,7 +3594,7 @@
       "type": "2027届秋招",
       "recruitmentKind": "campus",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "10/31",
@@ -3613,7 +3613,7 @@
       "type": "2027届秋招",
       "recruitmentKind": "campus",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "10/31",
@@ -3632,7 +3632,7 @@
       "type": "2027届秋招",
       "recruitmentKind": "campus",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "10/31",
@@ -6600,7 +6600,7 @@
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 69,
+      "offset": 68,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -6937,8 +6937,8 @@
       "city": "广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -6956,8 +6956,8 @@
       "city": "杭州、广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -6975,8 +6975,8 @@
       "city": "广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -6994,8 +6994,8 @@
       "city": "杭州、广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -7013,8 +7013,8 @@
       "city": "广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -7032,8 +7032,8 @@
       "city": "广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -7051,8 +7051,8 @@
       "city": "广州",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -7284,7 +7284,7 @@
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 43,
+      "offset": 42,
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Brand-Marketing-Intern_R107926-1"
@@ -7303,7 +7303,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 43,
+      "offset": 42,
       "width": 28,
       "color": "#2677d9",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/ce78dc3b-c65e-4482-88bf-1555e08cf26a"
@@ -10172,7 +10172,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 31,
+      "offset": 30,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673773451304487204/detail"
@@ -10191,7 +10191,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 31,
+      "offset": 30,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673773053021669641/detail"
