@@ -1,3 +1,3 @@
 :HL["/gamejobatlas-site/_next/static/css/b86b764b626f0b8c.css","style"]
 :HL["/gamejobatlas-site/_next/static/css/afbe91933c561646.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"tgBe-FJvH1QX0oT7QWAlq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kJrjXKFnaR4DIVHfwFDzp"}
