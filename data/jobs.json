@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T06:48:02.239Z",
+  "generatedAt": "2026-09-02T07:18:02.251Z",
   "summary": {
     "activeJobs": 790,
     "internships": 340,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -24,8 +24,8 @@
       "name": "米哈游招聘",
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
-      "jobCount": 268,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "jobCount": 267,
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -51,8 +51,8 @@
       "name": "库洛游戏校招（飞书）",
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
-      "jobCount": 87,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "jobCount": 83,
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -60,8 +60,8 @@
       "name": "莉莉丝校招与实习（飞书）",
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
-      "jobCount": 89,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "jobCount": 88,
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-02T06:48:02.239Z",
+      "checkedAt": "2026-09-02T07:18:02.251Z",
       "error": null
     }
   ],
@@ -273,7 +273,7 @@
       "firstSeen": "9/1",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7680487023816395059/detail"
@@ -2568,7 +2568,7 @@
       "type": "2027届秋招",
       "recruitmentKind": "campus",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/28",
       "verified": "9/2",
       "deadline": "10/31",
@@ -6880,8 +6880,8 @@
       "city": "上海",
       "type": "日常实习",
       "recruitmentKind": "internship",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -6923,7 +6923,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 63,
+      "offset": 62,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7678180065524009259/detail"
@@ -6942,7 +6942,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 63,
+      "offset": 62,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7678179340009589011/detail"
@@ -9260,7 +9260,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 31,
+      "offset": 30,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673832388660922666/detail"
@@ -10723,7 +10723,7 @@
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
-      "offset": 25,
+      "offset": 24,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673021663253416255/detail"
@@ -13322,7 +13322,7 @@
       "type": "日常实习",
       "recruitmentKind": "internship",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -13683,7 +13683,7 @@
       "type": "校招储备实习",
       "recruitmentKind": "internship",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -14025,7 +14025,7 @@
       "type": "校招储备实习",
       "recruitmentKind": "internship",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -14709,7 +14709,7 @@
       "type": "校招储备实习",
       "recruitmentKind": "internship",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
@@ -14766,7 +14766,7 @@
       "type": "校招储备实习",
       "recruitmentKind": "internship",
       "status": "open",
-      "statusLabel": "官方招聘中",
+      "statusLabel": "官网暂时未检出，正在复核",
       "firstSeen": "8/31",
       "verified": "9/2",
       "deadline": "截止时间未公布",
