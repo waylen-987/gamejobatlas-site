@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-03T10:31:02.000Z",
+  "generatedAt": "2026-09-03T11:01:02.533Z",
   "summary": {
-    "activeJobs": 782,
-    "internships": 336,
+    "activeJobs": 783,
+    "internships": 337,
     "campusJobs": 446,
     "companies": 10,
     "healthySources": 10,
@@ -16,7 +16,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 265,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 58,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 111,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 84,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 90,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     },
     {
@@ -96,8 +96,8 @@
       "name": "巨人网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
-      "jobCount": 42,
-      "checkedAt": "2026-09-03T10:31:02.000Z",
+      "jobCount": 43,
+      "checkedAt": "2026-09-03T11:01:02.533Z",
       "error": null
     }
   ],
@@ -222,6 +222,25 @@
   ],
   "jobs": [
     {
+      "id": "moka-ztgame-07f6b45f3ced",
+      "company": "巨人网络",
+      "short": "GIANT",
+      "role": "市场策划实习生",
+      "category": "游戏策划",
+      "city": "地点未公布",
+      "type": "2027届实习转正",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/3",
+      "verified": "9/3",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#ea7b32",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/1c4a68c8-7884-4523-83e7-ed60251d686c"
+    },
+    {
       "id": "feishu-lilith-b8eae2b93eb8",
       "company": "莉莉丝",
       "short": "LLS",
@@ -292,7 +311,7 @@
       "firstSeen": "8/28",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -311,7 +330,7 @@
       "firstSeen": "8/28",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -330,7 +349,7 @@
       "firstSeen": "8/28",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -349,7 +368,7 @@
       "firstSeen": "8/28",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -596,7 +615,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680101443412887844/detail"
@@ -1253,7 +1272,7 @@
       "short": "GIANT",
       "role": "游戏系统策划实习生",
       "category": "游戏策划",
-      "city": "地点未公布",
+      "city": "上海",
       "type": "2027届实习转正",
       "recruitmentKind": "internship",
       "status": "open",
@@ -1622,7 +1641,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 70,
+      "offset": 69,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679557368845469971/detail"
@@ -1641,7 +1660,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 70,
+      "offset": 69,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679557966277724425/detail"
@@ -1660,7 +1679,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 70,
+      "offset": 69,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679552113555360051/detail"
@@ -10723,7 +10742,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail"
@@ -10742,7 +10761,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673041613987481866/detail"
@@ -11027,7 +11046,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 16,
+      "offset": 15,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7672229515678959878/detail"
@@ -11046,7 +11065,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 16,
+      "offset": 15,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672229030028298542/detail"
@@ -11065,7 +11084,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 16,
+      "offset": 15,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672228435758844170/detail"
@@ -11084,7 +11103,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 16,
+      "offset": 15,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227795002853651/detail"
@@ -11103,7 +11122,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 16,
+      "offset": 15,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227387145390382/detail"
@@ -11122,7 +11141,7 @@
       "firstSeen": "8/31",
       "verified": "9/3",
       "deadline": "截止时间未公布",
-      "offset": 16,
+      "offset": 15,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227100749596955/detail"
