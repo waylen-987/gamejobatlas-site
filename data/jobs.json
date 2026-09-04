@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T06:58:55.868Z",
+  "generatedAt": "2026-09-04T07:28:55.717Z",
   "summary": {
-    "activeJobs": 1266,
-    "internships": 485,
-    "campusJobs": 781,
-    "companies": 35,
-    "healthySources": 35,
+    "activeJobs": 1298,
+    "internships": 495,
+    "campusJobs": 803,
+    "companies": 36,
+    "healthySources": 39,
     "totalSources": 46,
     "recentlyClosed": 24
   },
@@ -17,7 +17,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 266,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 58,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 111,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 84,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -61,8 +61,8 @@
       "name": "莉莉丝校招与实习（飞书）",
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
-      "jobCount": 89,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "jobCount": 90,
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -97,8 +97,8 @@
       "name": "巨人网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
-      "jobCount": 43,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "jobCount": 44,
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/37/58016",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -116,16 +116,17 @@
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
       "key": "moka-leyuansu",
       "name": "乐元素校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
-      "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "ok": true,
+      "jobCount": 30,
+      "checkedAt": "2026-09-04T07:28:55.717Z",
+      "error": null
     },
     {
       "key": "moka-garena",
@@ -133,7 +134,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
       "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -142,7 +143,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
       "ok": true,
       "jobCount": 70,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -150,7 +151,7 @@
       "name": "延趣游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xmyanquhr/74333",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -159,7 +160,7 @@
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -168,7 +169,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
       "ok": true,
       "jobCount": 70,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -177,7 +178,7 @@
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -185,7 +186,7 @@
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -194,7 +195,7 @@
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -203,7 +204,7 @@
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
       "ok": true,
       "jobCount": 36,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -212,7 +213,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -221,7 +222,7 @@
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
       "ok": true,
       "jobCount": 34,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -230,7 +231,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
       "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -239,7 +240,7 @@
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
       "ok": true,
       "jobCount": 18,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -248,7 +249,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -257,7 +258,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -266,16 +267,17 @@
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
       "key": "moka-xingjia",
       "name": "广州星嘉校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
-      "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "ok": true,
+      "jobCount": 0,
+      "checkedAt": "2026-09-04T07:28:55.717Z",
+      "error": null
     },
     {
       "key": "moka-yyxx",
@@ -283,7 +285,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -292,7 +294,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -301,7 +303,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -310,7 +312,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -319,7 +321,7 @@
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -328,31 +330,33 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
       "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
       "key": "moka-droidhang",
       "name": "卓杭科技校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
-      "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "ok": true,
+      "jobCount": 0,
+      "checkedAt": "2026-09-04T07:28:55.717Z",
+      "error": null
     },
     {
       "key": "moka-lovegames",
       "name": "乐府互娱校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
-      "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "ok": true,
+      "jobCount": 0,
+      "checkedAt": "2026-09-04T07:28:55.717Z",
+      "error": null
     },
     {
       "key": "moka-digisky",
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -360,7 +364,7 @@
       "name": "哈乐沃德校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/hellowdtest/38235",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -369,7 +373,7 @@
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -377,7 +381,7 @@
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -386,7 +390,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     },
     {
@@ -394,7 +398,7 @@
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -402,7 +406,7 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -411,7 +415,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-04T06:58:55.868Z",
+      "checkedAt": "2026-09-04T07:28:55.717Z",
       "error": null
     }
   ],
@@ -556,6 +560,19 @@
       "offset": 2,
       "width": 94,
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yyxx/118480#/job/b788ed2c-786b-430d-b874-0e8fbdc34858",
+      "startEvidence": null,
+      "endEvidence": null
+    },
+    {
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "color": "#3fa66a",
+      "title": "校园招聘",
+      "dates": "开始未公布 — 截止未公布",
+      "status": "招聘中",
+      "offset": 2,
+      "width": 94,
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/704b678b-c5d5-4e81-8921-4a5a13125d67",
       "startEvidence": null,
       "endEvidence": null
     },
@@ -847,6 +864,234 @@
     }
   ],
   "jobs": [
+    {
+      "id": "moka-ztgame-2ff24c94c1b1",
+      "company": "巨人网络",
+      "short": "GIANT",
+      "role": "渠道运营实习生",
+      "category": "游戏运营",
+      "city": "地点未公布",
+      "type": "2027届实习转正",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#ea7b32",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/0082b482-873e-41c7-ad49-a8c6fdd37e12"
+    },
+    {
+      "id": "moka-leyuansu-b61d69e81627",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】UI动效设计师（上海）",
+      "category": "综合职能",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/704b678b-c5d5-4e81-8921-4a5a13125d67"
+    },
+    {
+      "id": "moka-leyuansu-6f5d83ad4aa2",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "交互策划实习生",
+      "category": "游戏策划",
+      "city": "地点未公布",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/2006c306-a694-4b09-a0ae-fe88f523749a"
+    },
+    {
+      "id": "moka-leyuansu-1473dc30c724",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏UI设计师-开心消消乐",
+      "category": "综合职能",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/e3a7896a-459b-4a98-a32d-9b9f4d6099dd"
+    },
+    {
+      "id": "moka-leyuansu-f0ef11931aa9",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏原画设计师-开心消消乐",
+      "category": "游戏美术",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/73417f21-eec8-40e4-841c-791b7a5a11d7"
+    },
+    {
+      "id": "moka-leyuansu-24af90e05f51",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏客户端开发工程师-开心消消乐",
+      "category": "游戏开发",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/ff8967d6-e112-4a52-ab08-e0cc6d797359"
+    },
+    {
+      "id": "moka-leyuansu-5303697d0257",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏服务端开发工程师-开心消消乐",
+      "category": "游戏开发",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/b701e0ba-eb0e-4178-b3b0-9fe2a61c37f3"
+    },
+    {
+      "id": "moka-leyuansu-9b6c4f7608cd",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏动画动效设计师-开心消消乐",
+      "category": "游戏美术",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/c36d0762-dbe1-4e7c-849d-d5209dbff0ed"
+    },
+    {
+      "id": "moka-leyuansu-67df20f8483d",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏市场营销（V-Project）",
+      "category": "游戏运营",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/9ea29ef3-8e0f-4c8a-b6a7-6a7cc8ad8b0f"
+    },
+    {
+      "id": "netease-c8eb3217a684",
+      "company": "网易游戏",
+      "short": "NTES",
+      "role": "游戏测试开发工程师",
+      "category": "游戏开发",
+      "city": "杭州、上海、广州",
+      "type": "网易互娱2027届校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "8/28",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#13a77d",
+      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
+    },
+    {
+      "id": "netease-46ee958d54ac",
+      "company": "网易游戏",
+      "short": "NTES",
+      "role": "游戏测试工程师",
+      "category": "游戏开发",
+      "city": "杭州、上海、广州",
+      "type": "网易互娱2027届校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "8/28",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#13a77d",
+      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
+    },
+    {
+      "id": "feishu-lilith-39698a161e40",
+      "company": "莉莉丝",
+      "short": "LLS",
+      "role": "招聘实习生（技术方向）",
+      "category": "游戏开发",
+      "city": "上海",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 82,
+      "width": 28,
+      "color": "#7b61d1",
+      "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7681570977524910377/detail"
+    },
     {
       "id": "moka-37-719c370aa716",
       "company": "三七互娱",
@@ -7748,7 +7993,7 @@
       "id": "tencent-ab2d68ea0ea2",
       "company": "腾讯游戏",
       "short": "TG",
-      "role": "Data Science Intern (Analytics), 6-month internship 107974",
+      "role": "Data Science Intern 107974",
       "category": "游戏开发",
       "city": "新加坡",
       "type": "实习",
@@ -7781,6 +8026,44 @@
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/a20ac1dc-900e-4005-9e5b-9333a0f45d4d"
+    },
+    {
+      "id": "moka-leyuansu-81bddcf576b2",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】内容运营",
+      "category": "游戏运营",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 78,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/b02269b9-7846-45eb-ab6b-09345fc78dcd"
+    },
+    {
+      "id": "moka-leyuansu-6ed223941e7b",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏原画设计（海外）-消消乐工作室",
+      "category": "游戏美术",
+      "city": "海外、北京",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 78,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/7865194d-ccf5-4ea1-b272-6a015de775ed"
     },
     {
       "id": "netease-199a29d097f5",
@@ -7954,6 +8237,139 @@
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/9b47cf4a-6599-4de9-b269-4f5d8a3d001a"
     },
     {
+      "id": "moka-leyuansu-2f89f934194e",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【实习】游戏外包商务实习生（有转正机会）",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/23b9cafb-e2a2-4ddc-8dc5-037ba6e34d0b"
+    },
+    {
+      "id": "moka-leyuansu-57500516cc16",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【实习】培训运营实习生",
+      "category": "游戏运营",
+      "city": "北京",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/f831d83a-aa34-48b8-bee2-a805e7705ef9"
+    },
+    {
+      "id": "moka-leyuansu-e38ba4f3e073",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏美术原画设计师",
+      "category": "游戏美术",
+      "city": "北京",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/b6895b1a-9b89-41a2-b98d-0b4edb9c8a78"
+    },
+    {
+      "id": "moka-leyuansu-9536f3df13f9",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2026秋招】三消关卡策划（上海）",
+      "category": "游戏策划",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/18e6bd22-e56f-4659-83b5-04ee4926f148"
+    },
+    {
+      "id": "moka-leyuansu-01f0f6ff8885",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【实习】财务实习生（韩语方向 / 有转正机会）",
+      "category": "游戏运营",
+      "city": "北京、上海、广州、成都、海外",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/cfa7d913-4b4e-4cf5-8d37-79159355a501"
+    },
+    {
+      "id": "moka-leyuansu-0a2ce8b72403",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【实习】财务实习生（有转正机会）",
+      "category": "游戏运营",
+      "city": "北京、上海、广州、成都、海外",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/e6aa0db2-6b2c-4236-9126-d2f4c7bf9bd1"
+    },
+    {
+      "id": "moka-leyuansu-7ef088aa39be",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【实习】财务实习生（有转正机会）",
+      "category": "游戏运营",
+      "city": "上海、北京、广州、成都、海外",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 75,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/10598776-5d3e-4843-8a8f-cf474940b11c"
+    },
+    {
       "id": "feishu-boke-6dcf0a199aa3",
       "company": "波克城市",
       "short": "BOKE",
@@ -7967,7 +8383,7 @@
       "firstSeen": "9/1",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 75,
+      "offset": 74,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680553710008027443/detail"
@@ -8719,7 +9135,7 @@
       "short": "GIANT",
       "role": "媒介策划（27届秋招）",
       "category": "游戏策划",
-      "city": "地点未公布",
+      "city": "上海",
       "type": "27届秋招",
       "recruitmentKind": "campus",
       "status": "open",
@@ -14351,7 +14767,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 63,
+      "offset": 62,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7678924175863548211/detail"
@@ -15953,6 +16369,25 @@
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/9838ecd3-0a0f-423a-b5c9-efcb0f262c58"
     },
     {
+      "id": "moka-leyuansu-3d2121772656",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏策划-消消乐工作室",
+      "category": "游戏策划",
+      "city": "北京",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 56,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/2b2084e5-caee-4cef-9117-214962ed2eeb"
+    },
+    {
       "id": "feishu-boke-d5ec0c42fcbf",
       "company": "波克城市",
       "short": "BOKE",
@@ -16023,7 +16458,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -17182,7 +17617,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674854277525309705/detail"
@@ -17201,7 +17636,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674853460593084681/detail"
@@ -17220,7 +17655,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674851564927306047/detail"
@@ -17239,7 +17674,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674852163038284086/detail"
@@ -17258,7 +17693,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674852240129067300/detail"
@@ -17277,7 +17712,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674851825664985385/detail"
@@ -17296,7 +17731,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674851755095787812/detail"
@@ -17315,7 +17750,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674851389663840522/detail"
@@ -17334,7 +17769,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674850312205420806/detail"
@@ -17353,7 +17788,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674851123484756234/detail"
@@ -17372,7 +17807,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674851279022410022/detail"
@@ -17391,7 +17826,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674850708331694382/detail"
@@ -17410,7 +17845,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674850781006268699/detail"
@@ -20640,7 +21075,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 6,
+      "offset": 5,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7671187302210619690/detail"
@@ -20950,6 +21385,25 @@
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7670010570032711987/detail"
     },
     {
+      "id": "moka-leyuansu-bc2e76dd07aa",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏品牌美宣设计（白银之城）",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/0d6f92c3-713f-4bc2-9cbe-1d95a9676b0c"
+    },
+    {
       "id": "feishu-lilith-7842d8a3cc81",
       "company": "莉莉丝",
       "short": "LLS",
@@ -21176,6 +21630,25 @@
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Game-Operations-Intern_R107226"
+    },
+    {
+      "id": "moka-leyuansu-2c4137f6f0c6",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2026秋招】关卡策划-消消乐工作室（北京）",
+      "category": "游戏美术",
+      "city": "北京",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/96842ade-e771-43d0-b499-6e5554ad7a31"
     },
     {
       "id": "netease-b36916025038",
@@ -22014,44 +22487,6 @@
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1"
     },
     {
-      "id": "netease-c8eb3217a684",
-      "company": "网易游戏",
-      "short": "NTES",
-      "role": "游戏测试开发工程师",
-      "category": "游戏开发",
-      "city": "杭州、上海、广州",
-      "type": "网易互娱2027届校园招聘",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官方招聘中",
-      "firstSeen": "8/28",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 2,
-      "width": 28,
-      "color": "#13a77d",
-      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
-    },
-    {
-      "id": "netease-46ee958d54ac",
-      "company": "网易游戏",
-      "short": "NTES",
-      "role": "游戏测试工程师",
-      "category": "游戏开发",
-      "city": "杭州、上海、广州",
-      "type": "网易互娱2027届校园招聘",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官方招聘中",
-      "firstSeen": "8/28",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 2,
-      "width": 28,
-      "color": "#13a77d",
-      "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
-    },
-    {
       "id": "netease-2b086baf1e1b",
       "company": "网易游戏",
       "short": "NTES",
@@ -22354,6 +22789,101 @@
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
+    },
+    {
+      "id": "moka-leyuansu-331dd3cd0ad8",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏创意策划（白银之城）",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/8800cb48-cb5c-45bb-8bb4-c3c8b67d4261"
+    },
+    {
+      "id": "moka-leyuansu-a1c22ebf73f9",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏视频设计师",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/a024ffdb-abe1-43c4-b720-9037f71ee075"
+    },
+    {
+      "id": "moka-leyuansu-4e2de50d3662",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏美宣平面设计师",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/5718895e-a6cf-4208-b2d0-494428f63765"
+    },
+    {
+      "id": "moka-leyuansu-eaaede2fc2d4",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏用户研究",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/b77d8235-6604-4dd5-942f-f293c1c078f6"
+    },
+    {
+      "id": "moka-leyuansu-019dd975f7b8",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏市场营销（白银之城）",
+      "category": "游戏策划",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/f52662a3-cb29-42a2-be5c-f55ed9562201"
     },
     {
       "id": "feishu-lilith-965205348a2a",
@@ -23021,6 +23551,25 @@
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Game-Site-Reliability-Engineer-Intern--Malaysia-_R107623"
     },
     {
+      "id": "moka-leyuansu-145b5d9377aa",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】平面设计师",
+      "category": "游戏美术",
+      "city": "地点未公布",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/3a6617a8-a841-4f8d-bbef-f59c4db70c94"
+    },
+    {
       "id": "feishu-wepie-67f829eb547f",
       "company": "微派网络",
       "short": "WEPIE",
@@ -23038,6 +23587,44 @@
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7647492401417996570/detail"
+    },
+    {
+      "id": "moka-leyuansu-db2321c438a7",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏策划",
+      "category": "游戏美术",
+      "city": "上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/67170d95-196d-48e5-bab2-9b5237ff6763"
+    },
+    {
+      "id": "moka-leyuansu-e22c62327582",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】海外版本运营",
+      "category": "游戏运营",
+      "city": "海外、上海",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/0c52c2a8-3d25-42b6-afd5-95cb9063c697"
     },
     {
       "id": "feishu-lilith-278c887ba070",
@@ -23116,6 +23703,25 @@
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Australia-New-South-Wales-Sydney/Game-Research---Development-Intern--Engine-Research_R107518-1"
     },
     {
+      "id": "moka-leyuansu-a2e4abf47e24",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【实习】法务实习生（韩语方向 / 有转正机会）",
+      "category": "综合职能",
+      "city": "北京",
+      "type": "日常实习",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/8e4eb403-581f-462a-9cd5-2682029ee15c"
+    },
+    {
       "id": "feishu-lilith-cc9c011cf40a",
       "company": "莉莉丝",
       "short": "LLS",
@@ -23133,6 +23739,25 @@
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7646620558485948691/detail"
+    },
+    {
+      "id": "moka-leyuansu-e1c1b8b6d0e3",
+      "company": "乐元素",
+      "short": "LEYUANSU",
+      "role": "【2027校招】游戏策划（休闲游戏）",
+      "category": "游戏美术",
+      "city": "北京",
+      "type": "校园招聘",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "官方招聘中",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 2,
+      "width": 28,
+      "color": "#3fa66a",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/0f469e93-1dd3-4c9e-8c2a-d1e66edea6d8"
     },
     {
       "id": "moka-funplus01-c581571659f5",
