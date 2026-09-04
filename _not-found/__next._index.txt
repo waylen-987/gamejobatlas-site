@@ -1,6 +1,7 @@
 1:"$Sreact.fragment"
-2:I[9630,[],""]
-3:I[1380,[],""]
+2:I[6891,["34","static/chunks/34-b90100e7d0329348.js","177","static/chunks/app/layout-6e4a2e140be58e37.js"],"default"]
+3:I[9630,[],""]
+4:I[1380,[],""]
 :HL["/gamejobatlas-site/_next/static/css/b86b764b626f0b8c.css","style"]
-:HL["/gamejobatlas-site/_next/static/css/939873129cb152c4.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/gamejobatlas-site/_next/static/css/b86b764b626f0b8c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/gamejobatlas-site/_next/static/css/939873129cb152c4.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Sib7ph7AS-y-x8tnE7_Oe"}
+:HL["/gamejobatlas-site/_next/static/css/98279cd5dda146e2.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/gamejobatlas-site/_next/static/css/b86b764b626f0b8c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/gamejobatlas-site/_next/static/css/98279cd5dda146e2.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jJ6M0f1DQRMIG1a8amys8"}

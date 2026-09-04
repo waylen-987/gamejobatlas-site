@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T11:28:55.656Z",
+  "generatedAt": "2026-09-04T14:28:56.472Z",
   "summary": {
-    "activeJobs": 1675,
+    "activeJobs": 1670,
     "internships": 652,
-    "campusJobs": 1023,
+    "campusJobs": 1018,
     "companies": 55,
     "healthySources": 61,
     "totalSources": 71,
-    "recentlyClosed": 27
+    "recentlyClosed": 32
   },
   "sources": [
     {
@@ -17,7 +17,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 266,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 58,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 84,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 90,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 45,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/37/58016",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
       "ok": true,
       "jobCount": 41,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
       "ok": true,
       "jobCount": 30,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
       "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
       "ok": true,
       "jobCount": 70,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -151,7 +151,7 @@
       "name": "延趣游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xmyanquhr/74333",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -160,7 +160,7 @@
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
       "ok": true,
       "jobCount": 70,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -186,7 +186,7 @@
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -195,7 +195,7 @@
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
       "ok": true,
       "jobCount": 36,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
       "ok": true,
       "jobCount": 34,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -231,7 +231,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -240,7 +240,7 @@
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
       "ok": true,
       "jobCount": 18,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -276,7 +276,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -285,7 +285,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -294,7 +294,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -303,7 +303,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -321,7 +321,7 @@
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -330,7 +330,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
       "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -339,7 +339,7 @@
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -348,7 +348,7 @@
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -356,7 +356,7 @@
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -364,7 +364,7 @@
       "name": "哈乐沃德校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/hellowdtest/38235",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -373,7 +373,7 @@
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -381,7 +381,7 @@
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -390,7 +390,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -398,7 +398,7 @@
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -406,7 +406,7 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -415,7 +415,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -424,7 +424,7 @@
       "url": "https://papergames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 48,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -432,7 +432,7 @@
       "name": "蛮啾网络校招（飞书）",
       "url": "https://ooia5293gn.jobs.feishu.cn/542332/position/list",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -441,7 +441,7 @@
       "url": "https://huayugames.jobs.feishu.cn/210512/position/list",
       "ok": true,
       "jobCount": 22,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -450,7 +450,7 @@
       "url": "https://elex-work.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -459,7 +459,7 @@
       "url": "https://huanle.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -468,7 +468,7 @@
       "url": "https://jzyxgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "url": "https://learnings.jobs.feishu.cn/948023/position/list",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -486,7 +486,7 @@
       "url": "https://sofunny.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -495,7 +495,7 @@
       "url": "https://gamealestudio.jobs.feishu.cn/007955/m/position/list",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -504,7 +504,7 @@
       "url": "https://zen-game.jobs.feishu.cn/679976/position/list",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -513,7 +513,7 @@
       "url": "https://coconutisland.jobs.feishu.cn/coconut_campus/position/list",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -522,7 +522,7 @@
       "url": "https://micoworld.jobs.feishu.cn/152087/position/list",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -531,7 +531,7 @@
       "url": "https://rastargame.jobs.feishu.cn/066491/position/list",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -540,7 +540,7 @@
       "url": "https://meta.jobs.feishu.cn/140297/position/list",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "url": "https://t7le908iko.jobs.feishu.cn/624052/m/position/list",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "name": "白日梦校招（飞书）",
       "url": "https://szbrmwlyx.jobs.feishu.cn/daydreams/position/list",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -566,7 +566,7 @@
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -575,7 +575,7 @@
       "url": "https://campus.zulong.com/campus_apply/zulong/25158",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -583,7 +583,7 @@
       "name": "英雄游戏校招（Moka）",
       "url": "https://careers.hero.com/campus-recruitment/yingxionghr/65922",
       "ok": false,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -592,7 +592,7 @@
       "url": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628",
       "ok": true,
       "jobCount": 20,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -601,7 +601,7 @@
       "url": "https://campus.tap4fun.com/campus_apply/tap4fun/291",
       "ok": true,
       "jobCount": 8,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -610,7 +610,7 @@
       "url": "https://nd.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -619,7 +619,7 @@
       "url": "https://bingchuan1.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -628,7 +628,7 @@
       "url": "https://wooduan.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     },
     {
@@ -637,7 +637,7 @@
       "url": "https://9377.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-04T11:28:55.656Z",
+      "checkedAt": "2026-09-04T14:28:56.472Z",
       "error": null
     }
   ],
@@ -1093,7 +1093,7 @@
       "status": "招聘中",
       "offset": 2,
       "width": 94,
-      "sourceUrl": "https://app.mokahr.com/campus-recruitment/xishanju/37430#/job/46f3418c-546d-4026-8a5a-9d4583d2c30c",
+      "sourceUrl": "https://app.mokahr.com/campus-recruitment/xishanju/37430#/job/69fae152-c6c3-44f2-a290-5bc3c201369e",
       "startEvidence": null,
       "endEvidence": null
     },
@@ -1340,7 +1340,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/jobs"
@@ -1359,7 +1359,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/jobs"
@@ -1378,7 +1378,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/jobs"
@@ -1397,7 +1397,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/jobs"
@@ -1416,7 +1416,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/jobs"
@@ -1435,7 +1435,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/3ed5912a-199c-4913-9ccc-c04ca1cd78fd"
@@ -1454,7 +1454,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/241fe7d3-488e-4a76-a217-c5477f5b686d"
@@ -1473,7 +1473,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/52c7d293-350e-4242-8f90-b3d6a96778e1"
@@ -1492,7 +1492,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/749fc97c-573b-4bc5-b237-23f3173de2e5"
@@ -1511,7 +1511,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/688db8c0-0b97-45d4-b644-7ef5d3c32c6f"
@@ -1530,7 +1530,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/e735a1b0-7c2e-4378-8f6c-220f324da8c3"
@@ -1549,7 +1549,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/32dd53ce-9b73-4438-ab37-a617f286d875"
@@ -1568,7 +1568,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/566b2d77-35be-4e21-a721-ebca59bce8eb"
@@ -1587,7 +1587,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/e3c71634-ce09-46a9-a4aa-6b3d20736092"
@@ -1606,7 +1606,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/bb2aa73d-c865-463f-b435-09bf0cd6fc08"
@@ -1625,7 +1625,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/23cf6f2b-4326-4fe5-9e01-c539d720144a"
@@ -1644,7 +1644,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/3ff0c345-c23c-4a6d-a5af-12e964b9ec92"
@@ -1663,7 +1663,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/05961ca2-4c19-4144-a5b2-7f030f501d7b"
@@ -1682,7 +1682,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/f561639b-ae0a-448a-80d9-cbb13039ddb2"
@@ -1701,7 +1701,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/13f82e64-0e43-484d-ac3e-f18fcca7e75c"
@@ -1720,7 +1720,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/51ea4fab-7798-486d-879a-79f84ec1542a"
@@ -1739,7 +1739,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/92472ae1-3c47-41e0-bcd1-4c91148525d7"
@@ -1758,7 +1758,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/4f38f0a0-1b7b-487f-94f0-4e3d48ff3723"
@@ -1777,7 +1777,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/772e1ffb-746a-456c-92a4-c438e8e175ab"
@@ -1796,7 +1796,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/618273f7-1174-4933-a0ff-8db4a530033b"
@@ -1815,7 +1815,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/fe5a7815-e4d3-4a8b-88d1-b1c714ec668a"
@@ -1834,7 +1834,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/43de2f7f-c2f6-4055-aa9b-ec1c0fde541b"
@@ -1853,7 +1853,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/bf44029c-f095-42c2-a28e-015acc6f1243"
@@ -1872,7 +1872,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/83a68e65-8baf-4caa-9f5e-9e509ebc7f0c"
@@ -1891,7 +1891,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/f05d5cc2-1212-4edd-a32d-74c7505fc52e"
@@ -1910,7 +1910,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/331cd980-813a-4534-900c-070c572366ba"
@@ -1929,7 +1929,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/f10f4237-9230-4377-be31-cddd1b404be6"
@@ -1948,7 +1948,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/9f06e178-b109-48ca-84d7-08b9d258a890"
@@ -1967,7 +1967,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/a2a38f9a-fa86-4004-8a25-225d397770e3"
@@ -1986,7 +1986,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/b8c7ebd1-a025-4f2b-aa06-02bdc4b13b5f"
@@ -2005,7 +2005,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/6288bca1-61a0-4e8f-910a-c40774433239"
@@ -2024,7 +2024,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/b1bce384-abbc-4417-9b1c-8f1093b238f5"
@@ -2043,7 +2043,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/b180d698-f903-44f7-97fa-94499b389667"
@@ -2062,7 +2062,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/259bb536-848b-4e82-9adb-da32417008ab"
@@ -2081,7 +2081,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/e158afd1-c82a-4d8f-97d4-dbb82d1aa5df"
@@ -2100,7 +2100,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/64c665d7-fe39-48ac-97c1-bb13b823584f"
@@ -2119,7 +2119,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/761e7e73-c9c9-41f3-84c4-7c3cafed5bf3"
@@ -2138,7 +2138,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/596a09b7-804f-4ee8-8b5b-aeab1f453d50"
@@ -2157,7 +2157,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/63353d83-7d8e-4bde-a902-2ff2afe99f58"
@@ -2176,7 +2176,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/1210b0d0-6327-4fbd-b8f6-f085658b4570"
@@ -2195,7 +2195,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/45edfb7d-e52f-4643-9748-9009471cd859"
@@ -2214,7 +2214,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/573b3a81-2060-4ab3-80a2-5816533ffb11"
@@ -2233,7 +2233,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/6b613676-d180-49dc-af95-ad5badc13953"
@@ -2252,7 +2252,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/b9251f5f-c573-4bf9-b19f-94f0b73df53c"
@@ -2271,7 +2271,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/7caf1ef8-a8a0-4cda-a39e-7d39da29b28f"
@@ -2290,7 +2290,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/07319384-6309-4355-bdca-7b7a2fee7479"
@@ -2309,7 +2309,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/12da8226-7285-4045-bb54-cb3273a13222"
@@ -2328,7 +2328,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/6a0356b7-aee3-4f19-a938-d9439a707f41"
@@ -2347,7 +2347,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/afd69728-fd75-4e55-afc4-8d57e55a78b9"
@@ -2366,7 +2366,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/7cb7742e-9d03-4b72-a7bc-d797ddf5a60e"
@@ -2385,7 +2385,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/0d97ddd0-93d3-47a9-8a10-a4c237aee936"
@@ -2404,7 +2404,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/b995c4cb-7fec-4bcb-9cad-5f2738dd40b7"
@@ -2423,7 +2423,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/e3d7164b-e18a-4f94-8c0d-5896ad164f42"
@@ -2442,7 +2442,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/450dcef3-8b2f-4f95-81bd-f585f38b17e1"
@@ -2461,7 +2461,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/d7b9910d-9a3f-4f4f-a10c-b6dbd0336b13"
@@ -2480,7 +2480,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/d500e6fe-ac2b-4108-b3d7-ae4a0f0c5100"
@@ -2499,7 +2499,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/6c6b553c-bd2f-49bb-bd08-21dba0712aff"
@@ -2518,7 +2518,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/7e115280-0d08-45e2-8f27-d5a39cf89ac7"
@@ -2537,7 +2537,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/af19cea7-85c5-4590-a5e2-a6aa6fa6e63b"
@@ -2556,7 +2556,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/9ac3a0a3-7bd9-4e38-8ebb-1dbc54d16df6"
@@ -2575,7 +2575,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/ac6eef57-8b8b-4f03-916d-523911a731a6"
@@ -2594,7 +2594,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/8bb0461c-d44c-493b-8206-9ed8a131d205"
@@ -2613,7 +2613,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/a93bc9e1-6334-4599-a5a2-64e06ebb73de"
@@ -2632,7 +2632,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/2d360a18-4076-4fe3-8d3c-237505d4f885"
@@ -2651,7 +2651,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/fa56465b-87ce-498e-b26a-4b38286af876"
@@ -2670,7 +2670,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/2825320c-6d35-4d00-b4ea-6a6609ec9e58"
@@ -2689,7 +2689,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/9520c6eb-952f-4fa8-a06b-7d8235660967"
@@ -2708,7 +2708,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/cc016bb7-416e-47c1-8bda-385ab1830daa"
@@ -2727,7 +2727,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/70c234b1-c6d5-488e-8723-aade14d92f5a"
@@ -2746,7 +2746,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/3ff04bc0-f63a-4af7-99e0-968d4d893265"
@@ -2765,7 +2765,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/d47c487c-db15-46f5-a3bb-82ff64e5014e"
@@ -2784,7 +2784,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/38623053-14db-47f0-ac83-4f4f97935a76"
@@ -2803,7 +2803,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/62722199-4922-4daf-84b2-fd6241763853"
@@ -2822,7 +2822,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/65e50621-6749-43c5-ad19-522ed7b152ba"
@@ -2841,7 +2841,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/9cd70521-336d-40cd-93ee-8b68c22604e9"
@@ -2860,7 +2860,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/bc4de262-29a0-4d9b-bb68-6684dd2b1b95"
@@ -2879,7 +2879,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/487a757b-e814-4367-838f-661198c12118"
@@ -2898,7 +2898,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/1635b718-208b-402a-b5e8-9027fa62095e"
@@ -2917,7 +2917,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/e79598ff-5dbe-4703-af6c-06b4b0d87a68"
@@ -2936,7 +2936,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/1dba7b26-69f9-484b-9eac-0acd91281a15"
@@ -2955,7 +2955,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/16c33041-0ab0-4254-89bf-0375144f348a"
@@ -2974,7 +2974,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/d4c1d9b2-f7e7-465d-974c-1133dcbff4cc"
@@ -2993,7 +2993,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/2d42b347-fe15-45af-b9eb-642259281abc"
@@ -3012,7 +3012,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/a22c32c0-4d43-4f23-8924-c550a63e03bb"
@@ -3031,7 +3031,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/afea2535-ffe8-4b7f-9287-883a69033540"
@@ -3050,7 +3050,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/67bdfeb3-983b-4a7f-9b50-44f14dc461e1"
@@ -3069,7 +3069,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/69dcc728-9039-4748-b0b8-42a1ee3bfd66"
@@ -3088,7 +3088,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/58a8c07b-633f-4d16-8a9f-3b6addaa30b4"
@@ -3107,7 +3107,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/1088ae52-6a8d-4a7f-8274-5900bd1b7efa"
@@ -3126,7 +3126,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/cd2aa80c-c04c-4073-9c35-4a6f3764e645"
@@ -3145,7 +3145,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/46a5fe70-f7ce-4570-a420-faf0c5d7beaf"
@@ -3164,7 +3164,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/f57d2c91-be43-4ef6-b85b-372515667e20"
@@ -3183,7 +3183,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/2ff2da3b-c239-4a96-a254-163827fefa51"
@@ -3202,7 +3202,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/41d88f44-2d41-44ff-a337-0ac1633e75ca"
@@ -3221,7 +3221,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/64775b0f-0226-4c01-9348-b27c43b580dc"
@@ -3240,7 +3240,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/f27abe4d-d289-4b8c-9746-be9ec15b89f6"
@@ -3259,7 +3259,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/d9c3152c-12cf-4f61-b486-856dc2c49104"
@@ -3278,7 +3278,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/7832769f-21d9-45f4-8428-6c9fc6ac3efb"
@@ -3297,7 +3297,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/37e73b03-e26a-418d-b6f4-e4fc8436a3db"
@@ -3316,7 +3316,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/7dc8c703-8de1-4fbc-ba33-41bc8ba57e53"
@@ -3335,7 +3335,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/5b13b640-429a-4d14-a2be-d3c0780792cb"
@@ -3354,7 +3354,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/4726282b-c7e4-46dc-b4ea-540d11ac7e3b"
@@ -3373,7 +3373,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/65ce65eb-2d7c-4c93-861d-6d766aa7a536"
@@ -3392,7 +3392,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/89ae388c-fcac-4b2b-88db-bb643592ce0c"
@@ -3411,7 +3411,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/da4d77db-e117-4fab-b9cf-0f05437e57e4"
@@ -3430,7 +3430,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/e6ab06eb-47fc-46ae-b95c-68502df02d45"
@@ -3449,7 +3449,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/95265230-73d4-4d31-a759-4040dbe0ec49"
@@ -3468,7 +3468,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/032cb5be-c2ce-4595-940a-97d50e7fe617"
@@ -3487,7 +3487,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/job/5475e670-6ba5-4491-80f9-ff26f429c127"
@@ -3506,7 +3506,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/9859b1ea-1db1-4c46-bbe2-9a7064d6a84f"
@@ -3525,7 +3525,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/9aef734e-8023-4096-afad-a4ccbc418d1c"
@@ -3544,7 +3544,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/79c732d5-1fff-464c-8c7a-187844e4f864"
@@ -3563,7 +3563,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/2f402b70-4ea5-4f36-b670-441ed8a148cd"
@@ -3582,7 +3582,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/69711b11-1552-442e-b2e2-d1f3569c453f"
@@ -3601,7 +3601,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/c5aef1e3-73d0-446b-8d23-0b110f6bf640"
@@ -3620,7 +3620,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/81c773c0-0ffb-4d05-83e8-92ab6aff3b34"
@@ -3639,7 +3639,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/74b15738-82a0-4681-be0a-eb7005cd9259"
@@ -3658,7 +3658,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/9434163e-85fb-4080-9791-62e1b3873a64"
@@ -3677,7 +3677,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/c4a4c4ec-6562-4079-9842-ccffc83f2a83"
@@ -3696,7 +3696,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/b1dae454-b317-41aa-878e-c4eff1512ae1"
@@ -3715,7 +3715,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/2d749edb-3fb9-418b-94a6-b3a67bb8c4b1"
@@ -3734,7 +3734,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/af97c00c-e9a3-46c7-b8b9-a39d7f62e791"
@@ -3753,7 +3753,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/9ef1f533-5f07-4709-9eb3-dcb9e53326ce"
@@ -3772,7 +3772,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/5e990f12-8a7a-4600-9194-674f2378631e"
@@ -3791,7 +3791,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/3dee2d8d-0e4a-4844-9b67-7c673f88c8d8"
@@ -3810,7 +3810,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/281cbfe7-243c-4933-8332-f851240f7489"
@@ -3829,7 +3829,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/a609a2f1-c6cf-4913-b546-51111df1f38c"
@@ -3848,7 +3848,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/7df1d045-723d-4d63-b700-64e86f3083b5"
@@ -3867,7 +3867,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/a8074b3e-9b0a-4afc-943d-60b3f044402f"
@@ -3886,7 +3886,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/843c0153-68f9-462d-8e90-220d9452f964"
@@ -3905,7 +3905,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/0289ff68-d764-4c22-bfe7-f368cbbb2263"
@@ -3924,7 +3924,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/9586dadf-35e1-4704-99cc-54d9c1d42a5e"
@@ -3943,7 +3943,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/fadc0c57-4f6f-41a5-aecf-8fc71370d324"
@@ -3962,7 +3962,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/d594603b-89c1-4748-81ad-f2bc55678550"
@@ -3981,7 +3981,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/956a9165-e05b-483d-a0b5-bd50c4174a1a"
@@ -4000,7 +4000,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/5cf56eea-bd03-4ecc-9b2a-47b1eecbee83"
@@ -4019,7 +4019,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/86a269b0-1177-4468-a365-39726252fb55"
@@ -4038,7 +4038,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/1d86577b-b561-4bc7-b5dc-e9a8af8d6345"
@@ -4057,7 +4057,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/c4877025-8ff4-4d9a-ade5-f77f0a455729"
@@ -4076,7 +4076,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.tap4fun.com/campus_apply/tap4fun/291#/job/6c61db26-e00f-4e24-bd6c-5363f9a131ec"
@@ -4095,7 +4095,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/96f0d7c7-4dd3-4609-867e-2297d6fcc68a"
@@ -4114,7 +4114,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -4133,7 +4133,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -4152,7 +4152,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/0082b482-873e-41c7-ad49-a8c6fdd37e12"
@@ -4171,7 +4171,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/704b678b-c5d5-4e81-8921-4a5a13125d67"
@@ -4190,7 +4190,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/2006c306-a694-4b09-a0ae-fe88f523749a"
@@ -4209,7 +4209,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/e3a7896a-459b-4a98-a32d-9b9f4d6099dd"
@@ -4228,7 +4228,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/73417f21-eec8-40e4-841c-791b7a5a11d7"
@@ -4247,7 +4247,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/ff8967d6-e112-4a52-ab08-e0cc6d797359"
@@ -4266,7 +4266,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/b701e0ba-eb0e-4178-b3b0-9fe2a61c37f3"
@@ -4285,7 +4285,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/c36d0762-dbe1-4e7c-849d-d5209dbff0ed"
@@ -4304,7 +4304,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 82,
+      "offset": 81,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/9ea29ef3-8e0f-4c8a-b6a7-6a7cc8ad8b0f"
@@ -5296,25 +5296,6 @@
       "width": 28,
       "color": "#d94f8a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/xishanju/37430#/job/9e9fda9d-bc64-4a37-bd4e-0c647b559302"
-    },
-    {
-      "id": "moka-xishanju-697e7d637656",
-      "company": "西山居",
-      "short": "XISHANJU",
-      "role": "【TA训练营】技术美术",
-      "category": "游戏美术",
-      "city": "地点未公布",
-      "type": "校园招聘",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官网暂时未检出，正在复核",
-      "firstSeen": "9/4",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 81,
-      "width": 28,
-      "color": "#d94f8a",
-      "sourceUrl": "https://app.mokahr.com/campus-recruitment/xishanju/37430#/job/46f3418c-546d-4026-8a5a-9d4583d2c30c"
     },
     {
       "id": "moka-xishanju-34b0976e8c69",
@@ -10308,7 +10289,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/5e653965-ce5f-4c4c-9636-ddd01e06d060"
@@ -10327,7 +10308,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/772d563c-b073-4f31-b55a-82a59d6bc883"
@@ -10346,7 +10327,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/226fafb8-b3a5-4a0e-a9fa-e49320c8a6ef"
@@ -10365,7 +10346,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/8e13eaec-02c9-4083-a0b4-522905ddaaab"
@@ -10384,7 +10365,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/ee4901fa-f0b8-46fb-9322-b8e27aa44b9b"
@@ -10403,7 +10384,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/d628022b-fa57-4554-83ba-e57d8f0342d8"
@@ -10422,7 +10403,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/60db31e0-c905-4846-8d15-a905245c090d"
@@ -10441,7 +10422,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/f5a928fd-ffcd-458b-ba03-6ec06eb516e3"
@@ -10460,7 +10441,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/e38ff316-9484-4b07-9483-a9340c8610eb"
@@ -10479,7 +10460,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/d24d2a0a-d029-42e9-9150-22a846ee615f"
@@ -10498,7 +10479,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/bc0bff35-70d6-4a52-8254-e34da418dd03"
@@ -10517,7 +10498,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/d30ecd8d-1e5a-4dde-928d-a5f336d69308"
@@ -10536,7 +10517,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/8a506377-7288-4e95-8f3c-bfc918011311"
@@ -10555,7 +10536,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/0ba7538a-e9ff-47b3-8902-331cfdd7611f"
@@ -10574,7 +10555,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/da58cd42-a02c-461b-acfc-fff818727645"
@@ -10593,7 +10574,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/cc3585fc-f329-41ee-b4ab-3b4bc6784832"
@@ -10612,7 +10593,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/313f730e-1aa5-4dc2-98a0-37cab41a7280"
@@ -10631,7 +10612,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/324fb90e-0703-46b8-8266-6e3957586283"
@@ -10650,7 +10631,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/fa8bb107-98ab-45a8-bf46-0e54e83f8393"
@@ -10669,7 +10650,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/0c94b41c-e1b9-4896-bebf-35335bb55dd7"
@@ -10688,7 +10669,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/d9f02f4a-9bd5-491c-a65d-f079363b5409"
@@ -10707,7 +10688,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/1ccbc2bd-d788-4b43-ae3c-f1ebf2678455"
@@ -10726,7 +10707,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/409a5cf0-1936-45f4-8a0d-2838540e8c77"
@@ -10745,7 +10726,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/8f783698-c8cd-416a-8297-fbf2c049aecc"
@@ -10764,7 +10745,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/60445bf2-a450-4599-b4ef-6d44f581783c"
@@ -10783,7 +10764,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/14c4cb45-5198-43db-b783-0233675c3a36"
@@ -10802,7 +10783,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/e1c492a0-c482-4d6f-82d4-665941faf98c"
@@ -10821,7 +10802,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/3ac42d87-869a-4ee0-a851-d30cf3d11764"
@@ -10840,7 +10821,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/45ec042b-cb00-46ff-83b2-a22d9d4be72d"
@@ -10859,7 +10840,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/1bea439e-5af4-4fa8-8170-caec7f2f3ccc"
@@ -10878,7 +10859,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/1e6093d0-f54e-4d98-8237-cd3308eac38b"
@@ -10897,7 +10878,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/93de001d-a516-4de1-8ca3-f39939701740"
@@ -10916,7 +10897,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/0082e46f-2205-4e40-9b39-520cdecb6748"
@@ -10935,7 +10916,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/673e2d88-c0f4-4291-8785-761e1cfba1b9"
@@ -10954,7 +10935,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/9b4a0843-bb0c-4400-970b-a399502ee7ca"
@@ -10973,7 +10954,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/bb936276-8dd9-4fa8-8341-dc76db039f34"
@@ -10992,7 +10973,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/aaf22889-2c9f-4873-8565-73e04ac88bce"
@@ -11011,7 +10992,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/0c7123a8-f3f9-499e-8d57-4afb14295477"
@@ -11030,7 +11011,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/7d8dbb9f-67f5-4b7b-a1d3-525b5301070b"
@@ -11049,7 +11030,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/c5b64633-1fca-44c4-a3eb-db149197af03"
@@ -11068,7 +11049,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/6d194d47-d4f4-4554-9442-80d7775b64ea"
@@ -11087,7 +11068,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/f9b94b74-a236-41ec-9a2d-57ccabb20e48"
@@ -11106,7 +11087,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/39828e08-87ec-41e8-a018-46331959b6af"
@@ -11125,7 +11106,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/017be264-dd25-4714-8603-211a41889efe"
@@ -11144,7 +11125,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/58acce6d-d3c6-46cc-918f-6f8eb264b57d"
@@ -11163,7 +11144,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/9d85b16f-e9a5-49cb-a0f1-e7a721f5e6e0"
@@ -11220,7 +11201,7 @@
       "firstSeen": "9/3",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 79,
+      "offset": 78,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7681205359575157034/detail"
@@ -11353,7 +11334,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -11372,7 +11353,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -11391,7 +11372,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -11543,7 +11524,7 @@
       "firstSeen": "9/2",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 76,
+      "offset": 75,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/job/9b47cf4a-6599-4de9-b269-4f5d8a3d001a"
@@ -11714,7 +11695,7 @@
       "firstSeen": "9/1",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7680487023816395059/detail"
@@ -11771,7 +11752,7 @@
       "firstSeen": "9/2",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1"
@@ -11809,7 +11790,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 71,
+      "offset": 70,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680101443412887844/detail"
@@ -11828,7 +11809,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 71,
+      "offset": 70,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087848841742634/detail"
@@ -11847,7 +11828,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 71,
+      "offset": 70,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087369740437810/detail"
@@ -12949,7 +12930,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 68,
+      "offset": 67,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7679707020065655078/detail"
@@ -12968,7 +12949,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679557368845469971/detail"
@@ -12987,7 +12968,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679557966277724425/detail"
@@ -13006,7 +12987,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7679552113555360051/detail"
@@ -13025,7 +13006,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 63,
+      "offset": 62,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7679025945206343979/detail"
@@ -13044,7 +13025,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 63,
+      "offset": 62,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7679024111201126707/detail"
@@ -18098,7 +18079,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 61,
+      "offset": 60,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/6c18450c-cee1-48c6-8dc5-f1b1e59ffc04"
@@ -18117,7 +18098,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 61,
+      "offset": 60,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/74faee77-aeee-482c-b25e-636f59624216"
@@ -18136,7 +18117,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 61,
+      "offset": 60,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/e99655f2-4a2f-444b-b8d8-210dd5e3c186"
@@ -18155,7 +18136,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 61,
+      "offset": 60,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/a7bcc7de-a042-498c-a3a9-7c3cdbde9afd"
@@ -18174,7 +18155,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7678630224095578419/detail"
@@ -18193,7 +18174,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://rastargame.jobs.feishu.cn/066491/position/7678614615668427059/detail"
@@ -18212,7 +18193,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7678614704927181106/detail"
@@ -18231,7 +18212,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7678602765958875401/detail"
@@ -18250,7 +18231,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7678601400146184457/detail"
@@ -18497,7 +18478,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 57,
+      "offset": 56,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7678180065524009259/detail"
@@ -18516,7 +18497,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 57,
+      "offset": 56,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7678179340009589011/detail"
@@ -19808,7 +19789,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 54,
+      "offset": 53,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7677789951722883347/detail"
@@ -19846,7 +19827,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 52,
+      "offset": 51,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7677541970961565998/detail"
@@ -19903,7 +19884,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#2677d9",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/95e38082-9f91-48d8-94d8-6290b395b0f4"
@@ -19922,7 +19903,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#e15454",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/70fcdc47-19c2-40f6-9cb6-d0e221c29150"
@@ -19941,7 +19922,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#ea7b32",
       "sourceUrl": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017#/job/85028d18-2ce4-4aa7-8dcb-bed1629ed911"
@@ -19960,7 +19941,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 44,
+      "offset": 43,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -20017,7 +19998,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 43,
+      "offset": 42,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://papergames.jobs.feishu.cn/campus/position/7676311024710355250/detail"
@@ -20036,7 +20017,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://meta.jobs.feishu.cn/140297/position/7676040854931458367/detail"
@@ -20055,7 +20036,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://meta.jobs.feishu.cn/140297/position/7676040813310396722/detail"
@@ -20074,7 +20055,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://rastargame.jobs.feishu.cn/066491/position/7676026537603303722/detail"
@@ -20093,7 +20074,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://huanle.jobs.feishu.cn/campus/position/7676012296334887231/detail"
@@ -20112,7 +20093,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://meta.jobs.feishu.cn/140297/position/7676010773495187763/detail"
@@ -20131,7 +20112,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://meta.jobs.feishu.cn/140297/position/7676009564790049060/detail"
@@ -20169,7 +20150,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/XMLNAME-3D-Artist-Intern_R107775"
@@ -20492,7 +20473,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675341937952999743/detail"
@@ -20511,7 +20492,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675338630768511275/detail"
@@ -20530,7 +20511,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7675338743897573641/detail"
@@ -20549,7 +20530,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7675336419103115539/detail"
@@ -20606,7 +20587,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 35,
+      "offset": 34,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675206208567658794/detail"
@@ -20739,7 +20720,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674961082196740361/detail"
@@ -20758,7 +20739,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674958169521162502/detail"
@@ -20777,7 +20758,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939947783538950/detail"
@@ -20796,7 +20777,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939593599076614/detail"
@@ -20815,7 +20796,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939550350723334/detail"
@@ -20834,7 +20815,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674938979024455987/detail"
@@ -20853,7 +20834,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674938261186267418/detail"
@@ -20872,7 +20853,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674937969882974491/detail"
@@ -20891,7 +20872,7 @@
       "firstSeen": "9/4",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://papergames.jobs.feishu.cn/campus/position/7674937642727737650/detail"
@@ -20910,7 +20891,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674937095375407398/detail"
@@ -20929,7 +20910,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674935791106623782/detail"
@@ -22392,7 +22373,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 25,
+      "offset": 24,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673832388660922666/detail"
@@ -23399,7 +23380,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673444808484423974/detail"
@@ -23418,7 +23399,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673439666104764681/detail"
@@ -23519,25 +23500,6 @@
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673119268296313129/detail"
     },
     {
-      "id": "feishu-boke-ebc8eb4bd891",
-      "company": "波克城市",
-      "short": "BOKE",
-      "role": "2027届秋招-游戏运营（出海merge）",
-      "category": "游戏策划",
-      "city": "上海",
-      "type": "2027届秋招",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官网暂时未检出，正在复核",
-      "firstSeen": "8/31",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 19,
-      "width": 28,
-      "color": "#1f9d68",
-      "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673111190557493558/detail"
-    },
-    {
       "id": "feishu-boke-4bfdc07b1d5b",
       "company": "波克城市",
       "short": "BOKE",
@@ -23557,25 +23519,6 @@
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673110630483822854/detail"
     },
     {
-      "id": "feishu-boke-37dd82812932",
-      "company": "波克城市",
-      "short": "BOKE",
-      "role": "2027届秋招-游戏策划（出海merge）",
-      "category": "游戏策划",
-      "city": "上海",
-      "type": "2027届秋招",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官网暂时未检出，正在复核",
-      "firstSeen": "8/31",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 19,
-      "width": 28,
-      "color": "#1f9d68",
-      "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673110407821052206/detail"
-    },
-    {
       "id": "feishu-boke-40891ab0fd6f",
       "company": "波克城市",
       "short": "BOKE",
@@ -23593,25 +23536,6 @@
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673107562758588718/detail"
-    },
-    {
-      "id": "feishu-boke-9c26a8df43c0",
-      "company": "波克城市",
-      "short": "BOKE",
-      "role": "2027届秋招-游戏策划（休闲捕鱼）",
-      "category": "游戏策划",
-      "city": "上海",
-      "type": "2027届秋招",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官网暂时未检出，正在复核",
-      "firstSeen": "8/31",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 19,
-      "width": 28,
-      "color": "#1f9d68",
-      "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673107313498605862/detail"
     },
     {
       "id": "feishu-boke-b9a770a453b6",
@@ -23988,7 +23912,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail"
@@ -24007,7 +23931,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673041613987481866/detail"
@@ -24026,7 +23950,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7673021663253416255/detail"
@@ -24539,29 +24463,10 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 17,
+      "offset": 16,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
-    },
-    {
-      "id": "feishu-lilith-b199f6659f0b",
-      "company": "莉莉丝",
-      "short": "LLS",
-      "role": "【2027秋招】美术商务专员",
-      "category": "游戏美术",
-      "city": "上海",
-      "type": "2027届校招",
-      "recruitmentKind": "campus",
-      "status": "open",
-      "statusLabel": "官网暂时未检出，正在复核",
-      "firstSeen": "8/31",
-      "verified": "9/4",
-      "deadline": "截止时间未公布",
-      "offset": 15,
-      "width": 28,
-      "color": "#7b61d1",
-      "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672607460725786890/detail"
     },
     {
       "id": "netease-1ea03c9dd394",
@@ -24653,7 +24558,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7672346699847747846/detail"
@@ -24672,7 +24577,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7672352892715698470/detail"
@@ -24691,7 +24596,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7672344948288555302/detail"
@@ -24786,7 +24691,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672235212021680430/detail"
@@ -24805,7 +24710,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672234461387884846/detail"
@@ -24824,7 +24729,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7672229515678959878/detail"
@@ -24843,7 +24748,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672229030028298542/detail"
@@ -24862,7 +24767,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672228435758844170/detail"
@@ -24881,7 +24786,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227795002853651/detail"
@@ -24900,7 +24805,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227387145390382/detail"
@@ -24919,7 +24824,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7672227100749596955/detail"
@@ -24995,7 +24900,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 5,
+      "offset": 4,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7671129872802367787/detail"
@@ -33134,6 +33039,81 @@
     }
   ],
   "recentlyClosed": [
+    {
+      "id": "moka-xishanju-697e7d637656",
+      "company": "西山居",
+      "short": "XISHANJU",
+      "color": "#d94f8a",
+      "role": "【TA训练营】技术美术",
+      "category": "游戏美术",
+      "city": "地点未公布",
+      "recruitmentKind": "campus",
+      "status": "closed",
+      "statusLabel": "官网已撤下",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "closed": "9/4"
+    },
+    {
+      "id": "feishu-boke-ebc8eb4bd891",
+      "company": "波克城市",
+      "short": "BOKE",
+      "color": "#1f9d68",
+      "role": "2027届秋招-游戏运营（出海merge）",
+      "category": "游戏策划",
+      "city": "上海",
+      "recruitmentKind": "campus",
+      "status": "closed",
+      "statusLabel": "官网已撤下",
+      "firstSeen": "8/31",
+      "verified": "9/4",
+      "closed": "9/4"
+    },
+    {
+      "id": "feishu-boke-37dd82812932",
+      "company": "波克城市",
+      "short": "BOKE",
+      "color": "#1f9d68",
+      "role": "2027届秋招-游戏策划（出海merge）",
+      "category": "游戏策划",
+      "city": "上海",
+      "recruitmentKind": "campus",
+      "status": "closed",
+      "statusLabel": "官网已撤下",
+      "firstSeen": "8/31",
+      "verified": "9/4",
+      "closed": "9/4"
+    },
+    {
+      "id": "feishu-boke-9c26a8df43c0",
+      "company": "波克城市",
+      "short": "BOKE",
+      "color": "#1f9d68",
+      "role": "2027届秋招-游戏策划（休闲捕鱼）",
+      "category": "游戏策划",
+      "city": "上海",
+      "recruitmentKind": "campus",
+      "status": "closed",
+      "statusLabel": "官网已撤下",
+      "firstSeen": "8/31",
+      "verified": "9/4",
+      "closed": "9/4"
+    },
+    {
+      "id": "feishu-lilith-b199f6659f0b",
+      "company": "莉莉丝",
+      "short": "LLS",
+      "color": "#7b61d1",
+      "role": "【2027秋招】美术商务专员",
+      "category": "游戏美术",
+      "city": "上海",
+      "recruitmentKind": "campus",
+      "status": "closed",
+      "statusLabel": "官网已撤下",
+      "firstSeen": "8/31",
+      "verified": "9/4",
+      "closed": "9/4"
+    },
     {
       "id": "tencent-a04a0968a6bb",
       "company": "腾讯游戏",
