@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T02:58:55.745Z",
+  "generatedAt": "2026-09-04T03:28:55.154Z",
   "summary": {
-    "activeJobs": 782,
-    "internships": 337,
+    "activeJobs": 783,
+    "internships": 338,
     "campusJobs": 445,
     "companies": 10,
     "healthySources": 10,
@@ -15,8 +15,8 @@
       "name": "腾讯招聘",
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
-      "jobCount": 38,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "jobCount": 39,
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 265,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 58,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 111,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 84,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 88,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-04T02:58:55.745Z",
+      "checkedAt": "2026-09-04T03:28:55.154Z",
       "error": null
     }
   ],
@@ -334,6 +334,25 @@
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/New-Zealand-Auckland/Game-AI-Product-Management-Intern_R107504-1"
+    },
+    {
+      "id": "tencent-ab2d68ea0ea2",
+      "company": "腾讯游戏",
+      "short": "TG",
+      "role": "Data Science Intern (Analytics), 6-month internship 107974",
+      "category": "游戏开发",
+      "city": "新加坡",
+      "type": "实习",
+      "recruitmentKind": "internship",
+      "status": "new",
+      "statusLabel": "本周有更新",
+      "firstSeen": "9/4",
+      "verified": "9/4",
+      "deadline": "截止时间未公布",
+      "offset": 78,
+      "width": 28,
+      "color": "#377dff",
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974"
     },
     {
       "id": "netease-199a29d097f5",
@@ -596,7 +615,7 @@
       "firstSeen": "9/2",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 73,
+      "offset": 72,
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1"
@@ -653,7 +672,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087848841742634/detail"
@@ -672,7 +691,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087369740437810/detail"
@@ -7493,7 +7512,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 37,
+      "offset": 36,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675338630768511275/detail"
@@ -7512,7 +7531,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 37,
+      "offset": 36,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7675338743897573641/detail"
@@ -7531,7 +7550,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 37,
+      "offset": 36,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7675336419103115539/detail"
@@ -10837,7 +10856,7 @@
       "firstSeen": "8/28",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 18,
+      "offset": 17,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/job/position?id=102"
@@ -11236,7 +11255,7 @@
       "firstSeen": "8/31",
       "verified": "9/4",
       "deadline": "截止时间未公布",
-      "offset": 6,
+      "offset": 5,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7671129872802367787/detail"
