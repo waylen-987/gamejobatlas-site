@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-08T16:40:29.106Z",
+  "generatedAt": "2026-09-08T16:43:15.288Z",
   "summary": {
     "activeJobs": 1683,
     "internships": 643,
@@ -17,7 +17,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 37,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 268,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 58,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": false,
       "jobCount": 110,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 84,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 91,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": false,
       "jobCount": 21,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": false,
       "jobCount": 58,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": false,
       "jobCount": 14,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": false,
       "jobCount": 44,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/37/58016",
       "ok": false,
       "jobCount": 24,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
       "ok": false,
       "jobCount": 43,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
       "ok": false,
       "jobCount": 33,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
       "ok": false,
       "jobCount": 40,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
       "ok": false,
       "jobCount": 70,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -151,7 +151,7 @@
       "name": "延趣游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xmyanquhr/74333",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -160,7 +160,7 @@
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
       "ok": false,
       "jobCount": 4,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
       "ok": false,
       "jobCount": 69,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
       "ok": false,
       "jobCount": 14,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -186,7 +186,7 @@
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -195,7 +195,7 @@
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
       "ok": false,
       "jobCount": 36,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
       "ok": false,
       "jobCount": 16,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
       "ok": false,
       "jobCount": 33,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -231,7 +231,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
       "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -240,7 +240,7 @@
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
       "ok": false,
       "jobCount": 18,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
       "ok": false,
       "jobCount": 5,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -276,7 +276,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
       "ok": false,
       "jobCount": 0,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -285,7 +285,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
       "ok": false,
       "jobCount": 6,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -294,7 +294,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
       "ok": false,
       "jobCount": 2,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -303,7 +303,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
       "ok": false,
       "jobCount": 2,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
       "ok": false,
       "jobCount": 5,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -321,7 +321,7 @@
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -330,7 +330,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -339,7 +339,7 @@
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
       "ok": false,
       "jobCount": 0,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -348,7 +348,7 @@
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
       "ok": false,
       "jobCount": 0,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -356,7 +356,7 @@
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -364,7 +364,7 @@
       "name": "哈乐沃德校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/hellowdtest/38235",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -373,7 +373,7 @@
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -381,7 +381,7 @@
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -390,7 +390,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
       "ok": false,
       "jobCount": 7,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -398,7 +398,7 @@
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -406,7 +406,7 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -415,7 +415,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -424,7 +424,7 @@
       "url": "https://papergames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 39,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -432,7 +432,7 @@
       "name": "蛮啾网络校招（飞书）",
       "url": "https://ooia5293gn.jobs.feishu.cn/542332/position/list",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -441,7 +441,7 @@
       "url": "https://huayugames.jobs.feishu.cn/210512/position/list",
       "ok": false,
       "jobCount": 22,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -450,7 +450,7 @@
       "url": "https://elex-work.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 16,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -459,7 +459,7 @@
       "url": "https://huanle.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 16,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -468,7 +468,7 @@
       "url": "https://jzyxgames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 5,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -477,7 +477,7 @@
       "url": "https://learnings.jobs.feishu.cn/948023/position/list",
       "ok": false,
       "jobCount": 12,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -486,7 +486,7 @@
       "url": "https://sofunny.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -495,7 +495,7 @@
       "url": "https://gamealestudio.jobs.feishu.cn/007955/m/position/list",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -504,7 +504,7 @@
       "url": "https://zen-game.jobs.feishu.cn/679976/position/list",
       "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -513,7 +513,7 @@
       "url": "https://coconutisland.jobs.feishu.cn/coconut_campus/position/list",
       "ok": false,
       "jobCount": 4,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -522,7 +522,7 @@
       "url": "https://micoworld.jobs.feishu.cn/152087/position/list",
       "ok": false,
       "jobCount": 2,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -531,7 +531,7 @@
       "url": "https://rastargame.jobs.feishu.cn/066491/position/list",
       "ok": false,
       "jobCount": 43,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -540,7 +540,7 @@
       "url": "https://meta.jobs.feishu.cn/140297/position/list",
       "ok": false,
       "jobCount": 43,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -549,7 +549,7 @@
       "url": "https://t7le908iko.jobs.feishu.cn/624052/m/position/list",
       "ok": false,
       "jobCount": 7,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -557,7 +557,7 @@
       "name": "白日梦校招（飞书）",
       "url": "https://szbrmwlyx.jobs.feishu.cn/daydreams/position/list",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -566,7 +566,7 @@
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326",
       "ok": false,
       "jobCount": 108,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -575,7 +575,7 @@
       "url": "https://campus.zulong.com/campus_apply/zulong/25158",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -583,7 +583,7 @@
       "name": "英雄游戏校招（Moka）",
       "url": "https://careers.hero.com/campus-recruitment/yingxionghr/65922",
       "ok": false,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -592,7 +592,7 @@
       "url": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628",
       "ok": false,
       "jobCount": 20,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -601,7 +601,7 @@
       "url": "https://campus.tap4fun.com/campus_apply/tap4fun/291",
       "ok": false,
       "jobCount": 8,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -610,7 +610,7 @@
       "url": "https://nd.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     },
     {
@@ -619,7 +619,7 @@
       "url": "https://bingchuan1.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     },
     {
@@ -628,7 +628,7 @@
       "url": "https://wooduan.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     },
     {
@@ -637,7 +637,7 @@
       "url": "https://9377.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-08T16:40:29.106Z",
+      "checkedAt": "2026-09-08T16:43:15.288Z",
       "error": null
     }
   ],
