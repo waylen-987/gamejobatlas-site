@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T12:49:47.284Z",
+  "generatedAt": "2026-09-09T13:00:10.154Z",
   "summary": {
     "activeJobs": 2937,
     "internships": 1228,
     "campusJobs": 1709,
     "companies": 87,
-    "healthySources": 30,
+    "healthySources": 97,
     "totalSources": 107,
     "recentlyClosed": 84
   },
@@ -17,7 +17,7 @@
       "url": "https://hr.4399om.com/campus/",
       "ok": true,
       "jobCount": 56,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://careers.tencent.com/zh-cn/search.html",
       "ok": true,
       "jobCount": 37,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 265,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -44,116 +44,116 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 58,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
       "key": "feishu-boke",
       "name": "波克城市校招（飞书）",
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 110,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-kuro",
       "name": "库洛游戏校招（飞书）",
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 84,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-lilith",
       "name": "莉莉丝校招与实习（飞书）",
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 92,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-wepie",
       "name": "微派网络校招（飞书）",
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-cyou",
       "name": "畅游校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
-      "ok": false,
+      "ok": true,
       "jobCount": 56,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-shengqu",
       "name": "盛趣游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
-      "ok": false,
+      "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-ztgame",
       "name": "巨人网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
-      "ok": false,
+      "ok": true,
       "jobCount": 44,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-37",
       "name": "三七互娱校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/37/58016",
-      "ok": false,
+      "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-xishanju",
       "name": "西山居校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
-      "ok": false,
+      "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-leyuansu",
       "name": "乐元素校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
-      "ok": false,
+      "ok": true,
       "jobCount": 33,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-garena",
       "name": "Garena校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
-      "ok": false,
+      "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-funplus01",
       "name": "趣加校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
-      "ok": false,
+      "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-xmyanquhr",
@@ -167,205 +167,205 @@
       "key": "moka-feiyu",
       "name": "飞鱼科技校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-tuyoogame",
       "name": "途游游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
-      "ok": false,
+      "ok": true,
       "jobCount": 70,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-legougames",
       "name": "乐狗游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
-      "ok": false,
+      "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-ijianxin",
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "moka-aobi",
       "name": "百奥校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
-      "ok": false,
+      "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-yokagames",
       "name": "游卡网络校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
-      "ok": false,
+      "ok": true,
       "jobCount": 36,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-galasports",
       "name": "望尘科技校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
-      "ok": false,
+      "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-shiyuehr",
       "name": "诗悦网络校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
-      "ok": false,
+      "ok": true,
       "jobCount": 33,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-damenglongtu",
       "name": "大梦龙途校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
-      "ok": false,
+      "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-blueinteractive",
       "name": "深蓝互动校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
-      "ok": false,
+      "ok": true,
       "jobCount": 18,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-zlongame",
       "name": "紫龙游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
-      "ok": false,
+      "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-micateam",
       "name": "散爆网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-kingnet",
       "name": "恺英网络校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-xingjia",
       "name": "广州星嘉校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-yyxx",
       "name": "乐享元游校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-miao",
       "name": "妙世界校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-h3d",
       "name": "永星互动校招（Moka）",
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-dianchu",
       "name": "点触科技校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-yanhun",
       "name": "炎魂网络校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
-      "ok": false,
+      "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-sgra",
       "name": "银之心校招（Moka）",
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
-      "ok": false,
+      "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-droidhang",
       "name": "卓杭科技校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-lovegames",
       "name": "乐府互娱校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-digisky",
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -373,41 +373,41 @@
       "name": "哈乐沃德校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/hellowdtest/38235",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "moka-yunchanggame",
       "name": "云畅游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
-      "ok": false,
+      "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-junhaigames",
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "moka-lingxihz",
       "name": "聆曦网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-gyyx",
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -415,178 +415,178 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "moka-xmpaoyou",
       "name": "泡游网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-papergames",
       "name": "叠纸游戏校招（飞书）",
       "url": "https://papergames.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-ooia5293gn",
       "name": "蛮啾网络校招（飞书）",
       "url": "https://ooia5293gn.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-huayugames",
       "name": "华娱网络校招（飞书）",
       "url": "https://huayugames.jobs.feishu.cn/210512/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 22,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-elex-work",
       "name": "智明星通校招（飞书）",
       "url": "https://elex-work.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-huanle",
       "name": "欢乐互娱校招（飞书）",
       "url": "https://huanle.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-jzyxgames",
       "name": "极致游戏校招（飞书）",
       "url": "https://jzyxgames.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-learnings",
       "name": "乐信圣文校招（飞书）",
       "url": "https://learnings.jobs.feishu.cn/948023/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-sofunny",
       "name": "真有趣校招（飞书）",
       "url": "https://sofunny.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-gamealestudio",
       "name": "盖姆艾尔校招（飞书）",
       "url": "https://gamealestudio.jobs.feishu.cn/007955/m/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-zen-game",
       "name": "禅游科技校招（飞书）",
       "url": "https://zen-game.jobs.feishu.cn/679976/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-coconutisland",
       "name": "椰岛游戏校招（飞书）",
       "url": "https://coconutisland.jobs.feishu.cn/coconut_campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-micoworld",
       "name": "米可世界校招（飞书）",
       "url": "https://micoworld.jobs.feishu.cn/152087/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-rastargame",
       "name": "星辉游戏校招（飞书）",
       "url": "https://rastargame.jobs.feishu.cn/066491/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-meta",
       "name": "MetaApp校招（飞书）",
       "url": "https://meta.jobs.feishu.cn/140297/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-t7le908iko",
       "name": "红海无限校招（飞书）",
       "url": "https://t7le908iko.jobs.feishu.cn/624052/m/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-szbrmwlyx",
       "name": "白日梦校招（飞书）",
       "url": "https://szbrmwlyx.jobs.feishu.cn/daydreams/position/list",
       "ok": false,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "moka-hypergryph",
       "name": "鹰角网络校招（Moka）",
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-zulong",
       "name": "祖龙娱乐校招（Moka）",
       "url": "https://campus.zulong.com/campus_apply/zulong/25158",
-      "ok": false,
+      "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-yingxionghr",
@@ -600,19 +600,19 @@
       "key": "moka-ourpalm",
       "name": "掌趣科技校招（Moka）",
       "url": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628",
-      "ok": false,
+      "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-tap4fun",
       "name": "tap4fun校招（Moka）",
       "url": "https://campus.tap4fun.com/campus_apply/tap4fun/291",
-      "ok": false,
+      "ok": true,
       "jobCount": 8,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "zhiye-nd",
@@ -620,7 +620,7 @@
       "url": "https://nd.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -629,7 +629,7 @@
       "url": "https://bingchuan1.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 8,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -638,7 +638,7 @@
       "url": "https://wooduan.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -647,26 +647,26 @@
       "url": "https://9377.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
       "key": "feishu-moonton",
       "name": "沐瞳游戏校招（飞书）",
       "url": "https://moonton.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 94,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-microfunhr",
       "name": "柠檬微趣校招（Moka）",
       "url": "https://app.mokahr.com/apply/microfunhr/75944",
-      "ok": false,
+      "ok": true,
       "jobCount": 18,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moseeker-virtuos",
@@ -674,7 +674,7 @@
       "url": "https://www.moseeker.com/positions/index/cid/137863",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -683,26 +683,26 @@
       "url": "https://www.yotta-hr.com/zh/job",
       "ok": true,
       "jobCount": 9,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
       "key": "moka-pwrd",
       "name": "完美世界校招与实习（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/pwrd/172467",
-      "ok": false,
+      "ok": true,
       "jobCount": 101,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "bilibili",
       "name": "哔哩哔哩游戏类校招",
       "url": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts",
-      "ok": false,
+      "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "nowcoder-eachina",
@@ -710,7 +710,7 @@
       "url": "https://www.nowcoder.com/careers/eachina/170108",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -719,7 +719,7 @@
       "url": "https://m.nowcoder.com/careers/yh/105949",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -728,7 +728,7 @@
       "url": "https://www.nowcoder.com/enterprise/156577",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -737,17 +737,17 @@
       "url": "https://zh-cn.ubisoft.com/company/career_result?type=2",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
       "key": "duole",
       "name": "多乐游戏校园招聘",
       "url": "https://www.duole.com/recruitment/school/index",
-      "ok": true,
+      "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": null
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "huoyu",
@@ -755,7 +755,7 @@
       "url": "https://campus.huoyugame.com/job.html",
       "ok": true,
       "jobCount": 28,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -764,7 +764,7 @@
       "url": "https://www.riotgames.com/en/work-with-us/offices/shanghai",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -773,7 +773,7 @@
       "url": "https://7doc.com.cn/about.html#job",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -782,7 +782,7 @@
       "url": "https://www.wanxinbuzhi.cn/join/school/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -791,17 +791,17 @@
       "url": "https://www.jodoinc.com/job/campus",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
       "key": "zhiye-ddhd",
       "name": "点点互动校招与实习（北森）",
       "url": "https://ddhd.cn/jobs",
-      "ok": true,
+      "ok": false,
       "jobCount": 79,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": null
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "gbits",
@@ -809,7 +809,7 @@
       "url": "https://hr.g-bits.com/web/index.html",
       "ok": true,
       "jobCount": 110,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -818,7 +818,7 @@
       "url": "https://xz.duoyi.com/v40/",
       "ok": true,
       "jobCount": 33,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -827,7 +827,7 @@
       "url": "https://www.babeltime.com/act/zhaopin/campus.html",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -836,7 +836,7 @@
       "url": "https://campus.ct108.com/",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -845,7 +845,7 @@
       "url": "https://official-website.hortorgames.com/",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -854,7 +854,7 @@
       "url": "https://osswebapp.haofangame.com/test/mobileRecruitment/campus.html",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -863,7 +863,7 @@
       "url": "https://ihr.mis.jjmatch.cn/gateway/api/recruit-website/#/recruit/web/project/eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJjb21wYW55SWRcIjpcImI0YmU0YjBiMzk5YzRkZTBhNmJmMDcwNmQ2MzY4MTMyXCIsXCJ0eXBlXCI6XCJPZmZpY2lhbFwiLFwib2ZmaWNpYWxJZFwiOjEwNTcyMDY4OTEwMzE5NTM0MDh9In0.ChVok_RO598yvIm-RJKVQgExAbJ7aM9nh9T23E0r81I/1057239649527660544_1/1",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -872,7 +872,7 @@
       "url": "https://www.thedream.cc/talent",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
@@ -881,26 +881,26 @@
       "url": "https://www.efun.com/join/recruitmentPc/campus/post",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": null
     },
     {
       "key": "alibaba-lingxi",
       "name": "灵犀互娱校招（阿里校园招聘）",
       "url": "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=%7B%22customDept%22%3A%5B%22YQNHYU%22%5D%7D",
-      "ok": false,
+      "ok": true,
       "jobCount": 80,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "throne-xd",
       "name": "心动网络校招与实习（飞书招聘）",
       "url": "https://hr.xd.cn/117745/position/list#/jobs?page=1&anchorName=jobsList",
-      "ok": false,
+      "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "throne-bytedance-games",
@@ -908,80 +908,80 @@
       "url": "https://jobs.bytedance.com/campus/position?keywords=%E6%B8%B8%E6%88%8F&current=1&limit=100",
       "ok": false,
       "jobCount": 385,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
+      "checkedAt": "2026-09-09T13:00:10.154Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "throne-66y",
       "name": "游酷盛世校园招聘（飞书招聘）",
       "url": "https://jobs.66y.com/campus/position/list?current=1&limit=10",
-      "ok": false,
+      "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-ys4fun",
       "name": "勇仕网络校园招聘（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ys4fun/45636",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-yoozoo",
       "name": "游族校园招聘（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/yoozoo/3728",
-      "ok": false,
+      "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-tavern",
       "name": "麦吉太文校园招聘（Moka）",
       "url": "https://app.mokahr.com/campus_apply/tavern/39918",
-      "ok": false,
+      "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-yanqugame",
       "name": "延趣游戏校招（飞书）",
       "url": "https://yanqugame.jobs.feishu.cn/xz/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "feishu-herogames",
       "name": "英雄游戏校招（飞书）",
       "url": "https://herogames.jobs.feishu.cn/campus/position/list",
-      "ok": false,
+      "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-saluosi",
       "name": "萨罗斯实习（Moka 社招页只收实习）",
       "url": "https://app-tc.mokahr.com/social-recruitment/saluosi/16010",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     },
     {
       "key": "moka-yostar",
       "name": "悠星网络实习（Moka 社招页只收实习）",
       "url": "https://app.mokahr.com/social-recruitment/yostar/145292",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-09T12:49:47.284Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-09T13:00:10.154Z",
+      "error": null
     }
   ],
   "campaigns": [
@@ -20023,7 +20023,7 @@
       "firstSeen": "9/8",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 79,
+      "offset": 78,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7683041128053311771/detail"
@@ -20118,7 +20118,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/728ee53a-4d13-43c7-98fb-898be1c4b1bb"
@@ -20137,7 +20137,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/9e6c83cc-93ca-416c-b730-51e108a5f38b"
@@ -20156,7 +20156,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/3e0a5978-0370-4208-ab70-fcd776643741"
@@ -20175,7 +20175,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/4e5ba500-48aa-4107-86c0-464beff94b77"
@@ -20194,7 +20194,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/04c1dedf-b906-48d5-b42d-86ea1f002e26"
@@ -20213,7 +20213,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/fe82d1f1-3c7e-4267-be6b-9f71276a142e"
@@ -20232,7 +20232,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/f6008bb2-cf52-48c4-ae26-e526f8dff7d3"
@@ -20251,7 +20251,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/905feeaa-616e-4f29-a42d-cefe8c6b3a9a"
@@ -20270,7 +20270,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/b9f236e6-4f22-49f3-8c01-4daae9799a6a"
@@ -20289,7 +20289,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/a80bb4aa-649f-4780-acee-269698023b30"
@@ -20308,7 +20308,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#2f9fb3",
       "sourceUrl": "https://campus.zulong.com/campus_apply/zulong/25158#/job/be661691-45fc-4882-bd20-70791f6ca406"
@@ -20327,7 +20327,7 @@
       "firstSeen": "9/7",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus_apply/aobi/25016#/job/ef06fdf8-7107-473a-9db9-3d7eee75012d"
@@ -30905,8 +30905,8 @@
       "city": "广州、新加坡",
       "type": "网易互娱2027届校园招聘",
       "recruitmentKind": "campus",
-      "status": "new",
-      "statusLabel": "本周有更新",
+      "status": "open",
+      "statusLabel": "官方招聘中",
       "firstSeen": "8/28",
       "verified": "9/9",
       "deadline": "截止时间未公布",
@@ -40505,7 +40505,7 @@
       "firstSeen": "9/4",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 24,
+      "offset": 23,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675575188772391211/detail"
@@ -40524,7 +40524,7 @@
       "firstSeen": "9/4",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 24,
+      "offset": 23,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675574250610575642/detail"
@@ -41322,7 +41322,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674896722594744619/detail"
@@ -41341,7 +41341,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674896880354314532/detail"
@@ -41360,7 +41360,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674896823600908582/detail"
@@ -41379,7 +41379,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674895755848648979/detail"
@@ -41398,7 +41398,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674895605982791972/detail"
@@ -41417,7 +41417,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674895415565568299/detail"
@@ -43260,7 +43260,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673811456466635054/detail"
@@ -43279,7 +43279,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673810469828839707/detail"
@@ -43298,7 +43298,7 @@
       "firstSeen": "8/31",
       "verified": "9/9",
       "deadline": "截止时间未公布",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7673808770221345033/detail"
@@ -46917,7 +46917,7 @@
       "id": "feishu-moonton-e95f6a7a5ad6",
       "company": "沐瞳游戏",
       "short": "MOONTON",
-      "role": "【2027届秋招】技术策划-MOBA",
+      "role": "【2027届秋招】AI技术策划-MOBA",
       "category": "游戏策划",
       "city": "上海",
       "type": "2027届秋招",
