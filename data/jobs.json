@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-12T13:00:02.037Z",
+  "generatedAt": "2026-09-12T14:00:02.575Z",
   "summary": {
     "activeJobs": 3265,
     "internships": 1454,
     "campusJobs": 1811,
     "companies": 88,
-    "healthySources": 80,
+    "healthySources": 82,
     "totalSources": 111,
     "recentlyClosed": 568
   },
@@ -17,7 +17,7 @@
       "url": "https://hr.4399om.com/campus/",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://join.qq.com/post.html?query=b_956",
       "ok": true,
       "jobCount": 298,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 262,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 243,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": false,
       "jobCount": 109,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 84,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 96,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": false,
       "jobCount": 21,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 44,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://zhaopin.37.com/index.php?m=Home&c=recruit&a=recruit&recruit=1",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
       "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
       "ok": true,
       "jobCount": 34,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -152,7 +152,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
       "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
       "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -195,7 +195,7 @@
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -231,7 +231,7 @@
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
       "ok": true,
       "jobCount": 34,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -240,7 +240,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
       "ok": true,
       "jobCount": 35,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -276,7 +276,7 @@
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -285,7 +285,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -294,7 +294,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -303,7 +303,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -321,7 +321,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -330,7 +330,7 @@
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -339,7 +339,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -348,7 +348,7 @@
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -374,7 +374,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/hellowdtest/166627",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -383,7 +383,7 @@
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -391,7 +391,7 @@
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -400,7 +400,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -408,7 +408,7 @@
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -416,7 +416,7 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -425,7 +425,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -434,7 +434,7 @@
       "url": "https://papergames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 39,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -443,7 +443,7 @@
       "url": "https://ooia5293gn.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 14,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -452,7 +452,7 @@
       "url": "https://huayugames.jobs.feishu.cn/210512/position/list",
       "ok": false,
       "jobCount": 22,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -461,7 +461,7 @@
       "url": "https://elex-work.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 16,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -470,7 +470,7 @@
       "url": "https://huanle.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 17,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -479,7 +479,7 @@
       "url": "https://jzyxgames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 5,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -488,7 +488,7 @@
       "url": "https://learnings.jobs.feishu.cn/948023/position/list",
       "ok": false,
       "jobCount": 12,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -497,7 +497,7 @@
       "url": "https://sofunny.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -506,7 +506,7 @@
       "url": "https://gamealestudio.jobs.feishu.cn/007955/m/position/list",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -515,7 +515,7 @@
       "url": "https://zen-game.jobs.feishu.cn/679976/position/list",
       "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -524,7 +524,7 @@
       "url": "https://coconutisland.jobs.feishu.cn/coconut_campus/position/list",
       "ok": false,
       "jobCount": 4,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -533,7 +533,7 @@
       "url": "https://micoworld.jobs.feishu.cn/152087/position/list",
       "ok": false,
       "jobCount": 2,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -542,7 +542,7 @@
       "url": "https://rastargame.jobs.feishu.cn/066491/position/list",
       "ok": false,
       "jobCount": 43,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -551,7 +551,7 @@
       "url": "https://meta.jobs.feishu.cn/140297/position/list",
       "ok": false,
       "jobCount": 44,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -560,7 +560,7 @@
       "url": "https://t7le908iko.jobs.feishu.cn/624052/m/position/list",
       "ok": false,
       "jobCount": 7,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -568,7 +568,7 @@
       "name": "白日梦校招（飞书）",
       "url": "https://szbrmwlyx.jobs.feishu.cn/daydreams/position/list",
       "ok": false,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -577,7 +577,7 @@
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326",
       "ok": true,
       "jobCount": 105,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -586,7 +586,7 @@
       "url": "https://campus.zulong.com/campus_apply/zulong/25158",
       "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -603,7 +603,7 @@
       "url": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -612,7 +612,7 @@
       "url": "https://campus.tap4fun.com/campus_apply/tap4fun/291",
       "ok": true,
       "jobCount": 8,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -621,7 +621,7 @@
       "url": "https://nd.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -630,7 +630,7 @@
       "url": "https://bingchuan1.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 28,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -639,7 +639,7 @@
       "url": "https://wooduan.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -648,7 +648,7 @@
       "url": "https://9377.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -657,7 +657,7 @@
       "url": "https://moonton.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 94,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -666,7 +666,7 @@
       "url": "https://app.mokahr.com/apply/microfunhr/75944",
       "ok": true,
       "jobCount": 18,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -675,7 +675,7 @@
       "url": "https://www.moseeker.com/positions/index/cid/137863",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -684,7 +684,7 @@
       "url": "https://www.yotta-hr.com/zh/job",
       "ok": true,
       "jobCount": 9,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -693,17 +693,17 @@
       "url": "https://app.mokahr.com/campus-recruitment/pwrd/172467",
       "ok": true,
       "jobCount": 102,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
       "key": "bilibili",
       "name": "哔哩哔哩游戏类校招",
       "url": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts",
-      "ok": false,
+      "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-12T14:00:02.575Z",
+      "error": null
     },
     {
       "key": "nowcoder-eachina",
@@ -711,7 +711,7 @@
       "url": "https://jobs.ea.com/en_US/careers/Home/?8171=%5B10579%5D&8171_format=5683&listFilterMode=1&jobRecordsPerPage=50",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -720,7 +720,7 @@
       "url": "https://m.nowcoder.com/careers/yh/105949",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -729,7 +729,7 @@
       "url": "https://thatgamecompany.com/careers/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -738,7 +738,7 @@
       "url": "https://zh-cn.ubisoft.com/company/career_result?type=2",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -747,7 +747,7 @@
       "url": "https://www.duole.com/recruitment/school/index",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -756,7 +756,7 @@
       "url": "https://campus.huoyugame.com/job.html",
       "ok": true,
       "jobCount": 28,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -765,7 +765,7 @@
       "url": "https://www.riotgames.com/zh-cn/work-with-us",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -774,7 +774,7 @@
       "url": "https://7doc.com.cn/about.html#job",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -783,7 +783,7 @@
       "url": "https://www.wanxinbuzhi.cn/join/school/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -792,17 +792,17 @@
       "url": "https://www.jodoinc.com/job/campus",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
       "key": "zhiye-ddhd",
       "name": "点点互动校招与实习（北森）",
       "url": "https://ddhd.cn/jobs",
-      "ok": false,
+      "ok": true,
       "jobCount": 80,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-12T14:00:02.575Z",
+      "error": null
     },
     {
       "key": "gbits",
@@ -810,7 +810,7 @@
       "url": "https://hr.g-bits.com/web/index.html",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -819,7 +819,7 @@
       "url": "https://xz.duoyi.com/v40/",
       "ok": true,
       "jobCount": 33,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -828,7 +828,7 @@
       "url": "https://www.babeltime.com/act/zhaopin/campus.html",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -837,7 +837,7 @@
       "url": "https://campus.ct108.com/",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -846,7 +846,7 @@
       "url": "https://official-website.hortorgames.com/",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -855,7 +855,7 @@
       "url": "https://osswebapp.haofangame.com/test/mobileRecruitment/campus.html",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -864,7 +864,7 @@
       "url": "https://ihr.mis.jjmatch.cn/gateway/api/recruit-website/#/recruit/web/project/eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJjb21wYW55SWRcIjpcImI0YmU0YjBiMzk5YzRkZTBhNmJmMDcwNmQ2MzY4MTMyXCIsXCJ0eXBlXCI6XCJPZmZpY2lhbFwiLFwib2ZmaWNpYWxJZFwiOjEwNTcyMDY4OTEwMzE5NTM0MDh9In0.ChVok_RO598yvIm-RJKVQgExAbJ7aM9nh9T23E0r81I/1057239649527660544_1/1",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -873,7 +873,7 @@
       "url": "https://www.thedream.cc/talent",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -891,7 +891,7 @@
       "url": "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=%7B%22customDept%22%3A%5B%22YQNHYU%22%5D%7D",
       "ok": true,
       "jobCount": 81,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -900,7 +900,7 @@
       "url": "https://hr.xd.cn/117745/position/list#/jobs?page=1&anchorName=jobsList",
       "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -909,7 +909,7 @@
       "url": "https://jobs.bytedance.com/campus/position?current=1&limit=100",
       "ok": true,
       "jobCount": 75,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -918,7 +918,7 @@
       "url": "https://jobs.66y.com/campus/position/list?current=1&limit=10",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -927,7 +927,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ys4fun/45636",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -936,7 +936,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yoozoo/3728",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -945,7 +945,7 @@
       "url": "https://app.mokahr.com/campus_apply/tavern/39918",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -954,7 +954,7 @@
       "url": "https://yanqugame.jobs.feishu.cn/xz/position/list",
       "ok": false,
       "jobCount": 7,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -963,7 +963,7 @@
       "url": "https://herogames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -972,7 +972,7 @@
       "url": "https://app-tc.mokahr.com/social-recruitment/saluosi/16010",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -981,7 +981,7 @@
       "url": "https://app.mokahr.com/social-recruitment/yostar/145292",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -990,7 +990,7 @@
       "url": "https://jobs.omneegames.com/campus/position/list",
       "ok": false,
       "jobCount": 11,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -999,7 +999,7 @@
       "url": "https://leihuo.163.com/campus/#/full",
       "ok": true,
       "jobCount": 188,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -1008,7 +1008,7 @@
       "url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs",
       "ok": true,
       "jobCount": 20,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     },
     {
@@ -1017,7 +1017,7 @@
       "url": "https://snk-corp.jobs.feishu.cn/442908/position/list",
       "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -1026,7 +1026,7 @@
       "url": "https://cn-jobs.igg.com/public/careers.html",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-12T13:00:02.037Z",
+      "checkedAt": "2026-09-12T14:00:02.575Z",
       "error": null
     }
   ],
@@ -1100,7 +1100,7 @@
       "status": "招聘中",
       "offset": 2,
       "width": 94,
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts",
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/30368",
       "startSource": null,
       "endSource": null,
       "startEvidence": null,
@@ -1295,7 +1295,7 @@
       "status": "招聘中",
       "offset": 2,
       "width": 94,
-      "sourceUrl": "https://official-website.hortorgames.com/#/position/613af9ee0db632000a5a98f6",
+      "sourceUrl": "https://official-website.hortorgames.com/#/web/detail?id=613af9ee0db632000a5a98f6",
       "startSource": null,
       "endSource": null,
       "startEvidence": null,
@@ -1370,7 +1370,7 @@
       "status": "招聘中",
       "offset": 2,
       "width": 94,
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a07ac8a3b52f44",
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/",
       "startSource": null,
       "endSource": null,
       "startEvidence": null,
@@ -1625,7 +1625,7 @@
       "status": "招聘中",
       "offset": 2,
       "width": 32,
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9466",
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9466",
       "startSource": null,
       "endSource": "official",
       "startEvidence": null,
@@ -4356,10 +4356,10 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9502"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9502"
     },
     {
       "id": "moka-yoozoo-5712b4075126",
@@ -4375,7 +4375,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/4d8a4db2-28ce-4ad3-b051-2e0453d0d3d7"
@@ -4394,7 +4394,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/ba9c4774-0891-42a1-b71e-b73c24bc6ef2"
@@ -4413,7 +4413,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/ba8f1bcc-1c51-4a4b-8d79-887a44b3fe6b"
@@ -4432,7 +4432,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/9eee2edc-0751-403e-bbf1-dd9ebd25cac9"
@@ -4451,7 +4451,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c073b06d-519a-4ab5-a3ea-44c91caff443"
@@ -4470,7 +4470,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/be9dde9c-fdb7-40e2-a96d-c131c44bf8f4"
@@ -4489,7 +4489,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/e631246a-c069-4f7a-b4a9-735322629166"
@@ -4508,7 +4508,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/20189753-c9ee-46c0-af1a-c0860cb81678"
@@ -4527,7 +4527,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#cc2832",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c3665f8e-f4ed-4045-b57c-ff88ea51d7dc"
@@ -4546,7 +4546,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus_apply/aobi/25016#/job/5db5d54b-d50d-4f8f-94b2-9c16040a6979"
@@ -4565,7 +4565,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus_apply/aobi/25016#/job/7362d80c-a481-4389-936b-0aa611c05857"
@@ -4584,7 +4584,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus_apply/aobi/25016#/job/d6dd8c39-7b6f-44d6-9bb6-b2db807621b3"
@@ -4603,7 +4603,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus_apply/aobi/25016#/job/50674947-3133-44e9-bb6f-a6e4ef0226c8"
@@ -9451,7 +9451,7 @@
       "offset": 76,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e63e3b3019ea527c4a464b5"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "moka-garena-60bfbfd78a6f",
@@ -9847,7 +9847,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://nd.zhiye.com/intern/detail?jobAdId=63526476-7af3-4b22-850c-697207e019ec"
@@ -9866,7 +9866,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://nd.zhiye.com/intern/detail?jobAdId=9f694c8e-c708-494c-a88b-d8159ad75d55"
@@ -9885,7 +9885,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://nd.zhiye.com/intern/detail?jobAdId=ec249e00-58fe-4c6c-b6f9-8eab50f6be99"
@@ -9904,7 +9904,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://nd.zhiye.com/intern/detail?jobAdId=d59856fb-9e8e-459c-9c8e-f432c337542d"
@@ -9923,7 +9923,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://nd.zhiye.com/intern/detail?jobAdId=9e6bedd5-9d20-4320-aa1e-926472eee2eb"
@@ -9942,7 +9942,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/intern/detail?jobAdId=af5cd31b-c794-4909-811a-8fe3797ffd48"
@@ -9961,7 +9961,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/intern/detail?jobAdId=7667494f-521a-4977-a260-307a321fc415"
@@ -9980,7 +9980,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 74,
+      "offset": 73,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=75885"
@@ -12966,7 +12966,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a07ac8a3b52f44"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-f05a17f97ecf",
@@ -12985,7 +12985,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06283138c00cd"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-bd8d227afb10",
@@ -13004,7 +13004,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06275ac5200c7"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-0e3b80ad83ec",
@@ -13023,7 +13023,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06274449c00c6"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-da858832c2ce",
@@ -13042,7 +13042,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06270ef5600c5"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-6b2fcad2b3fb",
@@ -13061,7 +13061,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06269287d00c4"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-42c39c2eeb9f",
@@ -13080,7 +13080,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a062641da200c3"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-f5bcdbadc1bb",
@@ -13099,7 +13099,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0625b68af00c2"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-34eb827585a0",
@@ -13118,7 +13118,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a062599f3600c1"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-e3f5fefabe06",
@@ -13137,7 +13137,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a062510c0400bc"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-e7393f9554b7",
@@ -13156,7 +13156,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0624e8af100bb"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-12ae1ac442cb",
@@ -13175,7 +13175,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0624c573100ba"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-0644b004af44",
@@ -13194,7 +13194,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06249fcfc00b9"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-fcd532fe1233",
@@ -13213,7 +13213,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a062461a0e00b8"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-8b8090b42bc7",
@@ -13232,7 +13232,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06245529900b7"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-46a997d4aa54",
@@ -13251,7 +13251,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06243bfcd00b6"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-9effea1819da",
@@ -13270,7 +13270,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a062436d1d00b5"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-406ffa667b5d",
@@ -13289,7 +13289,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0624156e900b4"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-792d4dc423e1",
@@ -13308,7 +13308,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0623d22e100b3"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-45469f96a810",
@@ -13327,7 +13327,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06237dcab00b2"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-9b797726e27d",
@@ -13346,7 +13346,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06237b57400b1"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-725178f645ea",
@@ -13365,7 +13365,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06234afaf0079"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-773017382d47",
@@ -13384,7 +13384,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06232c19f0078"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-052657fb5bb5",
@@ -13403,7 +13403,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0623236a30077"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-eb9c7402558c",
@@ -13422,7 +13422,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0622fc51f0075"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-e76bd4a96c32",
@@ -13441,7 +13441,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0622edf1f0074"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1bc45539a6c6",
@@ -13460,7 +13460,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0622b64240073"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-4db45258ee1d",
@@ -13479,7 +13479,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0622aef5d0072"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-f2b2adbcd420",
@@ -13498,7 +13498,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06228ee530071"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-94ca3dc92c46",
@@ -13517,7 +13517,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06225fbff0070"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-8b6d4cbace08",
@@ -13536,7 +13536,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0621e4581006f"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-ed43bca8395c",
@@ -13555,7 +13555,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a0621dabdd006e"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-a79e763d5cc4",
@@ -13574,7 +13574,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06217df29006d"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-8d03f122cdc5",
@@ -13593,7 +13593,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06212b51b0062"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-ef82b357c37e",
@@ -13612,7 +13612,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a061eb7e380000"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-13977963dd31",
@@ -13631,7 +13631,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a057a3ea01a061b8862d1173"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1454289a76fb",
@@ -13650,7 +13650,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a057a3ea01a061aaebcc1157"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-946b6caa66dc",
@@ -13669,7 +13669,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f845c71019f8776481201e1"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-f75dabfb0ed0",
@@ -13688,7 +13688,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f60466c019f8274687b3674"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-b5e2af00143c",
@@ -13707,7 +13707,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f416694019f449939b304ef"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-b30b67f3b747",
@@ -13726,7 +13726,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ed02a96019ef27f59082979"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-739425f99296",
@@ -13745,7 +13745,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e63e3b3019ece666a9b326b"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-9b9ebaed1398",
@@ -13764,7 +13764,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079a4e7437019a57b3de241601"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1989820b7464",
@@ -13783,7 +13783,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac0798d17e070198e5207f0f0ed0"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-763a182e2eb3",
@@ -13802,7 +13802,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07953cdb7c01954a9541fd2422"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-b61e2d8a5471",
@@ -13821,7 +13821,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82acdc900c1a20019023f11ef95e99"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-4e0931378d65",
@@ -13840,7 +13840,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ed02a96019ed37f3f8b0246"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-12da167ce887",
@@ -13859,7 +13859,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079db9fc3c019dce013c1329fb"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-abce1601c01f",
@@ -13878,7 +13878,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079d472cbf019d6b96990358bd"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-80a12e24f438",
@@ -13897,7 +13897,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079c998edb019ca1d4f10c09cf"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-255036bb4bf4",
@@ -13916,7 +13916,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079abaa8c0019ac8498c580edd"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-d4d7af42e459",
@@ -13935,7 +13935,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac0794931e7e0194d3f5b59306e4"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-56b9bf675024",
@@ -13954,7 +13954,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac0791bcc6500191bfd0dbe310e4"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-259e3b000852",
@@ -13973,7 +13973,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82acdc8d79584f018d82b49d66181d"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-fe5626bdddfd",
@@ -13992,7 +13992,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f845c71019f896034fe098d"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-adfdf1cdc207",
@@ -14011,7 +14011,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a057600c692be3"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-e898a0175cdf",
@@ -14030,7 +14030,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a04c6891fa1ef8"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-adec01d5801d",
@@ -14049,7 +14049,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a03c0a71f97b5d"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-2c52243f2a46",
@@ -14068,7 +14068,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a032e115066962"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-f27a92b49f84",
@@ -14087,7 +14087,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a0232d3e345ab2"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1e5b4e3fe1ce",
@@ -14106,7 +14106,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a019eb4a924982"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-9c9ba5aa7d4b",
@@ -14125,7 +14125,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a019e9d63d4979"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-52aa457781bd",
@@ -14144,7 +14144,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd019ff511cf390719"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-7d354e1b7814",
@@ -14163,7 +14163,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd019ff50ccd1506cb"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-9c185e79d091",
@@ -14182,7 +14182,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079fcce311019fdb60af682084"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-2a0f1e424995",
@@ -14201,7 +14201,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079fcce311019fd121a93205f2"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-c1cebf91b23e",
@@ -14220,7 +14220,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f8ea81c019fa34eaf30138f"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-89244ace46ed",
@@ -14239,7 +14239,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f845c71019f8e77c7a91442"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-94f5b7cb0763",
@@ -14258,7 +14258,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f845c71019f8e76ce29143f"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1191ced295a3",
@@ -14277,7 +14277,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f60466c019f6ed9add41ee3"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-6d3f284a528d",
@@ -14296,7 +14296,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f416694019f5aea8d102644"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-8a7b5d4868d6",
@@ -14315,7 +14315,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f416694019f4639aa710bf5"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-28078cc194c3",
@@ -14334,7 +14334,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f182dbc019f1d1cc2a50692"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-3aee67598e7d",
@@ -14353,7 +14353,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ed02a96019f01eb59245949"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-3e697db60160",
@@ -14372,7 +14372,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ed02a96019ef7aa118b3c2d"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-b3a478228435",
@@ -14391,7 +14391,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e63e3b3019ec8f734b32929"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1140be511641",
@@ -14410,7 +14410,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e63e3b3019e90aee0fc4d69"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-a5509111fa77",
@@ -14429,7 +14429,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e63e3b3019e882f29753e15"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-9a1f3673640b",
@@ -14448,7 +14448,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e63e3b3019e677ee4b604d3"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-0935d2f0a09d",
@@ -14467,7 +14467,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079e1c07ef019e633e9887255e"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1842a1448880",
@@ -14486,7 +14486,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079d6cc532019d869cb5047f12"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-2ac6fe6258c4",
@@ -14505,7 +14505,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079d6cc532019d74f1158839fb"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-62758a5f64df",
@@ -14524,7 +14524,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079d0ade81019d41f1d0741716"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-738146dcb552",
@@ -14543,7 +14543,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079cd76beb019cff763a4943de"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-faa0d43280c8",
@@ -14562,7 +14562,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079cb351f7019cbce61d6c100f"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-b92ea45d8a37",
@@ -14581,7 +14581,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079a4e7437019a7259bc21419a"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-938dd9b67f6c",
@@ -14600,7 +14600,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079961a2a0019970893a13104e"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-d03b41d3a63d",
@@ -14619,7 +14619,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07990a175c0199133924371ac2"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-fe0f3edf206d",
@@ -14638,7 +14638,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a084e1e8204fe0"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-b1289904fa07",
@@ -14657,7 +14657,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a08059a8734223"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-765afe185c43",
@@ -14676,7 +14676,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a0801daa584118"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-bd0c406bba99",
@@ -14695,7 +14695,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a07f12996b3c3a"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-0d94a2da36ca",
@@ -14714,7 +14714,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a07b081c083006"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-695d0f5f91f8",
@@ -14733,7 +14733,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a07adc3fb72f9c"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-1fcc31f834c2",
@@ -14752,7 +14752,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a07a0f8fde2d58"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-850b3d518bd4",
@@ -14771,7 +14771,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a079998a7b2a59"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-69924864cbda",
@@ -14790,7 +14790,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a065e0c601a070496d4b201a"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-17111ec79d3b",
@@ -14809,7 +14809,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac07a061e74b01a06517a995028e"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-4fdea4f1bd1d",
@@ -14828,7 +14828,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a041dcd8aa0bec"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-db4b94e584d4",
@@ -14847,7 +14847,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a041d6e0160bae"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-65ed213a6868",
@@ -14866,7 +14866,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd01a013713d913821"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-21316f87a86b",
@@ -14885,7 +14885,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd019fff6d4eae229c"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-559f3ea58b26",
@@ -14904,7 +14904,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd019ffe5171741e96"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-43866f97b757",
@@ -14923,7 +14923,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ff08edd019ff4ab93ab054e"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-17b0b32b3f9d",
@@ -14942,7 +14942,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079fcce311019fe99882a52675"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-0205840cd0f6",
@@ -14961,7 +14961,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079f845c71019f8d8037bd0f26"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "gbits-234d34404d1b",
@@ -14980,7 +14980,7 @@
       "offset": 73,
       "width": 28,
       "color": "#1f6feb",
-      "sourceUrl": "https://hr.g-bits.com/web/index.html#/post-list/8a82ac079ed02a96019f01ba8d1b583d"
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/"
     },
     {
       "id": "babeltime-301377d6f915",
@@ -15189,7 +15189,7 @@
       "offset": 73,
       "width": 28,
       "color": "#ff6b35",
-      "sourceUrl": "https://official-website.hortorgames.com/#/position/613af9ee0db632000a5a98f6"
+      "sourceUrl": "https://official-website.hortorgames.com/#/web/detail?id=613af9ee0db632000a5a98f6"
     },
     {
       "id": "hortor-c20910c0fea7",
@@ -15208,7 +15208,7 @@
       "offset": 73,
       "width": 28,
       "color": "#ff6b35",
-      "sourceUrl": "https://official-website.hortorgames.com/#/position/5e43725294369e000aee615f"
+      "sourceUrl": "https://official-website.hortorgames.com/#/web/detail?id=5e43725294369e000aee615f"
     },
     {
       "id": "hortor-f83629f34bc3",
@@ -15227,7 +15227,7 @@
       "offset": 73,
       "width": 28,
       "color": "#ff6b35",
-      "sourceUrl": "https://official-website.hortorgames.com/#/position/69a69159129c6f000a4ccaaf"
+      "sourceUrl": "https://official-website.hortorgames.com/#/web/detail?id=69a69159129c6f000a4ccaaf"
     },
     {
       "id": "haofan-9a2b244a214d",
@@ -18245,7 +18245,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 73,
+      "offset": 72,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78706"
@@ -18264,7 +18264,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 73,
+      "offset": 72,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78705"
@@ -18283,7 +18283,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 73,
+      "offset": 72,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/apply/microfunhr/75944#/job/ca0bbd7d-72f3-478f-adfc-98a66b4c2da1"
@@ -18302,7 +18302,7 @@
       "firstSeen": "9/11",
       "verified": "9/12",
       "deadline": "",
-      "offset": 73,
+      "offset": 72,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=72477&lang=zh"
@@ -18321,7 +18321,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 73,
+      "offset": 72,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78704"
@@ -18587,7 +18587,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 71,
+      "offset": 70,
       "width": 28,
       "color": "#3256d9",
       "sourceUrl": "https://jobs.bytedance.com/campus/position/7683082923512711477/detail"
@@ -18606,7 +18606,7 @@
       "firstSeen": "9/8",
       "verified": "9/12",
       "deadline": "",
-      "offset": 71,
+      "offset": 70,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7683078839430809882/detail"
@@ -19670,10 +19670,10 @@
       "firstSeen": "9/7",
       "verified": "9/12",
       "deadline": "10/31",
-      "offset": 68,
+      "offset": 67,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9466"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9466"
     },
     {
       "id": "mihoyo-a837951a23f1",
@@ -19689,10 +19689,10 @@
       "firstSeen": "9/7",
       "verified": "9/12",
       "deadline": "10/31",
-      "offset": 68,
+      "offset": 67,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9464"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9464"
     },
     {
       "id": "moka-xishanju-de8b1db6968a",
@@ -19708,7 +19708,7 @@
       "firstSeen": "9/7",
       "verified": "9/12",
       "deadline": "",
-      "offset": 68,
+      "offset": 67,
       "width": 28,
       "color": "#d94f8a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/xishanju/37430#/job/2f724704-d06d-460a-aad3-8999b148bc18"
@@ -19727,7 +19727,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 68,
+      "offset": 67,
       "width": 28,
       "color": "#3256d9",
       "sourceUrl": "https://jobs.bytedance.com/campus/position/7682672997018667269/detail"
@@ -20927,7 +20927,7 @@
       "offset": 60,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/30368"
     },
     {
       "id": "moka-damenglongtu-573ab4db2ab6",
@@ -23622,7 +23622,7 @@
       "firstSeen": "8/28",
       "verified": "9/12",
       "deadline": "",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4766"
@@ -23641,7 +23641,7 @@
       "firstSeen": "8/28",
       "verified": "9/12",
       "deadline": "",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4769"
@@ -23660,7 +23660,7 @@
       "firstSeen": "9/11",
       "verified": "9/12",
       "deadline": "",
-      "offset": 60,
+      "offset": 59,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=71600&lang=zh"
@@ -26969,7 +26969,7 @@
       "offset": 59,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9460"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9460"
     },
     {
       "id": "tencent-ab2d68ea0ea2",
@@ -28166,7 +28166,7 @@
       "offset": 57,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29738"
     },
     {
       "id": "bilibili-eae0dcaf4391",
@@ -28185,7 +28185,7 @@
       "offset": 57,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29740"
     },
     {
       "id": "bilibili-74d58ca1db2c",
@@ -28204,7 +28204,7 @@
       "offset": 57,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29739"
     },
     {
       "id": "moka-ztgame-07f6b45f3ced",
@@ -28337,7 +28337,7 @@
       "offset": 57,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29982"
     },
     {
       "id": "netease-5b1196622715",
@@ -28904,7 +28904,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 55,
+      "offset": 54,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://ooia5293gn.jobs.feishu.cn/campus/position/7680906415398488356/detail"
@@ -28923,7 +28923,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 55,
+      "offset": 54,
       "width": 28,
       "color": "#3256d9",
       "sourceUrl": "https://jobs.bytedance.com/campus/position/7680898760179992837/detail"
@@ -29987,7 +29987,7 @@
       "firstSeen": "9/11",
       "verified": "9/12",
       "deadline": "",
-      "offset": 54,
+      "offset": 53,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78568&lang=zh"
@@ -30006,7 +30006,7 @@
       "firstSeen": "9/11",
       "verified": "9/12",
       "deadline": "",
-      "offset": 54,
+      "offset": 53,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78567&lang=zh"
@@ -30025,7 +30025,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 54,
+      "offset": 53,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78566"
@@ -30044,7 +30044,7 @@
       "firstSeen": "9/2",
       "verified": "9/12",
       "deadline": "",
-      "offset": 54,
+      "offset": 53,
       "width": 28,
       "color": "#377dff",
       "sourceUrl": "https://join.qq.com/post_detail.html?postid=2094852846817296384"
@@ -30215,7 +30215,7 @@
       "firstSeen": "9/12",
       "verified": "9/12",
       "deadline": "",
-      "offset": 52,
+      "offset": 51,
       "width": 28,
       "color": "#c25a3a",
       "sourceUrl": "https://snk-corp.jobs.feishu.cn/442908/position/7680501241056053514/detail"
@@ -30234,7 +30234,7 @@
       "firstSeen": "9/11",
       "verified": "9/12",
       "deadline": "",
-      "offset": 52,
+      "offset": 51,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78549&lang=zh"
@@ -30370,7 +30370,7 @@
       "offset": 51,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7235"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7235"
     },
     {
       "id": "netease-e948215ede75",
@@ -30405,7 +30405,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4767"
@@ -30424,7 +30424,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628#/job/3dee2d8d-0e4a-4844-9b67-7c673f88c8d8"
@@ -30614,7 +30614,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 49,
+      "offset": 48,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087848841742634/detail"
@@ -30633,7 +30633,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 49,
+      "offset": 48,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7680087369740437810/detail"
@@ -30652,7 +30652,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 49,
+      "offset": 48,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78504"
@@ -32989,7 +32989,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 41,
+      "offset": 40,
       "width": 28,
       "color": "#f06b78",
       "sourceUrl": "https://hr.xd.cn/117745/position/7678998258576836883/detail"
@@ -33049,7 +33049,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8997"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8997"
     },
     {
       "id": "mihoyo-e1e476e5c45e",
@@ -33068,7 +33068,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8910"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8910"
     },
     {
       "id": "mihoyo-e3272abcb8b1",
@@ -33087,7 +33087,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9379"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9379"
     },
     {
       "id": "mihoyo-dda550c64227",
@@ -33106,7 +33106,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9368"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9368"
     },
     {
       "id": "mihoyo-46d43ca941a9",
@@ -33125,7 +33125,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9364"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9364"
     },
     {
       "id": "mihoyo-20f504618a47",
@@ -33144,7 +33144,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9356"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9356"
     },
     {
       "id": "mihoyo-c0eee52a08ba",
@@ -33163,7 +33163,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9347"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9347"
     },
     {
       "id": "mihoyo-153304d70402",
@@ -33182,7 +33182,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9282"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9282"
     },
     {
       "id": "mihoyo-858fe4ff7330",
@@ -33201,7 +33201,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9276"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9276"
     },
     {
       "id": "mihoyo-2b8499cbbf72",
@@ -33220,7 +33220,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9270"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9270"
     },
     {
       "id": "mihoyo-7b8372633a15",
@@ -33239,7 +33239,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9255"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9255"
     },
     {
       "id": "mihoyo-236f71eb7392",
@@ -33258,7 +33258,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9250"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9250"
     },
     {
       "id": "mihoyo-85f6ad091269",
@@ -33277,7 +33277,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9234"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9234"
     },
     {
       "id": "mihoyo-510480dc9a34",
@@ -33296,7 +33296,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9232"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9232"
     },
     {
       "id": "mihoyo-c512371affdf",
@@ -33315,7 +33315,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9228"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9228"
     },
     {
       "id": "mihoyo-c343bb3dc684",
@@ -33334,7 +33334,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9225"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9225"
     },
     {
       "id": "mihoyo-047a86d032df",
@@ -33353,7 +33353,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9221"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9221"
     },
     {
       "id": "mihoyo-d46ecd26a032",
@@ -33372,7 +33372,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9220"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9220"
     },
     {
       "id": "mihoyo-60d5b6ace277",
@@ -33391,7 +33391,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9219"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9219"
     },
     {
       "id": "mihoyo-9e065978592e",
@@ -33410,7 +33410,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9218"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9218"
     },
     {
       "id": "mihoyo-66caf4922451",
@@ -33429,7 +33429,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9201"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9201"
     },
     {
       "id": "mihoyo-1de084201a4b",
@@ -33448,7 +33448,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9197"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9197"
     },
     {
       "id": "mihoyo-8054939e4a44",
@@ -33467,7 +33467,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9193"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9193"
     },
     {
       "id": "mihoyo-5797b3c4bca6",
@@ -33486,7 +33486,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9192"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9192"
     },
     {
       "id": "mihoyo-c8f2fec40d15",
@@ -33505,7 +33505,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9191"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9191"
     },
     {
       "id": "mihoyo-1a162841d736",
@@ -33524,7 +33524,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9187"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9187"
     },
     {
       "id": "mihoyo-6c5e6ccd4654",
@@ -33543,7 +33543,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9184"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9184"
     },
     {
       "id": "mihoyo-faa3138cc8e1",
@@ -33562,7 +33562,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9183"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9183"
     },
     {
       "id": "mihoyo-54fe9f1db595",
@@ -33581,7 +33581,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9173"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9173"
     },
     {
       "id": "mihoyo-6d1d9bf9f64f",
@@ -33600,7 +33600,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9170"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9170"
     },
     {
       "id": "mihoyo-fda639b22729",
@@ -33619,7 +33619,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9169"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9169"
     },
     {
       "id": "mihoyo-733214acf968",
@@ -33638,7 +33638,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9168"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9168"
     },
     {
       "id": "mihoyo-6f4eda7c2e31",
@@ -33657,7 +33657,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9167"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9167"
     },
     {
       "id": "mihoyo-90e1e91bb01d",
@@ -33676,7 +33676,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9164"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9164"
     },
     {
       "id": "mihoyo-46da8e1c372c",
@@ -33695,7 +33695,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9162"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9162"
     },
     {
       "id": "mihoyo-4bb4660ed395",
@@ -33714,7 +33714,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9156"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9156"
     },
     {
       "id": "mihoyo-dd5c0df425dc",
@@ -33733,7 +33733,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9151"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9151"
     },
     {
       "id": "mihoyo-a334a5db13ac",
@@ -33752,7 +33752,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9150"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9150"
     },
     {
       "id": "mihoyo-d9c850842221",
@@ -33771,7 +33771,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9149"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9149"
     },
     {
       "id": "mihoyo-7f204b124163",
@@ -33790,7 +33790,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9148"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9148"
     },
     {
       "id": "mihoyo-fc063a2cfe02",
@@ -33809,7 +33809,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9147"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9147"
     },
     {
       "id": "mihoyo-337500c249cf",
@@ -33828,7 +33828,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9144"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9144"
     },
     {
       "id": "mihoyo-8316dd6a664c",
@@ -33847,7 +33847,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9143"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9143"
     },
     {
       "id": "mihoyo-2655db9710e2",
@@ -33866,7 +33866,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9142"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9142"
     },
     {
       "id": "mihoyo-01991b3c749e",
@@ -33885,7 +33885,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9141"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9141"
     },
     {
       "id": "mihoyo-3244de08292d",
@@ -33904,7 +33904,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9140"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9140"
     },
     {
       "id": "mihoyo-3825d7df59de",
@@ -33923,7 +33923,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9139"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9139"
     },
     {
       "id": "mihoyo-fb93a21e380b",
@@ -33942,7 +33942,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9138"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9138"
     },
     {
       "id": "mihoyo-546a33757ad6",
@@ -33961,7 +33961,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9137"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9137"
     },
     {
       "id": "mihoyo-5b9253d4b821",
@@ -33980,7 +33980,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9135"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9135"
     },
     {
       "id": "mihoyo-eb50051e2ee0",
@@ -33999,7 +33999,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9132"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9132"
     },
     {
       "id": "mihoyo-83c3e5925aed",
@@ -34018,7 +34018,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9129"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9129"
     },
     {
       "id": "mihoyo-064e276c0732",
@@ -34037,7 +34037,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9123"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9123"
     },
     {
       "id": "mihoyo-2ae7e5813e34",
@@ -34056,7 +34056,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9119"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9119"
     },
     {
       "id": "mihoyo-f66c453172e7",
@@ -34075,7 +34075,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9117"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9117"
     },
     {
       "id": "mihoyo-cf1f69233fc0",
@@ -34094,7 +34094,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9114"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9114"
     },
     {
       "id": "mihoyo-1079707f84e8",
@@ -34113,7 +34113,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9113"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9113"
     },
     {
       "id": "mihoyo-a0b8caec4de6",
@@ -34132,7 +34132,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9112"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9112"
     },
     {
       "id": "mihoyo-bea20811ba93",
@@ -34151,7 +34151,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9111"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9111"
     },
     {
       "id": "mihoyo-af8b602c6751",
@@ -34170,7 +34170,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9109"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9109"
     },
     {
       "id": "mihoyo-2e7adde043d5",
@@ -34189,7 +34189,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9107"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9107"
     },
     {
       "id": "mihoyo-8c1de5ff865b",
@@ -34208,7 +34208,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9106"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9106"
     },
     {
       "id": "mihoyo-9e2f44225ec6",
@@ -34227,7 +34227,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9105"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9105"
     },
     {
       "id": "mihoyo-a80671a2f71d",
@@ -34246,7 +34246,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9104"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9104"
     },
     {
       "id": "mihoyo-5a351bc76c60",
@@ -34265,7 +34265,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9103"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9103"
     },
     {
       "id": "mihoyo-bac804d10b28",
@@ -34284,7 +34284,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9102"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9102"
     },
     {
       "id": "mihoyo-f5a6fe40024c",
@@ -34303,7 +34303,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9101"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9101"
     },
     {
       "id": "mihoyo-a179c82241ed",
@@ -34322,7 +34322,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9100"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9100"
     },
     {
       "id": "mihoyo-929e178a707b",
@@ -34341,7 +34341,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9099"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9099"
     },
     {
       "id": "mihoyo-7d1867122d9e",
@@ -34360,7 +34360,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9098"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9098"
     },
     {
       "id": "mihoyo-1dd100f28e3e",
@@ -34379,7 +34379,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9096"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9096"
     },
     {
       "id": "mihoyo-f9462a4c289a",
@@ -34398,7 +34398,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9095"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9095"
     },
     {
       "id": "mihoyo-066fe6371e56",
@@ -34417,7 +34417,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9094"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9094"
     },
     {
       "id": "mihoyo-639e0f0bdd99",
@@ -34436,7 +34436,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9093"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9093"
     },
     {
       "id": "mihoyo-5271534c381f",
@@ -34455,7 +34455,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9091"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9091"
     },
     {
       "id": "mihoyo-143ad82c245b",
@@ -34474,7 +34474,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9090"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9090"
     },
     {
       "id": "mihoyo-25b2a5ab2ff3",
@@ -34493,7 +34493,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9089"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9089"
     },
     {
       "id": "mihoyo-e8c5a6857b3f",
@@ -34512,7 +34512,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9088"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9088"
     },
     {
       "id": "mihoyo-ac0a494b56f2",
@@ -34531,7 +34531,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9086"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9086"
     },
     {
       "id": "mihoyo-dc475443095b",
@@ -34550,7 +34550,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9084"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9084"
     },
     {
       "id": "mihoyo-96f15ef3afdd",
@@ -34569,7 +34569,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9080"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9080"
     },
     {
       "id": "mihoyo-06fff4c06ee8",
@@ -34588,7 +34588,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9076"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9076"
     },
     {
       "id": "mihoyo-85481afc98c5",
@@ -34607,7 +34607,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9074"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9074"
     },
     {
       "id": "mihoyo-764ef2e52a5e",
@@ -34626,7 +34626,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9066"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9066"
     },
     {
       "id": "mihoyo-0afa8c517fe3",
@@ -34645,7 +34645,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9062"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9062"
     },
     {
       "id": "mihoyo-15adb10aebc4",
@@ -34664,7 +34664,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9014"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9014"
     },
     {
       "id": "mihoyo-c0af30a77aa7",
@@ -34683,7 +34683,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9002"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9002"
     },
     {
       "id": "mihoyo-776bafca59b2",
@@ -34702,7 +34702,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8998"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8998"
     },
     {
       "id": "mihoyo-fdfa3e976263",
@@ -34721,7 +34721,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8960"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8960"
     },
     {
       "id": "mihoyo-9571a65b798c",
@@ -34740,7 +34740,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8959"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8959"
     },
     {
       "id": "mihoyo-4aed36350269",
@@ -34759,7 +34759,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8957"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8957"
     },
     {
       "id": "mihoyo-57a0795d1985",
@@ -34778,7 +34778,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8955"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8955"
     },
     {
       "id": "mihoyo-d2d64015f7b9",
@@ -34797,7 +34797,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8952"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8952"
     },
     {
       "id": "mihoyo-57873da1fc19",
@@ -34816,7 +34816,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8951"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8951"
     },
     {
       "id": "mihoyo-9a168595cac8",
@@ -34835,7 +34835,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8949"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8949"
     },
     {
       "id": "mihoyo-2a8428f5a79b",
@@ -34854,7 +34854,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8948"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8948"
     },
     {
       "id": "mihoyo-03ff9e9cb1b9",
@@ -34873,7 +34873,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8943"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8943"
     },
     {
       "id": "mihoyo-91062d76c0cf",
@@ -34892,7 +34892,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8940"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8940"
     },
     {
       "id": "mihoyo-8ec3d1f620fb",
@@ -34911,7 +34911,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8939"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8939"
     },
     {
       "id": "mihoyo-9c05d5a2bc0d",
@@ -34930,7 +34930,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8938"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8938"
     },
     {
       "id": "mihoyo-b1232a902df4",
@@ -34949,7 +34949,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8935"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8935"
     },
     {
       "id": "mihoyo-616a3e98d92f",
@@ -34968,7 +34968,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8934"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8934"
     },
     {
       "id": "mihoyo-ab775fca5d03",
@@ -34987,7 +34987,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8933"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8933"
     },
     {
       "id": "mihoyo-654c1676d93b",
@@ -35006,7 +35006,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8930"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8930"
     },
     {
       "id": "mihoyo-ba452da2c3c0",
@@ -35025,7 +35025,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8927"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8927"
     },
     {
       "id": "mihoyo-849da0f1609b",
@@ -35044,7 +35044,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8925"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8925"
     },
     {
       "id": "mihoyo-7e8712f53255",
@@ -35063,7 +35063,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8924"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8924"
     },
     {
       "id": "mihoyo-794c24b654b9",
@@ -35082,7 +35082,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8919"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8919"
     },
     {
       "id": "mihoyo-aaee414d1d80",
@@ -35101,7 +35101,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8918"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8918"
     },
     {
       "id": "mihoyo-4191800c8ef0",
@@ -35120,7 +35120,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8914"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8914"
     },
     {
       "id": "mihoyo-0c7a256eff42",
@@ -35139,7 +35139,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8913"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8913"
     },
     {
       "id": "mihoyo-75e60926de32",
@@ -35158,7 +35158,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8905"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8905"
     },
     {
       "id": "mihoyo-46d82d4ff9a1",
@@ -35177,7 +35177,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8904"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8904"
     },
     {
       "id": "mihoyo-3eebef5b9b7c",
@@ -35196,7 +35196,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8903"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8903"
     },
     {
       "id": "mihoyo-e0754c75e723",
@@ -35215,7 +35215,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8880"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8880"
     },
     {
       "id": "mihoyo-4c8326e896fb",
@@ -35234,7 +35234,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9366"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9366"
     },
     {
       "id": "mihoyo-57696bdb03de",
@@ -35253,7 +35253,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9278"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9278"
     },
     {
       "id": "mihoyo-cc6a4cfaa1c4",
@@ -35272,7 +35272,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9077"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9077"
     },
     {
       "id": "mihoyo-8584cd8a740e",
@@ -35291,7 +35291,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8889"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8889"
     },
     {
       "id": "mihoyo-f00f74bd5eb6",
@@ -35310,7 +35310,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7845"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7845"
     },
     {
       "id": "mihoyo-d48b078f6443",
@@ -35329,7 +35329,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9335"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9335"
     },
     {
       "id": "mihoyo-f7cd021a365a",
@@ -35348,7 +35348,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9155"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9155"
     },
     {
       "id": "mihoyo-429116b22cd4",
@@ -35367,7 +35367,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8116"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8116"
     },
     {
       "id": "mihoyo-c2c44c89c9c9",
@@ -35386,7 +35386,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7915"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7915"
     },
     {
       "id": "mihoyo-cd7ae610b8da",
@@ -35405,7 +35405,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7907"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7907"
     },
     {
       "id": "mihoyo-ca8032a4ce31",
@@ -35424,7 +35424,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7890"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7890"
     },
     {
       "id": "mihoyo-d47733c830da",
@@ -35443,7 +35443,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7901"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7901"
     },
     {
       "id": "mihoyo-b84a33cf948b",
@@ -35462,7 +35462,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8748"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8748"
     },
     {
       "id": "mihoyo-432cee131835",
@@ -35481,7 +35481,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7491"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7491"
     },
     {
       "id": "mihoyo-48884e69bbe1",
@@ -35500,7 +35500,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9330"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9330"
     },
     {
       "id": "mihoyo-d6e3f9fa0dd9",
@@ -35519,7 +35519,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9327"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9327"
     },
     {
       "id": "mihoyo-765ce334a65b",
@@ -35538,7 +35538,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8594"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8594"
     },
     {
       "id": "mihoyo-ed9ef7ab0d01",
@@ -35557,7 +35557,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7842"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7842"
     },
     {
       "id": "mihoyo-cd0bcbc7f5b1",
@@ -35576,7 +35576,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7776"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7776"
     },
     {
       "id": "mihoyo-ca3c8f29b8a9",
@@ -35595,7 +35595,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7908"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7908"
     },
     {
       "id": "mihoyo-4b186c08fa1d",
@@ -35614,7 +35614,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7909"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7909"
     },
     {
       "id": "mihoyo-828fdf764e13",
@@ -35633,7 +35633,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7910"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7910"
     },
     {
       "id": "mihoyo-8607c3a36dfe",
@@ -35652,7 +35652,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8235"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8235"
     },
     {
       "id": "mihoyo-b67d12257910",
@@ -35671,7 +35671,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/5794"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/5794"
     },
     {
       "id": "mihoyo-84dd4fb89b30",
@@ -35690,7 +35690,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7868"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7868"
     },
     {
       "id": "mihoyo-d6c3e9e74daf",
@@ -35709,7 +35709,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7846"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7846"
     },
     {
       "id": "mihoyo-297230edddbf",
@@ -35728,7 +35728,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9308"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9308"
     },
     {
       "id": "mihoyo-f49f2804c791",
@@ -35747,7 +35747,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9246"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9246"
     },
     {
       "id": "mihoyo-b7febad748dd",
@@ -35766,7 +35766,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8234"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8234"
     },
     {
       "id": "mihoyo-2ab9c1cb265b",
@@ -35785,7 +35785,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8233"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8233"
     },
     {
       "id": "mihoyo-e5b259473d33",
@@ -35804,7 +35804,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8232"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8232"
     },
     {
       "id": "mihoyo-1ab7092248f0",
@@ -35823,7 +35823,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7892"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7892"
     },
     {
       "id": "mihoyo-bc24949e0c95",
@@ -35842,7 +35842,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8920"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8920"
     },
     {
       "id": "mihoyo-63fedc110c49",
@@ -35861,7 +35861,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8915"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8915"
     },
     {
       "id": "mihoyo-3d9b005cf376",
@@ -35880,7 +35880,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8821"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8821"
     },
     {
       "id": "mihoyo-d92588edfd62",
@@ -35899,7 +35899,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8759"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8759"
     },
     {
       "id": "mihoyo-c65ce553eb47",
@@ -35918,7 +35918,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8732"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8732"
     },
     {
       "id": "mihoyo-d5c6972618d4",
@@ -35937,7 +35937,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8731"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8731"
     },
     {
       "id": "mihoyo-4c102f0858a8",
@@ -35956,7 +35956,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8338"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8338"
     },
     {
       "id": "mihoyo-4180b562030c",
@@ -35975,7 +35975,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8337"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8337"
     },
     {
       "id": "mihoyo-029c721791bd",
@@ -35994,7 +35994,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7779"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7779"
     },
     {
       "id": "mihoyo-ec9c26d9dfa7",
@@ -36013,7 +36013,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7756"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7756"
     },
     {
       "id": "mihoyo-a8e8a57904b4",
@@ -36032,7 +36032,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7672"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7672"
     },
     {
       "id": "mihoyo-d1e512d98f13",
@@ -36051,7 +36051,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7256"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7256"
     },
     {
       "id": "mihoyo-b2378a38b1d6",
@@ -36070,7 +36070,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8265"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8265"
     },
     {
       "id": "mihoyo-be1b91e1a45f",
@@ -36089,7 +36089,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/6592"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/6592"
     },
     {
       "id": "mihoyo-eac14c103849",
@@ -36108,7 +36108,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8981"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8981"
     },
     {
       "id": "mihoyo-aa9cd04805b9",
@@ -36127,7 +36127,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9070"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9070"
     },
     {
       "id": "mihoyo-5d4ba44e7785",
@@ -36146,7 +36146,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9001"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9001"
     },
     {
       "id": "mihoyo-881605d60dbb",
@@ -36165,7 +36165,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8996"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8996"
     },
     {
       "id": "mihoyo-c06dcec4b597",
@@ -36184,7 +36184,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8230"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8230"
     },
     {
       "id": "mihoyo-48396ec03279",
@@ -36203,7 +36203,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9280"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9280"
     },
     {
       "id": "mihoyo-857e4a0c0070",
@@ -36222,7 +36222,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9402"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9402"
     },
     {
       "id": "mihoyo-af052f2ee76c",
@@ -36241,7 +36241,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7686"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7686"
     },
     {
       "id": "mihoyo-797c8c58ce06",
@@ -36260,7 +36260,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7719"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7719"
     },
     {
       "id": "mihoyo-4b0abdf237c7",
@@ -36279,7 +36279,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9390"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9390"
     },
     {
       "id": "mihoyo-22ad481a69ee",
@@ -36298,7 +36298,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9279"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9279"
     },
     {
       "id": "mihoyo-c65650178d81",
@@ -36317,7 +36317,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8122"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8122"
     },
     {
       "id": "mihoyo-cd0db52dbbfa",
@@ -36336,7 +36336,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9386"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9386"
     },
     {
       "id": "mihoyo-e41dc3e2ef34",
@@ -36355,7 +36355,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9383"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9383"
     },
     {
       "id": "mihoyo-62d4ddd3d161",
@@ -36374,7 +36374,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9382"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9382"
     },
     {
       "id": "mihoyo-81929283a89c",
@@ -36393,7 +36393,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7956"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7956"
     },
     {
       "id": "mihoyo-ef79959d7d9a",
@@ -36412,7 +36412,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7911"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7911"
     },
     {
       "id": "mihoyo-2a16177bea78",
@@ -36431,7 +36431,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9362"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9362"
     },
     {
       "id": "mihoyo-3bafd762ec7e",
@@ -36450,7 +36450,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7895"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7895"
     },
     {
       "id": "mihoyo-7f8e64b150fe",
@@ -36469,7 +36469,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8817"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8817"
     },
     {
       "id": "mihoyo-545ab351f3fc",
@@ -36488,7 +36488,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8714"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8714"
     },
     {
       "id": "mihoyo-941aeddc9608",
@@ -36507,7 +36507,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/5287"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/5287"
     },
     {
       "id": "mihoyo-48f817974c37",
@@ -36526,7 +36526,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8944"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8944"
     },
     {
       "id": "mihoyo-80cab4bc2abf",
@@ -36545,7 +36545,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9073"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9073"
     },
     {
       "id": "mihoyo-551a189280c6",
@@ -36564,7 +36564,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9291"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9291"
     },
     {
       "id": "mihoyo-d81da8313482",
@@ -36583,7 +36583,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9290"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9290"
     },
     {
       "id": "mihoyo-41bd8f5c1ea4",
@@ -36602,7 +36602,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8878"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8878"
     },
     {
       "id": "mihoyo-e5b19a2e02a2",
@@ -36621,7 +36621,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8130"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8130"
     },
     {
       "id": "mihoyo-4b1c18135506",
@@ -36640,7 +36640,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8128"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8128"
     },
     {
       "id": "mihoyo-9ecc19e77398",
@@ -36659,7 +36659,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7242"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7242"
     },
     {
       "id": "mihoyo-913f19a87b33",
@@ -36678,7 +36678,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9120"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9120"
     },
     {
       "id": "mihoyo-909ce509698f",
@@ -36697,7 +36697,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/6693"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/6693"
     },
     {
       "id": "mihoyo-70b130be80a2",
@@ -36716,7 +36716,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9172"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9172"
     },
     {
       "id": "mihoyo-7248d9e8bf90",
@@ -36735,7 +36735,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8549"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8549"
     },
     {
       "id": "mihoyo-9355b1d6564e",
@@ -36754,7 +36754,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7936"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7936"
     },
     {
       "id": "mihoyo-65877063e243",
@@ -36773,7 +36773,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8769"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8769"
     },
     {
       "id": "mihoyo-7841266641ea",
@@ -36792,7 +36792,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8581"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8581"
     },
     {
       "id": "mihoyo-d3cf118d489d",
@@ -36811,7 +36811,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8090"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8090"
     },
     {
       "id": "mihoyo-b025fed65c69",
@@ -36830,7 +36830,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7906"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7906"
     },
     {
       "id": "mihoyo-4f229a8e6bc1",
@@ -36849,7 +36849,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8872"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8872"
     },
     {
       "id": "mihoyo-04e0a1cc35fa",
@@ -36868,7 +36868,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9081"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9081"
     },
     {
       "id": "mihoyo-0b9918551c17",
@@ -36887,7 +36887,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9215"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9215"
     },
     {
       "id": "mihoyo-08ab94787936",
@@ -36906,7 +36906,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9216"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9216"
     },
     {
       "id": "mihoyo-31bbe8b6473b",
@@ -36925,7 +36925,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7904"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7904"
     },
     {
       "id": "mihoyo-82c5798c2dad",
@@ -36944,7 +36944,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7812"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7812"
     },
     {
       "id": "mihoyo-d1ac97eaccbb",
@@ -36963,7 +36963,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9068"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9068"
     },
     {
       "id": "mihoyo-67c39beaab44",
@@ -36982,7 +36982,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7102"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7102"
     },
     {
       "id": "mihoyo-af631a9c3f4b",
@@ -37001,7 +37001,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9190"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9190"
     },
     {
       "id": "mihoyo-f4669fc3bb95",
@@ -37020,7 +37020,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8777"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8777"
     },
     {
       "id": "mihoyo-205ca78d6a6f",
@@ -37039,7 +37039,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8779"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8779"
     },
     {
       "id": "mihoyo-87efc933f939",
@@ -37058,7 +37058,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8079"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8079"
     },
     {
       "id": "mihoyo-f56fca9d25bd",
@@ -37077,7 +37077,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8078"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8078"
     },
     {
       "id": "mihoyo-c8dde7b9bb9c",
@@ -37096,7 +37096,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8852"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8852"
     },
     {
       "id": "mihoyo-fde4e0f168bf",
@@ -37115,7 +37115,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7111"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7111"
     },
     {
       "id": "mihoyo-c40d4850013e",
@@ -37134,7 +37134,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7048"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7048"
     },
     {
       "id": "mihoyo-aba3f3cff6a6",
@@ -37153,7 +37153,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8407"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8407"
     },
     {
       "id": "mihoyo-a9152edc4ce9",
@@ -37172,7 +37172,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7738"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7738"
     },
     {
       "id": "mihoyo-c024a7b75a0e",
@@ -37191,7 +37191,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8397"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8397"
     },
     {
       "id": "mihoyo-0e8782e0edf7",
@@ -37210,7 +37210,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/9048"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/9048"
     },
     {
       "id": "mihoyo-b5b6201ec97d",
@@ -37229,7 +37229,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8587"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8587"
     },
     {
       "id": "mihoyo-214275eda523",
@@ -37248,7 +37248,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8398"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8398"
     },
     {
       "id": "mihoyo-cec483661d34",
@@ -37267,7 +37267,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7862"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7862"
     },
     {
       "id": "mihoyo-8dda4c401eb0",
@@ -37286,7 +37286,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8826"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8826"
     },
     {
       "id": "mihoyo-5934d1b75e7e",
@@ -37305,7 +37305,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8829"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8829"
     },
     {
       "id": "mihoyo-77c8b5a736ec",
@@ -37324,7 +37324,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7935"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7935"
     },
     {
       "id": "mihoyo-7731ac4e0c9b",
@@ -37343,7 +37343,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8189"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8189"
     },
     {
       "id": "mihoyo-baaaa8f59363",
@@ -37362,7 +37362,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7937"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7937"
     },
     {
       "id": "mihoyo-c51390e37433",
@@ -37381,7 +37381,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7912"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7912"
     },
     {
       "id": "mihoyo-7ebb26a08c7b",
@@ -37400,7 +37400,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7884"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7884"
     },
     {
       "id": "mihoyo-5e443c003151",
@@ -37419,7 +37419,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7883"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7883"
     },
     {
       "id": "mihoyo-059f7de55a42",
@@ -37438,7 +37438,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7882"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7882"
     },
     {
       "id": "mihoyo-21ef5e3a08d1",
@@ -37457,7 +37457,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8980"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8980"
     },
     {
       "id": "mihoyo-ef2533b1faf6",
@@ -37476,7 +37476,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8979"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8979"
     },
     {
       "id": "mihoyo-2860a7ffe02c",
@@ -37495,7 +37495,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8409"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8409"
     },
     {
       "id": "mihoyo-14d557a9056a",
@@ -37514,7 +37514,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8111"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8111"
     },
     {
       "id": "mihoyo-f41ab0853a05",
@@ -37533,7 +37533,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8110"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8110"
     },
     {
       "id": "mihoyo-9da428d316c0",
@@ -37552,7 +37552,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8109"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8109"
     },
     {
       "id": "mihoyo-bfcb719056a3",
@@ -37571,7 +37571,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8108"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8108"
     },
     {
       "id": "mihoyo-024a81db4dda",
@@ -37590,7 +37590,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7925"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7925"
     },
     {
       "id": "mihoyo-d57e8da6bb85",
@@ -37609,7 +37609,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7565"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7565"
     },
     {
       "id": "mihoyo-8e5089878175",
@@ -37628,7 +37628,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7399"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7399"
     },
     {
       "id": "mihoyo-0dfa2bee468c",
@@ -37647,7 +37647,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/5810"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/5810"
     },
     {
       "id": "mihoyo-c1d4daada9ca",
@@ -37666,7 +37666,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8466"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8466"
     },
     {
       "id": "mihoyo-84703c9e074f",
@@ -37685,7 +37685,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8983"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8983"
     },
     {
       "id": "mihoyo-87a426ea0549",
@@ -37704,7 +37704,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8458"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8458"
     },
     {
       "id": "mihoyo-bd1736253e5c",
@@ -37723,7 +37723,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8457"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8457"
     },
     {
       "id": "mihoyo-e2f4a0ca346a",
@@ -37742,7 +37742,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8123"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8123"
     },
     {
       "id": "mihoyo-58188603a1d3",
@@ -37761,7 +37761,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7972"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7972"
     },
     {
       "id": "mihoyo-29f50538a7fd",
@@ -37780,7 +37780,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7836"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7836"
     },
     {
       "id": "mihoyo-b77cfa3e5430",
@@ -37799,7 +37799,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7835"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7835"
     },
     {
       "id": "mihoyo-c512b29447da",
@@ -37818,7 +37818,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7834"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7834"
     },
     {
       "id": "mihoyo-226d058ce8c2",
@@ -37837,7 +37837,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7827"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7827"
     },
     {
       "id": "mihoyo-9504b18f64b3",
@@ -37856,7 +37856,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/6643"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/6643"
     },
     {
       "id": "mihoyo-3d948cbd662e",
@@ -37875,7 +37875,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/6642"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/6642"
     },
     {
       "id": "mihoyo-a5edc81c126a",
@@ -37894,7 +37894,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/7141"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7141"
     },
     {
       "id": "mihoyo-4d333a2bd82f",
@@ -37913,7 +37913,7 @@
       "offset": 40,
       "width": 28,
       "color": "#f2643d",
-      "sourceUrl": "https://jobs.mihoyo.com/campus/position/8498"
+      "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/8498"
     },
     {
       "id": "tencent-5574a5b639f0",
@@ -38518,7 +38518,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#5a6fd6",
       "sourceUrl": "https://app.mokahr.com/campus_apply/kingnet/2246#/job/845e313c-6d96-49e9-957a-a66cdfd10dd1"
@@ -38537,7 +38537,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#b3262e",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/pwrd/150080#/job/6bd58760-8aaa-4a61-8b3a-975588bc1ef8"
@@ -38556,7 +38556,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/6c18450c-cee1-48c6-8dc5-f1b1e59ffc04"
@@ -38575,7 +38575,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/e99655f2-4a2f-444b-b8d8-210dd5e3c186"
@@ -38594,7 +38594,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965#/job/a7bcc7de-a042-498c-a3a9-7c3cdbde9afd"
@@ -38613,7 +38613,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 39,
+      "offset": 38,
       "width": 28,
       "color": "#3b6fd9",
       "sourceUrl": "https://app-tc.mokahr.com/social-recruitment/saluosi/16010#/job/a28b810c-ccea-41d9-aaca-1272d3782821"
@@ -38955,7 +38955,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7678602765958875401/detail"
@@ -38974,7 +38974,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7678601400146184457/detail"
@@ -38993,7 +38993,7 @@
       "firstSeen": "9/10",
       "verified": "9/12",
       "deadline": "",
-      "offset": 38,
+      "offset": 37,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=56868"
@@ -39269,7 +39269,7 @@
       "company": "心动网络",
       "short": "XD",
       "role": "AI 产品开发实习生（Agent方向）",
-      "category": "游戏开发",
+      "category": "产品",
       "city": "上海",
       "type": "实习招聘",
       "recruitmentKind": "internship",
@@ -41387,7 +41387,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#b07a2e",
       "sourceUrl": "https://herogames.jobs.feishu.cn/campus/position/7677916904812251419/detail"
@@ -41558,7 +41558,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 32,
+      "offset": 31,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7677789951722883347/detail"
@@ -41862,7 +41862,7 @@
       "firstSeen": "9/11",
       "verified": "9/12",
       "deadline": "",
-      "offset": 22,
+      "offset": 21,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78320&lang=zh"
@@ -42736,7 +42736,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://rastargame.jobs.feishu.cn/066491/position/7676026537603303722/detail"
@@ -42755,7 +42755,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 19,
+      "offset": 18,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://huanle.jobs.feishu.cn/campus/position/7676012296334887231/detail"
@@ -43458,7 +43458,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675341937952999743/detail"
@@ -43477,7 +43477,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675338630768511275/detail"
@@ -43496,7 +43496,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7675338743897573641/detail"
@@ -43515,7 +43515,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7675336419103115539/detail"
@@ -43556,7 +43556,7 @@
       "offset": 13,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29741"
     },
     {
       "id": "feishu-boke-5807ddcc0d21",
@@ -43629,7 +43629,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7675206208567658794/detail"
@@ -43819,7 +43819,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939947783538950/detail"
@@ -43838,7 +43838,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939593599076614/detail"
@@ -43857,7 +43857,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674939550350723334/detail"
@@ -43876,7 +43876,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674938979024455987/detail"
@@ -43895,7 +43895,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674938261186267418/detail"
@@ -43914,7 +43914,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674937969882974491/detail"
@@ -43933,7 +43933,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://papergames.jobs.feishu.cn/campus/position/7674937642727737650/detail"
@@ -43952,7 +43952,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674937095375407398/detail"
@@ -43971,7 +43971,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 11,
+      "offset": 10,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674935791106623782/detail"
@@ -45434,7 +45434,7 @@
       "firstSeen": "9/12",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e8442a",
       "sourceUrl": "https://cn-jobs.igg.com/public/careers-info.html?id=4390"
@@ -50453,7 +50453,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29735"
     },
     {
       "id": "bilibili-8bc703f16d69",
@@ -50472,7 +50472,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29744"
     },
     {
       "id": "bilibili-4b9923b0d1e8",
@@ -50491,7 +50491,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29745"
     },
     {
       "id": "bilibili-34c84a2dd955",
@@ -50510,7 +50510,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29743"
     },
     {
       "id": "bilibili-ee53d465d541",
@@ -50529,7 +50529,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29737"
     },
     {
       "id": "bilibili-c5acaf6a8831",
@@ -50548,7 +50548,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29746"
     },
     {
       "id": "bilibili-69f1075afe12",
@@ -50567,7 +50567,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29701"
     },
     {
       "id": "bilibili-d04c1d7e1599",
@@ -50586,7 +50586,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29703"
     },
     {
       "id": "bilibili-cf8c036526b5",
@@ -50605,7 +50605,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29705"
     },
     {
       "id": "bilibili-3f1d03740207",
@@ -50624,7 +50624,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29697"
     },
     {
       "id": "bilibili-ba6d2db4b338",
@@ -50643,7 +50643,7 @@
       "offset": 2,
       "width": 28,
       "color": "#00aeec",
-      "sourceUrl": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts"
+      "sourceUrl": "https://jobs.bilibili.com/campus/positions/29699"
     },
     {
       "id": "feishu-lilith-20ddd12ad1c6",
