@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-13T04:00:03.921Z",
+  "generatedAt": "2026-09-13T05:00:04.024Z",
   "summary": {
     "activeJobs": 3265,
     "internships": 1454,
     "campusJobs": 1811,
     "companies": 88,
-    "healthySources": 81,
+    "healthySources": 82,
     "totalSources": 111,
     "recentlyClosed": 568
   },
@@ -17,7 +17,7 @@
       "url": "https://hr.4399om.com/campus/",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://join.qq.com/post.html?query=b_956",
       "ok": true,
       "jobCount": 298,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 262,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 243,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": false,
       "jobCount": 109,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 84,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 96,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": false,
       "jobCount": 21,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 44,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://zhaopin.37.com/index.php?m=Home&c=recruit&a=recruit&recruit=1",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
       "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
       "ok": true,
       "jobCount": 34,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
       "ok": true,
       "jobCount": 42,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -152,7 +152,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
       "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
       "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -195,7 +195,7 @@
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -231,7 +231,7 @@
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
       "ok": true,
       "jobCount": 34,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -240,7 +240,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
       "ok": true,
       "jobCount": 35,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -276,7 +276,7 @@
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -285,7 +285,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -294,7 +294,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -303,7 +303,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -321,7 +321,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -330,7 +330,7 @@
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -339,7 +339,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -348,7 +348,7 @@
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -374,7 +374,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/hellowdtest/166627",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -383,7 +383,7 @@
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -391,7 +391,7 @@
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -400,7 +400,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -408,7 +408,7 @@
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -416,7 +416,7 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -425,7 +425,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -434,7 +434,7 @@
       "url": "https://papergames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 39,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -443,7 +443,7 @@
       "url": "https://ooia5293gn.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 14,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -452,7 +452,7 @@
       "url": "https://huayugames.jobs.feishu.cn/210512/position/list",
       "ok": false,
       "jobCount": 22,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -461,7 +461,7 @@
       "url": "https://elex-work.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 16,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -470,7 +470,7 @@
       "url": "https://huanle.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 17,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -479,7 +479,7 @@
       "url": "https://jzyxgames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 5,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -488,7 +488,7 @@
       "url": "https://learnings.jobs.feishu.cn/948023/position/list",
       "ok": false,
       "jobCount": 12,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -497,7 +497,7 @@
       "url": "https://sofunny.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -506,7 +506,7 @@
       "url": "https://gamealestudio.jobs.feishu.cn/007955/m/position/list",
       "ok": false,
       "jobCount": 1,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -515,7 +515,7 @@
       "url": "https://zen-game.jobs.feishu.cn/679976/position/list",
       "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -524,7 +524,7 @@
       "url": "https://coconutisland.jobs.feishu.cn/coconut_campus/position/list",
       "ok": false,
       "jobCount": 4,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -533,7 +533,7 @@
       "url": "https://micoworld.jobs.feishu.cn/152087/position/list",
       "ok": false,
       "jobCount": 2,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -542,7 +542,7 @@
       "url": "https://rastargame.jobs.feishu.cn/066491/position/list",
       "ok": false,
       "jobCount": 43,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -551,7 +551,7 @@
       "url": "https://meta.jobs.feishu.cn/140297/position/list",
       "ok": false,
       "jobCount": 44,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -560,7 +560,7 @@
       "url": "https://t7le908iko.jobs.feishu.cn/624052/m/position/list",
       "ok": false,
       "jobCount": 7,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -568,7 +568,7 @@
       "name": "白日梦校招（飞书）",
       "url": "https://szbrmwlyx.jobs.feishu.cn/daydreams/position/list",
       "ok": false,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -577,7 +577,7 @@
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326",
       "ok": true,
       "jobCount": 105,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -586,7 +586,7 @@
       "url": "https://campus.zulong.com/campus_apply/zulong/25158",
       "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -603,7 +603,7 @@
       "url": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -612,7 +612,7 @@
       "url": "https://campus.tap4fun.com/campus_apply/tap4fun/291",
       "ok": true,
       "jobCount": 8,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -621,7 +621,7 @@
       "url": "https://nd.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -630,7 +630,7 @@
       "url": "https://bingchuan1.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 28,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -639,7 +639,7 @@
       "url": "https://wooduan.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -648,7 +648,7 @@
       "url": "https://9377.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -657,7 +657,7 @@
       "url": "https://moonton.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 94,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -666,7 +666,7 @@
       "url": "https://app.mokahr.com/apply/microfunhr/75944",
       "ok": true,
       "jobCount": 18,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -675,7 +675,7 @@
       "url": "https://www.moseeker.com/positions/index/cid/137863",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -684,7 +684,7 @@
       "url": "https://www.yotta-hr.com/zh/job",
       "ok": true,
       "jobCount": 9,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -693,17 +693,17 @@
       "url": "https://app.mokahr.com/campus-recruitment/pwrd/172467",
       "ok": true,
       "jobCount": 102,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
       "key": "bilibili",
       "name": "哔哩哔哩游戏类校招",
       "url": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts",
-      "ok": false,
+      "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-13T05:00:04.024Z",
+      "error": null
     },
     {
       "key": "nowcoder-eachina",
@@ -711,7 +711,7 @@
       "url": "https://jobs.ea.com/en_US/careers/Home/?8171=%5B10579%5D&8171_format=5683&listFilterMode=1&jobRecordsPerPage=50",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -720,7 +720,7 @@
       "url": "https://m.nowcoder.com/careers/yh/105949",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -729,7 +729,7 @@
       "url": "https://thatgamecompany.com/careers/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -738,7 +738,7 @@
       "url": "https://zh-cn.ubisoft.com/company/career_result?type=2",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -747,7 +747,7 @@
       "url": "https://www.duole.com/recruitment/school/index",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -756,7 +756,7 @@
       "url": "https://campus.huoyugame.com/job.html",
       "ok": true,
       "jobCount": 28,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -765,7 +765,7 @@
       "url": "https://www.riotgames.com/zh-cn/work-with-us",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -774,7 +774,7 @@
       "url": "https://7doc.com.cn/about.html#job",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -783,7 +783,7 @@
       "url": "https://www.wanxinbuzhi.cn/join/school/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -792,7 +792,7 @@
       "url": "https://www.jodoinc.com/job/campus",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -801,7 +801,7 @@
       "url": "https://ddhd.cn/jobs",
       "ok": true,
       "jobCount": 80,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -810,7 +810,7 @@
       "url": "https://hr.g-bits.com/web/index.html",
       "ok": true,
       "jobCount": 108,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -819,7 +819,7 @@
       "url": "https://xz.duoyi.com/v40/",
       "ok": true,
       "jobCount": 33,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -828,7 +828,7 @@
       "url": "https://www.babeltime.com/act/zhaopin/campus.html",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -837,7 +837,7 @@
       "url": "https://campus.ct108.com/",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -846,7 +846,7 @@
       "url": "https://official-website.hortorgames.com/",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -855,7 +855,7 @@
       "url": "https://osswebapp.haofangame.com/test/mobileRecruitment/campus.html",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -864,7 +864,7 @@
       "url": "https://ihr.mis.jjmatch.cn/gateway/api/recruit-website/#/recruit/web/project/eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJjb21wYW55SWRcIjpcImI0YmU0YjBiMzk5YzRkZTBhNmJmMDcwNmQ2MzY4MTMyXCIsXCJ0eXBlXCI6XCJPZmZpY2lhbFwiLFwib2ZmaWNpYWxJZFwiOjEwNTcyMDY4OTEwMzE5NTM0MDh9In0.ChVok_RO598yvIm-RJKVQgExAbJ7aM9nh9T23E0r81I/1057239649527660544_1/1",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -873,7 +873,7 @@
       "url": "https://www.thedream.cc/talent",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -891,7 +891,7 @@
       "url": "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=%7B%22customDept%22%3A%5B%22YQNHYU%22%5D%7D",
       "ok": true,
       "jobCount": 81,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -900,7 +900,7 @@
       "url": "https://hr.xd.cn/117745/position/list#/jobs?page=1&anchorName=jobsList",
       "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -909,7 +909,7 @@
       "url": "https://jobs.bytedance.com/campus/position?current=1&limit=100",
       "ok": true,
       "jobCount": 75,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -918,7 +918,7 @@
       "url": "https://jobs.66y.com/campus/position/list?current=1&limit=10",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -927,7 +927,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ys4fun/45636",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -936,7 +936,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yoozoo/3728",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -945,7 +945,7 @@
       "url": "https://app.mokahr.com/campus_apply/tavern/39918",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -954,7 +954,7 @@
       "url": "https://yanqugame.jobs.feishu.cn/xz/position/list",
       "ok": false,
       "jobCount": 7,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -963,7 +963,7 @@
       "url": "https://herogames.jobs.feishu.cn/campus/position/list",
       "ok": false,
       "jobCount": 15,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -972,7 +972,7 @@
       "url": "https://app-tc.mokahr.com/social-recruitment/saluosi/16010",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -981,7 +981,7 @@
       "url": "https://app.mokahr.com/social-recruitment/yostar/145292",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -990,7 +990,7 @@
       "url": "https://jobs.omneegames.com/campus/position/list",
       "ok": false,
       "jobCount": 11,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -999,7 +999,7 @@
       "url": "https://leihuo.163.com/campus/#/full",
       "ok": true,
       "jobCount": 188,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -1008,7 +1008,7 @@
       "url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs",
       "ok": true,
       "jobCount": 20,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     },
     {
@@ -1017,7 +1017,7 @@
       "url": "https://snk-corp.jobs.feishu.cn/442908/position/list",
       "ok": false,
       "jobCount": 10,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -1026,7 +1026,7 @@
       "url": "https://cn-jobs.igg.com/public/careers.html",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-13T04:00:03.921Z",
+      "checkedAt": "2026-09-13T05:00:04.024Z",
       "error": null
     }
   ],
@@ -3504,7 +3504,7 @@
       "offset": 77,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2098265310531600384"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/NLP-Research-Intern_R108056"
     },
     {
       "id": "zhiye-bingchuan1-6436ba5ba93b",
@@ -3653,7 +3653,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=46635556-bdad-41ae-82f0-09bc282e7c8a"
@@ -3672,7 +3672,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=7278c0df-07f6-4c82-9efa-7b05f1b66f83"
@@ -3691,7 +3691,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=b30458ee-456e-480d-a009-6be81444a376"
@@ -3710,7 +3710,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=e5377d47-cce5-4aba-81aa-081a9e86f65c"
@@ -3729,7 +3729,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=19772ee2-a505-422e-8eb3-6b294a33be58"
@@ -3748,7 +3748,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=1b17d355-a902-4ac6-ac7c-817d9d063fa4"
@@ -3767,7 +3767,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=8676ddbf-da21-43a6-ac45-9702a29f07d2"
@@ -3786,7 +3786,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=d7fbdb80-83fc-45c9-8218-5b603a5fdcc3"
@@ -3805,7 +3805,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=fd1a7a23-ae39-4e7a-b868-ae9340a2ab37"
@@ -3824,7 +3824,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=bd0d57f9-9c7d-471c-95e7-9438d38e5ff1"
@@ -3843,7 +3843,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=3798b0ff-7f64-4a6c-bcb1-1f6f3c72b8b4"
@@ -3862,7 +3862,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=dcc76438-f8f4-4cdb-8a65-3cee8da7188f"
@@ -3881,7 +3881,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=09cc44f9-f003-4cef-a671-c6158408c5df"
@@ -3900,7 +3900,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 77,
+      "offset": 76,
       "width": 28,
       "color": "#c0563f",
       "sourceUrl": "https://bingchuan1.zhiye.com/campus/detail?jobAdId=78bc3810-23d7-4cec-af3b-d7f4a79157c9"
@@ -9090,7 +9090,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016959420743680"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Video-Generation-Foundation-Model-Researcher_R107810-1"
     },
     {
       "id": "tencent-886370dec3e5",
@@ -9109,7 +9109,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2060048494093320192"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Researcher--2026-PhD-Graduate_R107513-1"
     },
     {
       "id": "tencent-46818a1a2c73",
@@ -9128,7 +9128,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016971789746176"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Researcher--Multi-Modality_R107813-1"
     },
     {
       "id": "tencent-2c9bda2ef4f3",
@@ -9147,7 +9147,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016967868067840"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Video-Generation-Content-Understanding-and-Feedback-Researcher_R107812"
     },
     {
       "id": "tencent-e161c47a4d9c",
@@ -9166,7 +9166,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016963787010048"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Controllable-Video-Generation-Researcher_R107811-1"
     },
     {
       "id": "tencent-31b233c24359",
@@ -9185,7 +9185,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016950419767296"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Researcher--Large-Language-Models_R107808-1"
     },
     {
       "id": "tencent-558741587895",
@@ -9204,7 +9204,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016955226439680"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Researcher--Speech-Synthesis-and-Multimodal-LLM_R107809-1"
     },
     {
       "id": "tencent-97045a7c8e26",
@@ -9223,7 +9223,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2076597566186893312"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Video-Generation-Content-Understanding-and-Feedback-Researcher_R107784-1"
     },
     {
       "id": "tencent-5a1af5775bd6",
@@ -9242,7 +9242,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2079542260772548608"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Senior-Researcher--Large-Language-Models_R107819"
     },
     {
       "id": "tencent-969a4da3507b",
@@ -9261,7 +9261,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2079542264975245312"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Controllable-Video-Generation-Researcher_R107820"
     },
     {
       "id": "tencent-11fc09cbebf7",
@@ -9280,7 +9280,7 @@
       "offset": 74,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2079542269068881920"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Senior-Researcher--Speech-Synthesis-and-Multimodal-LLM_R107821"
     },
     {
       "id": "tencent-def03a29bf06",
@@ -9999,7 +9999,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199905480002?deptCodes=YQNHYU"
@@ -10018,7 +10018,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908740003?deptCodes=YQNHYU"
@@ -10037,7 +10037,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904600005?deptCodes=YQNHYU"
@@ -10056,7 +10056,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199909240004?deptCodes=YQNHYU"
@@ -10075,7 +10075,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199907380002?deptCodes=YQNHYU"
@@ -10094,7 +10094,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199909200001?deptCodes=YQNHYU"
@@ -10113,7 +10113,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908620003?deptCodes=YQNHYU"
@@ -10132,7 +10132,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904940001?deptCodes=YQNHYU"
@@ -10151,7 +10151,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903740035?deptCodes=YQNHYU"
@@ -10170,7 +10170,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908720003?deptCodes=YQNHYU"
@@ -10189,7 +10189,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908660001?deptCodes=YQNHYU"
@@ -10208,7 +10208,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908340002?deptCodes=YQNHYU"
@@ -10227,7 +10227,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199905380004?deptCodes=YQNHYU"
@@ -10246,7 +10246,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908220003?deptCodes=YQNHYU"
@@ -10265,7 +10265,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199908040004?deptCodes=YQNHYU"
@@ -10284,7 +10284,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903820064?deptCodes=YQNHYU"
@@ -10303,7 +10303,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199907400002?deptCodes=YQNHYU"
@@ -10322,7 +10322,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199907340001?deptCodes=YQNHYU"
@@ -10341,7 +10341,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904840003?deptCodes=YQNHYU"
@@ -10360,7 +10360,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903740030?deptCodes=YQNHYU"
@@ -10379,7 +10379,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199906940010?deptCodes=YQNHYU"
@@ -10398,7 +10398,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199906140001?deptCodes=YQNHYU"
@@ -10417,7 +10417,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199905740006?deptCodes=YQNHYU"
@@ -10436,7 +10436,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199905860002?deptCodes=YQNHYU"
@@ -10455,7 +10455,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199905420006?deptCodes=YQNHYU"
@@ -10474,7 +10474,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903920066?deptCodes=YQNHYU"
@@ -10493,7 +10493,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904800003?deptCodes=YQNHYU"
@@ -10512,7 +10512,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904460003?deptCodes=YQNHYU"
@@ -10531,7 +10531,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199905000003?deptCodes=YQNHYU"
@@ -10550,7 +10550,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904720010?deptCodes=YQNHYU"
@@ -10569,7 +10569,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904440002?deptCodes=YQNHYU"
@@ -10588,7 +10588,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904560004?deptCodes=YQNHYU"
@@ -10607,7 +10607,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904420005?deptCodes=YQNHYU"
@@ -10626,7 +10626,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904180010?deptCodes=YQNHYU"
@@ -10645,7 +10645,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199904020016?deptCodes=YQNHYU"
@@ -10664,7 +10664,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903820068?deptCodes=YQNHYU"
@@ -10683,7 +10683,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903840064?deptCodes=YQNHYU"
@@ -10702,7 +10702,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#ff6a00",
       "sourceUrl": "https://campus-talent.alibaba.com/campus/position/199903720029?deptCodes=YQNHYU"
@@ -10721,7 +10721,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#b07a2e",
       "sourceUrl": "https://herogames.jobs.feishu.cn/campus/position/7683440313747327295/detail"
@@ -18644,7 +18644,7 @@
       "firstSeen": "9/8",
       "verified": "9/12",
       "deadline": "",
-      "offset": 69,
+      "offset": 68,
       "width": 28,
       "color": "#7b61d1",
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7683041128053311771/detail"
@@ -19138,7 +19138,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78684"
@@ -19157,7 +19157,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78683"
@@ -19176,7 +19176,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78680"
@@ -19195,7 +19195,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78678"
@@ -19214,7 +19214,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78677"
@@ -19233,7 +19233,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78676"
@@ -19252,7 +19252,7 @@
       "firstSeen": "9/7",
       "verified": "9/13",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#b3543f",
       "sourceUrl": "https://app.mokahr.com/campus_apply/aobi/25016#/job/ef06fdf8-7107-473a-9db9-3d7eee75012d"
@@ -19271,7 +19271,7 @@
       "firstSeen": "9/7",
       "verified": "9/12",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7682765623504161033/detail"
@@ -19765,7 +19765,7 @@
       "firstSeen": "9/7",
       "verified": "9/12",
       "deadline": "",
-      "offset": 66,
+      "offset": 65,
       "width": 28,
       "color": "#2fa3a3",
       "sourceUrl": "https://learnings.jobs.feishu.cn/948023/position/7682632524715755814/detail"
@@ -26988,7 +26988,7 @@
       "offset": 57,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2095713505142554624"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974"
     },
     {
       "id": "feishu-lilith-1b269f4bacf5",
@@ -28163,7 +28163,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 56,
+      "offset": 55,
       "width": 28,
       "color": "#00aeec",
       "sourceUrl": "https://jobs.bilibili.com/campus/positions/29738"
@@ -28182,7 +28182,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 56,
+      "offset": 55,
       "width": 28,
       "color": "#00aeec",
       "sourceUrl": "https://jobs.bilibili.com/campus/positions/29740"
@@ -28201,7 +28201,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 56,
+      "offset": 55,
       "width": 28,
       "color": "#00aeec",
       "sourceUrl": "https://jobs.bilibili.com/campus/positions/29739"
@@ -28353,7 +28353,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 55,
+      "offset": 54,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78595"
@@ -29151,7 +29151,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4896"
@@ -29170,7 +29170,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4894"
@@ -29189,7 +29189,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4893"
@@ -29208,7 +29208,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4891"
@@ -29227,7 +29227,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4890"
@@ -29246,7 +29246,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4889"
@@ -29265,7 +29265,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4886"
@@ -29284,7 +29284,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4885"
@@ -29303,7 +29303,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4884"
@@ -29322,7 +29322,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4883"
@@ -29341,7 +29341,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4882"
@@ -29360,7 +29360,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4880"
@@ -29379,7 +29379,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4879"
@@ -29398,7 +29398,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4877"
@@ -29417,7 +29417,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4876"
@@ -29436,7 +29436,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4875"
@@ -29455,7 +29455,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4874"
@@ -29474,7 +29474,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4873"
@@ -29493,7 +29493,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4872"
@@ -29512,7 +29512,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4870"
@@ -29531,7 +29531,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4869"
@@ -29550,7 +29550,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4867"
@@ -29569,7 +29569,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 53,
+      "offset": 52,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://campus.game.163.com/app/detail/index?id=4864"
@@ -30047,7 +30047,7 @@
       "offset": 52,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2094852846817296384"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1"
     },
     {
       "id": "moka-leyuansu-2f89f934194e",
@@ -30063,7 +30063,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/23b9cafb-e2a2-4ddc-8dc5-037ba6e34d0b"
@@ -30082,7 +30082,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/f831d83a-aa34-48b8-bee2-a805e7705ef9"
@@ -30101,7 +30101,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/b6895b1a-9b89-41a2-b98d-0b4edb9c8a78"
@@ -30120,7 +30120,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/18e6bd22-e56f-4659-83b5-04ee4926f148"
@@ -30139,7 +30139,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/cfa7d913-4b4e-4cf5-8d37-79159355a501"
@@ -30158,7 +30158,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/e6aa0db2-6b2c-4236-9126-d2f4c7bf9bd1"
@@ -30177,7 +30177,7 @@
       "firstSeen": "9/4",
       "verified": "9/13",
       "deadline": "",
-      "offset": 51,
+      "offset": 50,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/10598776-5d3e-4843-8a8f-cf474940b11c"
@@ -30310,7 +30310,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 50,
+      "offset": 49,
       "width": 28,
       "color": "#b07a2e",
       "sourceUrl": "https://herogames.jobs.feishu.cn/campus/position/7680456707970435382/detail"
@@ -30690,7 +30690,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76044"
@@ -30709,7 +30709,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76670"
@@ -30728,7 +30728,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78481"
@@ -30747,7 +30747,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78482"
@@ -30766,7 +30766,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78483"
@@ -30785,7 +30785,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78484"
@@ -30804,7 +30804,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77331"
@@ -30823,7 +30823,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77333"
@@ -30842,7 +30842,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78092"
@@ -30861,7 +30861,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78096"
@@ -30880,7 +30880,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78143"
@@ -30899,7 +30899,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78208"
@@ -30918,7 +30918,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78459"
@@ -30937,7 +30937,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76314"
@@ -30956,7 +30956,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77859"
@@ -30975,7 +30975,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77869"
@@ -30994,7 +30994,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78380"
@@ -31013,7 +31013,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78381"
@@ -31032,7 +31032,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78383"
@@ -31051,7 +31051,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78360"
@@ -31070,7 +31070,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77654"
@@ -31089,7 +31089,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78136"
@@ -31108,7 +31108,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78137"
@@ -31127,7 +31127,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78427"
@@ -31146,7 +31146,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=65647"
@@ -31165,7 +31165,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=71014"
@@ -31184,7 +31184,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=74868"
@@ -31203,7 +31203,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77920"
@@ -31222,7 +31222,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77927"
@@ -31241,7 +31241,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78429"
@@ -31260,7 +31260,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76416"
@@ -31279,7 +31279,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77175"
@@ -31298,7 +31298,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77176"
@@ -31317,7 +31317,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77186"
@@ -31336,7 +31336,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77942"
@@ -31355,7 +31355,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78205"
@@ -31374,7 +31374,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77455"
@@ -31393,7 +31393,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=66222"
@@ -31412,7 +31412,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=75440"
@@ -31431,7 +31431,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76972"
@@ -31450,7 +31450,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77222"
@@ -31469,7 +31469,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78002"
@@ -31488,7 +31488,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78252"
@@ -31507,7 +31507,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78257"
@@ -31526,7 +31526,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=71406"
@@ -31545,7 +31545,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77521"
@@ -31564,7 +31564,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78011"
@@ -31583,7 +31583,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=69315"
@@ -31602,7 +31602,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76016"
@@ -31621,7 +31621,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76748"
@@ -31640,7 +31640,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78019"
@@ -31659,7 +31659,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78296"
@@ -31678,7 +31678,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78297"
@@ -31697,7 +31697,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78298"
@@ -31716,7 +31716,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78299"
@@ -31735,7 +31735,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=66815"
@@ -31754,7 +31754,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78063"
@@ -31773,7 +31773,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78075"
@@ -31792,7 +31792,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78076"
@@ -31811,7 +31811,7 @@
       "firstSeen": "9/10",
       "verified": "9/13",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78077"
@@ -33030,7 +33030,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2056636102109999104"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/New-Zealand-Auckland/Game-AI-Product-Management-Intern_R107504-1"
     },
     {
       "id": "mihoyo-4a59535db50a",
@@ -37932,7 +37932,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2079255061007089664"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/XMLNAME-3D-Artist-Intern_R107775"
     },
     {
       "id": "tencent-bc7608e5e93d",
@@ -37951,7 +37951,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2090217297359843328"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Brand-Marketing-Intern_R107926-1"
     },
     {
       "id": "tencent-95c93ba383c5",
@@ -37970,7 +37970,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2034590767716139008"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/PR-Intern---Communications_R107147"
     },
     {
       "id": "tencent-68046a131913",
@@ -37989,7 +37989,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2045205705547476992"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Game-Operations-Intern_R107226"
     },
     {
       "id": "tencent-2f626f354e82",
@@ -38008,7 +38008,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2074242028732071936"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Social-Media-Operation-Intern---_R107689-1"
     },
     {
       "id": "tencent-67e303c1fa87",
@@ -38027,7 +38027,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2080251626811207680"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/France-Paris/Business-Development-Intern--KOL-Endorsements---Partnerships_R107822-1"
     },
     {
       "id": "tencent-896e85f48909",
@@ -38046,7 +38046,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2079889243404156928"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1"
     },
     {
       "id": "tencent-aff92a90b8ca",
@@ -38065,7 +38065,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2078016946175131648"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/World-Model-Research-Intern_R107779"
     },
     {
       "id": "tencent-e18c5514f649",
@@ -38084,7 +38084,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2076869354796003328"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Scientist-Intern_R107754"
     },
     {
       "id": "tencent-6c0a57f95978",
@@ -38103,7 +38103,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2075525480982949888"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--gaming_R107173-1"
     },
     {
       "id": "tencent-455d3edc2933",
@@ -38122,7 +38122,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2047410232166088704"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1"
     },
     {
       "id": "tencent-88977517d25a",
@@ -38141,7 +38141,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2047410236825960448"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1"
     },
     {
       "id": "tencent-a6f531b0da19",
@@ -38160,7 +38160,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2068911916671217664"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R107644-1"
     },
     {
       "id": "tencent-3ae1d8da3049",
@@ -38179,7 +38179,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2056318926173941760"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/France-Paris/Marketing-and-Communication-Assistant-Intern_R107493-1"
     },
     {
       "id": "tencent-887b6a550e3b",
@@ -38198,7 +38198,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=1894950604816568320"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Speech-Synthesis-Intern_R104908"
     },
     {
       "id": "tencent-1089b451c531",
@@ -38217,7 +38217,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2064653849993592832"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Game-Site-Reliability-Engineer-Intern--Malaysia-_R107623"
     },
     {
       "id": "tencent-638481b34e24",
@@ -38236,7 +38236,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2062102032206184448"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Australia-New-South-Wales-Sydney/Computer-Graphics-Intern_R107529"
     },
     {
       "id": "tencent-baf06b3089d0",
@@ -38255,7 +38255,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2062147329208791040"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Product-Engineer-Intern---Game-Development_R107621-1"
     },
     {
       "id": "tencent-c47916df2356",
@@ -38274,7 +38274,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2062102036903800832"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Australia-New-South-Wales-Sydney/Game-Research---Development-Intern--Engine-Research_R107518-1"
     },
     {
       "id": "tencent-bb43c43c7e54",
@@ -38293,7 +38293,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2056258524597628928"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Game-Engineer--Intern-_R107485-1"
     },
     {
       "id": "tencent-9a29f359b3e1",
@@ -38312,7 +38312,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2039588699452375040"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern_R107259-2"
     },
     {
       "id": "tencent-53a19e41c535",
@@ -38331,7 +38331,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2049161781397602304"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Database-Administrator-Intern_R107380"
     },
     {
       "id": "tencent-f059a4a1275f",
@@ -38350,7 +38350,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2049161772883161088"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Database-Administrator-Intern_R107379-1"
     },
     {
       "id": "tencent-be83eb575b3b",
@@ -38369,7 +38369,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2049161768453980160"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Game-Site-Reliability-Engineer-Intern_R107377"
     },
     {
       "id": "tencent-095f14f59014",
@@ -38388,7 +38388,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2047214000353214464"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern_R107361-1"
     },
     {
       "id": "tencent-4c40be268a8b",
@@ -38407,7 +38407,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2042170697505210368"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Osaka/-Environment-Artist-Intern_R107266-1"
     },
     {
       "id": "tencent-2fcf045e1000",
@@ -38426,7 +38426,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2039588695128047616"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Game-ML-Researcher-Intern_R107258-1"
     },
     {
       "id": "tencent-55517500782b",
@@ -38445,7 +38445,7 @@
       "offset": 39,
       "width": 28,
       "color": "#377dff",
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=2034590749785489408"
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/Game-Research-Intern_R107171"
     },
     {
       "id": "throne-bytedance-games-e79cc4dde4a1",
@@ -38632,7 +38632,7 @@
       "firstSeen": "9/9",
       "verified": "9/12",
       "deadline": "",
-      "offset": 37,
+      "offset": 36,
       "width": 28,
       "color": "#b07a2e",
       "sourceUrl": "https://herogames.jobs.feishu.cn/campus/position/7678686797441829126/detail"
@@ -39012,7 +39012,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7678557001631238463/detail"
@@ -39031,7 +39031,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=68492&lang=zh"
@@ -39088,7 +39088,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 34,
+      "offset": 33,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://huanle.jobs.feishu.cn/campus/position/7678285881115756836/detail"
@@ -39506,7 +39506,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 33,
+      "offset": 32,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78398&lang=zh"
@@ -41444,7 +41444,7 @@
       "firstSeen": "9/9",
       "verified": "9/13",
       "deadline": "",
-      "offset": 31,
+      "offset": 30,
       "width": 28,
       "color": "#f06b78",
       "sourceUrl": "https://hr.xd.cn/117745/position/7677875841494042923/detail"
@@ -41900,7 +41900,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=67932&lang=zh"
@@ -41919,7 +41919,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76824&lang=zh"
@@ -41938,7 +41938,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76827&lang=zh"
@@ -41957,7 +41957,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=54425&lang=zh"
@@ -41976,7 +41976,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77551&lang=zh"
@@ -41995,7 +41995,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=63992&lang=zh"
@@ -42014,7 +42014,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=76680&lang=zh"
@@ -42033,7 +42033,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77723&lang=zh"
@@ -42052,7 +42052,7 @@
       "firstSeen": "9/11",
       "verified": "9/13",
       "deadline": "",
-      "offset": 20,
+      "offset": 19,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=77724&lang=zh"
@@ -42822,7 +42822,7 @@
       "company": "波克城市",
       "short": "BOKE",
       "role": "广告投放产品实习生",
-      "category": "市场商务",
+      "category": "产品",
       "city": "上海",
       "type": "实习",
       "recruitmentKind": "internship",
@@ -43002,7 +43002,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675578296570546486/detail"
@@ -43021,7 +43021,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675577312696518975/detail"
@@ -43040,7 +43040,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675575188772391211/detail"
@@ -43059,7 +43059,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675574250610575642/detail"
@@ -43078,7 +43078,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675573010854103338/detail"
@@ -43097,7 +43097,7 @@
       "firstSeen": "9/4",
       "verified": "9/12",
       "deadline": "",
-      "offset": 14,
+      "offset": 13,
       "width": 28,
       "color": "#3d7fd6",
       "sourceUrl": "https://elex-work.jobs.feishu.cn/campus/position/7675572431466121499/detail"
@@ -43990,7 +43990,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://boke.jobs.feishu.cn/581609/position/7674899155042732339/detail"
@@ -44009,7 +44009,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674896722594744619/detail"
@@ -44028,7 +44028,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674896880354314532/detail"
@@ -44047,7 +44047,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674896823600908582/detail"
@@ -44066,7 +44066,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#253047",
       "sourceUrl": "https://kurogame.jobs.feishu.cn/campus/position/7674895755848648979/detail"
@@ -44085,7 +44085,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674895605982791972/detail"
@@ -44104,7 +44104,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674895415565568299/detail"
@@ -44123,7 +44123,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674892305400777006/detail"
@@ -44142,7 +44142,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674891083473766665/detail"
@@ -44161,7 +44161,7 @@
       "firstSeen": "8/31",
       "verified": "9/12",
       "deadline": "",
-      "offset": 9,
+      "offset": 8,
       "width": 28,
       "color": "#e49a22",
       "sourceUrl": "https://wepie.jobs.feishu.cn/359597/position/7674887952749971721/detail"
