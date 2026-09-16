@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[8968,["34","static/chunks/34-fc459a6ff4dbcfa5.js","825","static/chunks/825-c05caa0ed4a7dfd4.js","930","static/chunks/930-d74f7df02798b283.js","206","static/chunks/206-d8c531e8c47b2948.js","648","static/chunks/app/applications/page-3ac3ae613b9a647c.js"],"GameJobAtlasApp"]
+3:I[887,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"applications","initialView":"applications"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DV3lqlaz2je-zTd5-1FuA"}
+5:null
