@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[9150,["34","static/chunks/34-fc459a6ff4dbcfa5.js","825","static/chunks/825-c05caa0ed4a7dfd4.js","529","static/chunks/529-b30dfac9a709eab9.js","150","static/chunks/150-05294f41da292a4a.js","241","static/chunks/app/recruiting-season/page-e41426874fcf5e14.js"],"GameJobAtlasApp"]
+2:I[6014,["34","static/chunks/34-fc459a6ff4dbcfa5.js","825","static/chunks/825-c05caa0ed4a7dfd4.js","218","static/chunks/218-ca87dbd8260ca5cd.js","14","static/chunks/14-8bb4890765b691d3.js","241","static/chunks/app/recruiting-season/page-2253e50c0e75c836.js"],"GameJobAtlasApp"]
 3:I[887,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"recruiting-season","initialView":"campus"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jCI2oLvqSAicJLvMKvCeS"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"recruiting-season","initialView":"campus"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"COD5en0pDiO90CMtOrz5S"}
 5:null
