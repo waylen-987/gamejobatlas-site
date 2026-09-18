@@ -2,5 +2,5 @@
 2:I[9749,["34","static/chunks/34-fc459a6ff4dbcfa5.js","825","static/chunks/825-c05caa0ed4a7dfd4.js","390","static/chunks/390-ded8ef70b1e68954.js","749","static/chunks/749-e02415adbe0cf7d9.js","241","static/chunks/app/recruiting-season/page-215bc7cad6fc4728.js"],"GameJobAtlasApp"]
 3:I[887,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"recruiting-season","initialView":"campus"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HF923oG5QwTH7flaZMCSy"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"recruiting-season","initialView":"campus"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Uju3Sc7HmI_Sky0rkOWV5"}
 5:null
