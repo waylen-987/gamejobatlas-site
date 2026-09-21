@@ -2,5 +2,5 @@
 2:I[7329,["34","static/chunks/34-fc459a6ff4dbcfa5.js","825","static/chunks/825-c05caa0ed4a7dfd4.js","986","static/chunks/986-f37fc3b3767083c1.js","329","static/chunks/329-a7824e97d746e5bf.js","648","static/chunks/app/applications/page-4130f08826ce553b.js"],"GameJobAtlasApp"]
 3:I[887,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"applications","initialView":"applications"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jBdjdOUfxsPgi83tAJIxq"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"destination":"applications","initialView":"applications"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"s4P4qOgmqv3eYEg3Mb3DB"}
 5:null
