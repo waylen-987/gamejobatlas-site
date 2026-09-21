@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-21T02:00:05.250Z",
+  "generatedAt": "2026-09-21T02:30:06.457Z",
   "summary": {
-    "activeJobs": 3306,
+    "activeJobs": 3309,
     "internships": 1483,
-    "campusJobs": 1823,
+    "campusJobs": 1826,
     "companies": 89,
     "healthySources": 103,
     "totalSources": 111,
@@ -17,7 +17,7 @@
       "url": "https://hr.4399om.com/campus/",
       "ok": true,
       "jobCount": 57,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -25,8 +25,8 @@
       "name": "腾讯IEG校招",
       "url": "https://join.qq.com/post.html?query=b_956",
       "ok": true,
-      "jobCount": 302,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "jobCount": 305,
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://jobs.mihoyo.com/campus/position",
       "ok": true,
       "jobCount": 259,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://campus.game.163.com/",
       "ok": true,
       "jobCount": 238,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://boke.jobs.feishu.cn/581609/position/list",
       "ok": true,
       "jobCount": 111,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 83,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -70,8 +70,8 @@
       "name": "莉莉丝校招与实习（飞书）",
       "url": "https://lilithgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
-      "jobCount": 100,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "jobCount": 99,
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://wepie.jobs.feishu.cn/359597/position/list",
       "ok": true,
       "jobCount": 22,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233",
       "ok": true,
       "jobCount": 44,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/shengqu/96336",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438",
       "ok": true,
       "jobCount": 37,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://zhaopin.37.com/index.php?m=Home&c=recruit&a=recruit&recruit=1",
       "ok": true,
       "jobCount": 24,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xishanju/37430",
       "ok": true,
       "jobCount": 45,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://app.mokahr.com/campus_apply/leyuansu/2357",
       "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/garena/148076",
       "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -152,7 +152,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/funplus01/147931",
       "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://app.mokahr.com/campus_apply/feiyu/1633",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/tuyoogame/71965",
       "ok": true,
       "jobCount": 69,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://app.mokahr.com/campus_apply/legougames/6163",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -195,7 +195,7 @@
       "name": "剑心游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/ijianxin/94578",
       "ok": false,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://app.mokahr.com/campus_apply/aobi/25016",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://app.mokahr.com/campus_apply/yokagames/41940",
       "ok": false,
       "jobCount": 6,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/galasports/98034",
       "ok": true,
       "jobCount": 9,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -231,7 +231,7 @@
       "url": "https://app.mokahr.com/campus_apply/shiyuehr/72055",
       "ok": true,
       "jobCount": 36,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -240,7 +240,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/damenglongtu/36328",
       "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://app.mokahr.com/campus_apply/blueinteractive/38434",
       "ok": true,
       "jobCount": 35,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/zlongame/140110",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/micateam/146166",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -276,7 +276,7 @@
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -285,7 +285,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xingjia/69900",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -294,7 +294,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yyxx/118480",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -303,7 +303,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/miao/96149",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/h3d/20007",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -321,7 +321,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/dianchu/144217",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -330,7 +330,7 @@
       "url": "https://app.mokahr.com/campus_apply/yanhun/24017",
       "ok": true,
       "jobCount": 59,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -339,7 +339,7 @@
       "url": "https://app-tc.mokahr.com/campus-recruitment/sgra/20017",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -348,7 +348,7 @@
       "url": "https://app.mokahr.com/campus_apply/droidhang/1458",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://app.mokahr.com/campus_apply/lovegames/21947",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "name": "数字天空校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/digisky/37761",
       "ok": false,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -374,7 +374,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/hellowdtest/166627",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -383,7 +383,7 @@
       "url": "https://app.mokahr.com/campus_apply/yunchanggame/4008",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -391,7 +391,7 @@
       "name": "君海网络校招（Moka）",
       "url": "https://app.mokahr.com/campus-recruitment/junhaigames/39688",
       "ok": false,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -400,7 +400,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/lingxihz/135942",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -408,7 +408,7 @@
       "name": "光宇游戏校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/gyyx/4435",
       "ok": false,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -416,7 +416,7 @@
       "name": "呦尔哈校招（Moka）",
       "url": "https://app.mokahr.com/campus_apply/yorhagames/40940",
       "ok": false,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -425,7 +425,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/xmpaoyou/136103",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -434,7 +434,7 @@
       "url": "https://papergames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 39,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -443,7 +443,7 @@
       "url": "https://ooia5293gn.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -452,7 +452,7 @@
       "url": "https://huayugames.jobs.feishu.cn/210512/position/list",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "url": "https://elex-work.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 16,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -470,7 +470,7 @@
       "url": "https://huanle.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -479,7 +479,7 @@
       "url": "https://jzyxgames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -488,7 +488,7 @@
       "url": "https://learnings.jobs.feishu.cn/948023/position/list",
       "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -497,7 +497,7 @@
       "url": "https://sofunny.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -506,7 +506,7 @@
       "url": "https://gamealestudio.jobs.feishu.cn/007955/m/position/list",
       "ok": true,
       "jobCount": 12,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -515,7 +515,7 @@
       "url": "https://zen-game.jobs.feishu.cn/679976/position/list",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -524,7 +524,7 @@
       "url": "https://coconutisland.jobs.feishu.cn/coconut_campus/position/list",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -533,7 +533,7 @@
       "url": "https://micoworld.jobs.feishu.cn/152087/position/list",
       "ok": true,
       "jobCount": 2,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -542,7 +542,7 @@
       "url": "https://rastargame.jobs.feishu.cn/066491/position/list",
       "ok": true,
       "jobCount": 43,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -551,7 +551,7 @@
       "url": "https://meta.jobs.feishu.cn/140297/position/list",
       "ok": true,
       "jobCount": 44,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -560,7 +560,7 @@
       "url": "https://t7le908iko.jobs.feishu.cn/624052/m/position/list",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -568,7 +568,7 @@
       "name": "白日梦校招（飞书）",
       "url": "https://szbrmwlyx.jobs.feishu.cn/daydreams/position/list",
       "ok": false,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -577,7 +577,7 @@
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326",
       "ok": true,
       "jobCount": 104,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -586,7 +586,7 @@
       "url": "https://campus.zulong.com/campus_apply/zulong/25158",
       "ok": true,
       "jobCount": 17,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -603,7 +603,7 @@
       "url": "https://campus.ourpalm.com/campus-recruitment/ourpalm/43628",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -612,7 +612,7 @@
       "url": "https://campus.tap4fun.com/campus_apply/tap4fun/291",
       "ok": true,
       "jobCount": 8,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -621,7 +621,7 @@
       "url": "https://nd.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -630,7 +630,7 @@
       "url": "https://bingchuan1.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 26,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -639,7 +639,7 @@
       "url": "https://wooduan.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -648,7 +648,7 @@
       "url": "https://9377.zhiye.com/campus/jobs",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -657,7 +657,7 @@
       "url": "https://moonton.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 92,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -666,7 +666,7 @@
       "url": "https://app.mokahr.com/apply/microfunhr/75944",
       "ok": true,
       "jobCount": 19,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -675,7 +675,7 @@
       "url": "https://www.moseeker.com/positions/index/cid/137863",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -684,7 +684,7 @@
       "url": "https://www.yotta-hr.com/zh/job",
       "ok": true,
       "jobCount": 9,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -693,17 +693,17 @@
       "url": "https://app.mokahr.com/campus-recruitment/pwrd/172467",
       "ok": true,
       "jobCount": 100,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
       "key": "bilibili",
       "name": "哔哩哔哩游戏类校招",
       "url": "https://jobs.bilibili.com/campus/positions?code=11&type=3&channel=bilibiliaccounts",
-      "ok": true,
+      "ok": false,
       "jobCount": 17,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
-      "error": null
+      "checkedAt": "2026-09-21T02:30:06.457Z",
+      "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
       "key": "nowcoder-eachina",
@@ -711,7 +711,7 @@
       "url": "https://jobs.ea.com/en_US/careers/Home/?8171=%5B10579%5D&8171_format=5683&listFilterMode=1&jobRecordsPerPage=50",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -720,7 +720,7 @@
       "url": "https://m.nowcoder.com/careers/yh/105949",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -729,7 +729,7 @@
       "url": "https://thatgamecompany.com/careers/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -738,7 +738,7 @@
       "url": "https://zh-cn.ubisoft.com/company/career_result?type=2",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -747,7 +747,7 @@
       "url": "https://www.duole.com/recruitment/school/index",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -756,7 +756,7 @@
       "url": "https://campus.huoyugame.com/job.html",
       "ok": true,
       "jobCount": 28,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -765,7 +765,7 @@
       "url": "https://www.riotgames.com/zh-cn/work-with-us",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -774,7 +774,7 @@
       "url": "https://7doc.com.cn/about.html#job",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -783,7 +783,7 @@
       "url": "https://www.wanxinbuzhi.cn/join/school/",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -792,7 +792,7 @@
       "url": "https://www.jodoinc.com/job/campus",
       "ok": true,
       "jobCount": 0,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -801,7 +801,7 @@
       "url": "https://ddhd.cn/jobs",
       "ok": true,
       "jobCount": 81,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -809,8 +809,8 @@
       "name": "吉比特雷霆校招与实习",
       "url": "https://hr.g-bits.com/web/index.html",
       "ok": true,
-      "jobCount": 106,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "jobCount": 107,
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -819,7 +819,7 @@
       "url": "https://xz.duoyi.com/v40/",
       "ok": true,
       "jobCount": 33,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -828,7 +828,7 @@
       "url": "https://www.babeltime.com/act/zhaopin/campus.html",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -837,7 +837,7 @@
       "url": "https://campus.ct108.com/",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -846,7 +846,7 @@
       "url": "https://official-website.hortorgames.com/",
       "ok": true,
       "jobCount": 3,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -855,7 +855,7 @@
       "url": "https://osswebapp.haofangame.com/test/mobileRecruitment/campus.html",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -864,7 +864,7 @@
       "url": "https://ihr.mis.jjmatch.cn/gateway/api/recruit-website/#/recruit/web/project/eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJjb21wYW55SWRcIjpcImI0YmU0YjBiMzk5YzRkZTBhNmJmMDcwNmQ2MzY4MTMyXCIsXCJ0eXBlXCI6XCJPZmZpY2lhbFwiLFwib2ZmaWNpYWxJZFwiOjEwNTcyMDY4OTEwMzE5NTM0MDh9In0.ChVok_RO598yvIm-RJKVQgExAbJ7aM9nh9T23E0r81I/1057239649527660544_1/1",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -873,7 +873,7 @@
       "url": "https://www.thedream.cc/talent",
       "ok": false,
       "jobCount": 3,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": "来源暂时无法更新，已保留上次有效数据"
     },
     {
@@ -891,7 +891,7 @@
       "url": "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=%7B%22customDept%22%3A%5B%22YQNHYU%22%5D%7D",
       "ok": true,
       "jobCount": 81,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -900,17 +900,17 @@
       "url": "https://hr.xd.cn/117745/position/list#/jobs?page=1&anchorName=jobsList",
       "ok": true,
       "jobCount": 40,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
       "key": "throne-bytedance-games",
       "name": "朝夕光年/字节游戏校招与实习（飞书招聘）",
       "url": "https://jobs.bytedance.com/campus/position?current=1&limit=100",
-      "ok": false,
+      "ok": true,
       "jobCount": 74,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
-      "error": "来源暂时无法更新，已保留上次有效数据"
+      "checkedAt": "2026-09-21T02:30:06.457Z",
+      "error": null
     },
     {
       "key": "throne-66y",
@@ -918,7 +918,7 @@
       "url": "https://jobs.66y.com/campus/position/list?current=1&limit=10",
       "ok": true,
       "jobCount": 13,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -927,7 +927,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/ys4fun/45636",
       "ok": true,
       "jobCount": 5,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -936,7 +936,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/yoozoo/3728",
       "ok": true,
       "jobCount": 36,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -945,7 +945,7 @@
       "url": "https://app.mokahr.com/campus_apply/tavern/39918",
       "ok": true,
       "jobCount": 14,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -954,7 +954,7 @@
       "url": "https://yanqugame.jobs.feishu.cn/xz/position/list",
       "ok": true,
       "jobCount": 7,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -963,7 +963,7 @@
       "url": "https://herogames.jobs.feishu.cn/campus/position/list",
       "ok": true,
       "jobCount": 15,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -972,7 +972,7 @@
       "url": "https://app-tc.mokahr.com/social-recruitment/saluosi/16010",
       "ok": true,
       "jobCount": 6,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -981,7 +981,7 @@
       "url": "https://app.mokahr.com/social-recruitment/yostar/145292",
       "ok": true,
       "jobCount": 4,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -990,7 +990,7 @@
       "url": "https://jobs.omneegames.com/campus/position/list",
       "ok": true,
       "jobCount": 11,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -999,7 +999,7 @@
       "url": "https://leihuo.163.com/campus/#/full",
       "ok": true,
       "jobCount": 189,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -1008,7 +1008,7 @@
       "url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs",
       "ok": true,
       "jobCount": 21,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -1017,7 +1017,7 @@
       "url": "https://snk-corp.jobs.feishu.cn/442908/position/list",
       "ok": true,
       "jobCount": 10,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     },
     {
@@ -1026,7 +1026,7 @@
       "url": "https://cn-jobs.igg.com/public/careers.html",
       "ok": true,
       "jobCount": 1,
-      "checkedAt": "2026-09-21T02:00:05.250Z",
+      "checkedAt": "2026-09-21T02:30:06.457Z",
       "error": null
     }
   ],
@@ -1924,7 +1924,7 @@
       "status": "招聘中",
       "offset": 2,
       "width": 94,
-      "sourceUrl": "https://join.qq.com/post_detail.html?postid=1283045530146251776",
+      "sourceUrl": "https://join.qq.com/post_detail.html?postid=1285066789650506757",
       "startSource": null,
       "endSource": null,
       "startEvidence": null,
@@ -2427,6 +2427,94 @@
     }
   ],
   "jobs": [
+    {
+      "id": "tencent-0ebc0198168a",
+      "company": "腾讯游戏",
+      "short": "TG",
+      "role": "WeGame-AI产品经理",
+      "category": "产品",
+      "city": "深圳总部",
+      "type": "AI产品经理培训生",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "",
+      "firstSeen": "9/21",
+      "verified": "9/21",
+      "deadline": "",
+      "offset": 82,
+      "width": 28,
+      "color": "#377dff",
+      "sourceUrl": "https://join.qq.com/post_detail.html?postid=1285066789650506757",
+      "firstSeenAt": "2026-09-21T02:30:06.457Z",
+      "publishedAt": null,
+      "projectName": "AI产品经理培训生"
+    },
+    {
+      "id": "tencent-fcb4b75653fb",
+      "company": "腾讯游戏",
+      "short": "TG",
+      "role": "光子AI-AI可交互模型原生产品策划",
+      "category": "产品",
+      "city": "中国香港",
+      "type": "AI产品经理培训生",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "",
+      "firstSeen": "9/21",
+      "verified": "9/21",
+      "deadline": "",
+      "offset": 82,
+      "width": 28,
+      "color": "#377dff",
+      "sourceUrl": "https://join.qq.com/post_detail.html?postid=1285066789650506758",
+      "firstSeenAt": "2026-09-21T02:30:06.457Z",
+      "publishedAt": null,
+      "projectName": "AI产品经理培训生"
+    },
+    {
+      "id": "tencent-1b45f8453f75",
+      "company": "腾讯游戏",
+      "short": "TG",
+      "role": "光子AI-AI陪伴类产品策划",
+      "category": "产品",
+      "city": "深圳总部",
+      "type": "AI产品经理培训生",
+      "recruitmentKind": "campus",
+      "status": "open",
+      "statusLabel": "",
+      "firstSeen": "9/21",
+      "verified": "9/21",
+      "deadline": "",
+      "offset": 82,
+      "width": 28,
+      "color": "#377dff",
+      "sourceUrl": "https://join.qq.com/post_detail.html?postid=1285066789650506759",
+      "firstSeenAt": "2026-09-21T02:30:06.457Z",
+      "publishedAt": null,
+      "projectName": "AI产品经理培训生"
+    },
+    {
+      "id": "gbits-e7fbf3d70638",
+      "company": "吉比特雷霆",
+      "short": "GBITS",
+      "role": "税务实习生",
+      "category": "综合职能",
+      "city": "深圳",
+      "type": "实习招聘",
+      "recruitmentKind": "internship",
+      "status": "open",
+      "statusLabel": "",
+      "firstSeen": "9/21",
+      "verified": "9/21",
+      "deadline": "",
+      "offset": 82,
+      "width": 28,
+      "color": "#1f6feb",
+      "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/",
+      "firstSeenAt": "2026-09-21T02:30:06.457Z",
+      "publishedAt": null,
+      "projectName": "吉比特雷霆实习招聘"
+    },
     {
       "id": "moka-xishanju-80cc27fe669a",
       "company": "西山居",
@@ -3327,7 +3415,7 @@
       "status": "new",
       "statusLabel": "",
       "firstSeen": "9/20",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 80,
       "width": 28,
@@ -3471,7 +3559,7 @@
       "firstSeen": "9/20",
       "verified": "9/21",
       "deadline": "",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78999",
@@ -3493,7 +3581,7 @@
       "firstSeen": "9/20",
       "verified": "9/21",
       "deadline": "",
-      "offset": 80,
+      "offset": 79,
       "width": 28,
       "color": "#f06b78",
       "sourceUrl": "https://hr.xd.cn/117745/position/7687465250287339819/detail",
@@ -6064,7 +6152,7 @@
       "status": "new",
       "statusLabel": "",
       "firstSeen": "9/17",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 72,
       "width": 28,
@@ -6542,7 +6630,7 @@
       "firstSeen": "9/17",
       "verified": "9/21",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#1f6feb",
       "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/",
@@ -6564,7 +6652,7 @@
       "firstSeen": "9/17",
       "verified": "9/21",
       "deadline": "",
-      "offset": 72,
+      "offset": 71,
       "width": 28,
       "color": "#1f6feb",
       "sourceUrl": "https://hr.g-bits.com/web/index.html?sessionid=#/post-web/post-list/",
@@ -7105,7 +7193,7 @@
       "firstSeen": "9/16",
       "verified": "9/21",
       "deadline": "",
-      "offset": 69,
+      "offset": 68,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://ooia5293gn.jobs.feishu.cn/campus/position/7685969352152271131/detail",
@@ -7173,7 +7261,7 @@
       "status": "new",
       "statusLabel": "",
       "firstSeen": "9/16",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 68,
       "width": 28,
@@ -7219,7 +7307,7 @@
       "status": "new",
       "statusLabel": "",
       "firstSeen": "9/16",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 68,
       "width": 28,
@@ -8738,7 +8826,7 @@
       "firstSeen": "9/15",
       "verified": "9/21",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#2b7de9",
       "sourceUrl": "https://campus.ct108.com/",
@@ -8760,7 +8848,7 @@
       "firstSeen": "9/15",
       "verified": "9/21",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#2b7de9",
       "sourceUrl": "https://campus.ct108.com/",
@@ -8784,7 +8872,7 @@
       "firstSeen": "9/15",
       "verified": "9/21",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78887",
@@ -8808,7 +8896,7 @@
       "firstSeen": "9/15",
       "verified": "9/21",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78886",
@@ -8832,7 +8920,7 @@
       "firstSeen": "9/15",
       "verified": "9/21",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78884",
@@ -8856,7 +8944,7 @@
       "firstSeen": "9/15",
       "verified": "9/21",
       "deadline": "",
-      "offset": 67,
+      "offset": 66,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=78882",
@@ -9772,7 +9860,7 @@
       "city": "上海",
       "type": "雷火日常实习",
       "recruitmentKind": "internship",
-      "status": "new",
+      "status": "open",
       "statusLabel": "",
       "firstSeen": "9/14",
       "verified": "9/21",
@@ -9796,7 +9884,7 @@
       "city": "北京",
       "type": "雷火日常实习",
       "recruitmentKind": "internship",
-      "status": "new",
+      "status": "open",
       "statusLabel": "",
       "firstSeen": "9/11",
       "verified": "9/21",
@@ -12490,7 +12578,7 @@
       "firstSeen": "9/11",
       "verified": "9/21",
       "deadline": "",
-      "offset": 54,
+      "offset": 53,
       "width": 28,
       "color": "#3fa66a",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/38a9187c-128f-448f-8ef2-bd77c8200e5b",
@@ -18555,7 +18643,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/10",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 53,
       "width": 28,
@@ -28916,7 +29004,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 47,
       "width": 28,
@@ -29182,7 +29270,7 @@
       "firstSeen": "9/8",
       "verified": "9/21",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#1f9d68",
       "sourceUrl": "https://meta.jobs.feishu.cn/140297/position/7682989321548417316/detail",
@@ -29202,9 +29290,9 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#3256d9",
       "sourceUrl": "https://jobs.bytedance.com/campus/position/7682986534270748933/detail",
@@ -29228,7 +29316,7 @@
       "firstSeen": "9/10",
       "verified": "9/21",
       "deadline": "",
-      "offset": 47,
+      "offset": 46,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=74746",
@@ -29692,7 +29780,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 44,
       "width": 28,
@@ -37363,7 +37451,7 @@
       "firstSeen": "9/4",
       "verified": "9/21",
       "deadline": "",
-      "offset": 36,
+      "offset": 35,
       "width": 28,
       "color": "#6a63c9",
       "sourceUrl": "https://huanle.jobs.feishu.cn/campus/position/7681493952835864838/detail",
@@ -38170,7 +38258,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 34,
       "width": 28,
@@ -38920,7 +39008,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 31,
       "width": 28,
@@ -39774,7 +39862,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 31,
       "width": 28,
@@ -40434,7 +40522,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 28,
       "width": 28,
@@ -40506,7 +40594,7 @@
       "firstSeen": "9/11",
       "verified": "9/21",
       "deadline": "",
-      "offset": 28,
+      "offset": 27,
       "width": 28,
       "color": "#e03a3e",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=60455&lang=zh",
@@ -40530,7 +40618,7 @@
       "firstSeen": "9/10",
       "verified": "9/21",
       "deadline": "",
-      "offset": 28,
+      "offset": 27,
       "width": 28,
       "color": "#13a77d",
       "sourceUrl": "https://hr.163.com/job-detail.html?id=71715",
@@ -40554,7 +40642,7 @@
       "firstSeen": "9/1",
       "verified": "9/21",
       "deadline": "",
-      "offset": 28,
+      "offset": 27,
       "width": 28,
       "color": "#f2643d",
       "sourceUrl": "https://jobs.mihoyo.com/#/campus/position/7235",
@@ -40612,6 +40700,7 @@
       "company": "柠檬微趣",
       "short": "MICROFUN",
       "role": "游戏本地化实习生(韩语)",
+      "description": "暂无\n公司信息\n北京柠檬微趣科技股份有限公司\n柠檬微趣，诞生于2008年8月，是中国领先的手机休闲游戏开发商和运营商之一！\n我们的热门产品《宾果消消消》《飞屋消消消》《梦幻蛋糕店》等，在全球累计注册用户数超过3亿。\n2021年，柠檬微趣连续推出了《Merge Fables》（童话融合记）、《Merge County》（小镇崛起）、《GossipHarbor》（浪漫餐厅）、《Seaside Escape》（梦幻旅行）等创新合成游戏，海外市场表现强劲，游戏用户遍及100余个国家和地区。\n《宾果消消消》自上线以来广受玩家好评，稳居消除类手游前三。\n集悬疑与温情的剧情向合成游戏Gossip Harbor（浪漫餐厅），建设小镇、推动剧情的合成游戏SeasideEscape（梦幻旅行）均跻身2024年中国手游海外收入TOP15。\n2026年上半年，柠檬微趣收入稳健增长，目前是中国游戏厂商出海收入榜单第3名，并稳居全球合成游戏品类收入榜首。",
       "category": "游戏运营",
       "city": "北京",
       "type": "日常实习",
@@ -40710,7 +40799,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 25,
       "width": 28,
@@ -43236,7 +43325,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 17,
       "width": 28,
@@ -49895,7 +49984,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 17,
       "width": 28,
@@ -50251,7 +50340,7 @@
       "firstSeen": "9/9",
       "verified": "9/21",
       "deadline": "",
-      "offset": 15,
+      "offset": 14,
       "width": 28,
       "color": "#f06b78",
       "sourceUrl": "https://hr.xd.cn/117745/position/7678638940338096426/detail",
@@ -50562,7 +50651,7 @@
       "firstSeen": "9/12",
       "verified": "9/21",
       "deadline": "",
-      "offset": 13,
+      "offset": 12,
       "width": 28,
       "color": "#8a5cd6",
       "sourceUrl": "https://app.mokahr.com/campus-recruitment/hellowdtest/166627#/job/84caf90e-a5e6-450e-88cd-0dcfe3a47988",
@@ -53473,7 +53562,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -63352,7 +63441,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -64285,7 +64374,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -64307,7 +64396,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -64329,7 +64418,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -64351,7 +64440,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -64971,7 +65060,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -64993,7 +65082,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65015,7 +65104,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65037,7 +65126,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65059,7 +65148,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65129,7 +65218,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65151,7 +65240,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65173,7 +65262,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65195,7 +65284,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65217,7 +65306,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65239,7 +65328,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65261,7 +65350,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65283,7 +65372,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65329,7 +65418,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65351,7 +65440,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65373,7 +65462,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65419,7 +65508,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65441,7 +65530,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65463,7 +65552,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65485,7 +65574,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65507,7 +65596,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65529,7 +65618,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65575,7 +65664,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65621,7 +65710,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65667,7 +65756,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65737,7 +65826,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65759,7 +65848,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65781,7 +65870,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65803,7 +65892,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65849,7 +65938,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65871,7 +65960,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65917,7 +66006,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65939,7 +66028,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65961,7 +66050,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -65983,7 +66072,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -66029,7 +66118,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -72480,7 +72569,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -72664,7 +72753,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -72780,7 +72869,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -73011,7 +73100,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -73412,7 +73501,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -74172,7 +74261,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -74241,7 +74330,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -74837,30 +74926,6 @@
       "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7625973226809035059/detail",
       "firstSeenAt": "2026-08-31T03:22:20.430Z",
       "publishedAt": "2026-04-07T11:19:39.733Z",
-      "projectName": "实习"
-    },
-    {
-      "id": "feishu-lilith-1e1db425e2c8",
-      "company": "莉莉丝",
-      "short": "LLS",
-      "role": "招聘实习生",
-      "description": "1.重点支持校招和社招的招聘内容，完成招聘全链路工作，包括但不限于深刻了解岗位要求，吸引人才，积极推进面试及offer发放等。\n2.有效开拓并维护招聘渠道，包括但不限于内推、外部招聘网站等常见的招聘渠道。\n3. 具有人才地图理念，根据业务部门人才战略及部署定向挖掘特优人才，迅速交付。",
-      "requirement": "1.本科及以上在读，28届毕业生或大四已保研同学优先。\n2.善于沟通，有责任感，自驱力强，有良好的学习意愿和能力。\n3.热爱招聘工作，具备主动挖掘人才、和人才快速建立关系的热情和能力。\n4.每周能实习4-5天，实习周期在4个月以上。\n\nPS：简历请附上每周可以实习的时间及实习周期。",
-      "category": "综合职能",
-      "city": "上海",
-      "type": "实习",
-      "recruitmentKind": "internship",
-      "status": "open",
-      "statusLabel": "",
-      "firstSeen": "9/1",
-      "verified": "9/21",
-      "deadline": "",
-      "offset": 2,
-      "width": 28,
-      "color": "#7b61d1",
-      "sourceUrl": "https://lilithgames.jobs.feishu.cn/intern/position/7625850950138579219/detail",
-      "firstSeenAt": "2026-09-01T02:04:14.044Z",
-      "publishedAt": "2026-04-07T03:18:57.823Z",
       "projectName": "实习"
     },
     {
@@ -76148,7 +76213,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -78080,7 +78145,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -78221,7 +78286,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -78243,7 +78308,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -78289,7 +78354,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -78359,7 +78424,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -79023,7 +79088,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -79093,7 +79158,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -79496,7 +79561,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
@@ -79518,7 +79583,7 @@
       "status": "open",
       "statusLabel": "",
       "firstSeen": "9/9",
-      "verified": "9/20",
+      "verified": "9/21",
       "deadline": "",
       "offset": 2,
       "width": 28,
