@@ -1,4 +1,4 @@
 :HL["/gamejobatlas-site/_next/static/css/b86b764b626f0b8c.css","style"]
 :HL["/gamejobatlas-site/_next/static/css/b884c741acd264ac.css","style"]
 :HL["/gamejobatlas-site/_next/static/css/c8e8ec62fb185b27.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"recruiting-season","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"tsppUElOXqb8wur3el8Ca"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"recruiting-season","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LueTldD8BCnX99pyIgJWH"}
